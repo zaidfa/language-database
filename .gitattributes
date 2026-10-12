@@ -1,0 +1,9 @@
+# Keep layout/manifest bytes EXACTLY as committed so the SHA-256 checksums in manifest.json match
+# what GitHub serves via raw.githubusercontent.com on every platform (no CRLF/LF rewriting).
+*.json -text
+schemas/*.json -text
+
+# Tooling stays LF.
+*.py text eol=lf
+*.mjs text eol=lf
+*.md text eol=lf
