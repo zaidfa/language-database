@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "languageId": "ja",
+  "layoutId": "japanese-hiragana",
+  "layoutName": "Japanese Hiragana (JIS kana)",
+  "languageName": "Japanese",
+  "nativeName": "日本語",
+  "localeTag": "ja",
+  "script": "Jpan",
+  "direction": "ltr",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": false,
+    "composition": true,
+    "notes": "Outputs hiragana directly at JIS-kana positions. Kana->Kanji conversion and candidate selection are NOT implemented; only direct hiragana input is produced."
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/japanese",
+    "verification": "unverified",
+    "notes": "JIS kana base positions. Shift layer (small kana / alternates) partially filled. Pending manual Branah verification and an IME conversion engine."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "ぬ",
+          "shift": "ぬ"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "ふ",
+          "shift": "ふ"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "あ",
+          "shift": "ぁ"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "う",
+          "shift": "ぅ"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "え",
+          "shift": "ぇ"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "お",
+          "shift": "ぉ"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "や",
+          "shift": "ゃ"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "ゆ",
+          "shift": "ゅ"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "よ",
+          "shift": "ょ"
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "わ",
+          "shift": "を"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "た",
+          "shift": "た"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "て",
+          "shift": "て"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "い",
+          "shift": "ぃ"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "す",
+          "shift": "す"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "か",
+          "shift": "か"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "ん",
+          "shift": "ん"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "な",
+          "shift": "な"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "に",
+          "shift": "に"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "ら",
+          "shift": "ら"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "せ",
+          "shift": "せ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "ち",
+          "shift": "ち"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "と",
+          "shift": "と"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "し",
+          "shift": "し"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "は",
+          "shift": "は"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "き",
+          "shift": "き"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "く",
+          "shift": "く"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "ま",
+          "shift": "ま"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "の",
+          "shift": "の"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "り",
+          "shift": "り"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "つ",
+          "shift": "っ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "さ",
+          "shift": "さ"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "そ",
+          "shift": "そ"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "ひ",
+          "shift": "ひ"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "こ",
+          "shift": "こ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "み",
+          "shift": "み"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "も",
+          "shift": "も"
+        }
+      ]
+    }
+  ]
+}

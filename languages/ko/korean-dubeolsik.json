@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "languageId": "ko",
+  "layoutId": "korean-dubeolsik",
+  "layoutName": "Korean (Dubeolsik 2-set)",
+  "languageName": "Korean",
+  "nativeName": "한국어",
+  "localeTag": "ko",
+  "script": "Hang",
+  "direction": "ltr",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": false,
+    "composition": true,
+    "notes": "Outputs individual jamo at the correct 2-set positions. Automatic jamo->syllable BLOCK composition is NOT implemented; typed jamo appear uncombined until a composition engine is added."
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/korean",
+    "verification": "unverified",
+    "notes": "Base + Shift jamo positions follow the standard 2-set (두벌식). Pending manual Branah verification and a Hangul composition engine."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "1",
+          "shift": "!"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "2",
+          "shift": "@"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "3",
+          "shift": "#"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "4",
+          "shift": "$"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "5",
+          "shift": "%"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "6",
+          "shift": "^"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "7",
+          "shift": "&"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "8",
+          "shift": "*"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "9",
+          "shift": "("
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "0",
+          "shift": ")"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "ㅂ",
+          "shift": "ㅃ"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "ㅈ",
+          "shift": "ㅉ"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "ㄷ",
+          "shift": "ㄸ"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "ㄱ",
+          "shift": "ㄲ"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "ㅅ",
+          "shift": "ㅆ"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "ㅛ",
+          "shift": "ㅛ"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "ㅕ",
+          "shift": "ㅕ"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "ㅑ",
+          "shift": "ㅑ"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "ㅐ",
+          "shift": "ㅒ"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "ㅔ",
+          "shift": "ㅖ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "ㅁ",
+          "shift": "ㅁ"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "ㄴ",
+          "shift": "ㄴ"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "ㅇ",
+          "shift": "ㅇ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "ㄹ",
+          "shift": "ㄹ"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "ㅎ",
+          "shift": "ㅎ"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "ㅗ",
+          "shift": "ㅗ"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "ㅓ",
+          "shift": "ㅓ"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "ㅏ",
+          "shift": "ㅏ"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "ㅣ",
+          "shift": "ㅣ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "ㅋ",
+          "shift": "ㅋ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ㅌ",
+          "shift": "ㅌ"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "ㅊ",
+          "shift": "ㅊ"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "ㅍ",
+          "shift": "ㅍ"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "ㅠ",
+          "shift": "ㅠ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "ㅜ",
+          "shift": "ㅜ"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "ㅡ",
+          "shift": "ㅡ"
+        }
+      ]
+    }
+  ]
+}

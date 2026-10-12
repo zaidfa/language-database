@@ -1,0 +1,294 @@
+{
+  "manifestSchemaVersion": 1,
+  "databaseVersion": "1.0.0",
+  "lastUpdated": "2026-10-12T00:00:00Z",
+  "minAppVersion": 1,
+  "languages": [
+    {
+      "languageId": "ar",
+      "languageName": "Arabic",
+      "nativeName": "العربية",
+      "localeTag": "ar",
+      "script": "Arab",
+      "direction": "rtl",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "arabic-101",
+          "layoutName": "Arabic (101)",
+          "path": "languages/ar/arabic-101.json",
+          "formatVersion": 1,
+          "sizeBytes": 5356,
+          "sha256": "157ac8ea729bd6e4dec47eadebb47cf631e00f35462b52a3344d3b41f661bec8",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "de",
+      "languageName": "German",
+      "nativeName": "Deutsch",
+      "localeTag": "de",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "german-qwertz",
+          "layoutName": "German QWERTZ",
+          "path": "languages/de/german-qwertz.json",
+          "formatVersion": 1,
+          "sizeBytes": 5238,
+          "sha256": "8a4fa80252247b8067f7ec5d0ebc9b5c3268b95d6b293bf295deb079a0f94407",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "en",
+      "languageName": "English",
+      "nativeName": "English",
+      "localeTag": "en",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "branah-verified",
+      "layouts": [
+        {
+          "layoutId": "english-qwerty",
+          "layoutName": "English QWERTY",
+          "path": "languages/en/english-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 4392,
+          "sha256": "5abacf0f04bbe6c6f6ce7f9702f8b80b100d6143e22d6fbe6caa76d8533aa0ef",
+          "verification": "branah-verified"
+        }
+      ]
+    },
+    {
+      "languageId": "es",
+      "languageName": "Spanish",
+      "nativeName": "Español",
+      "localeTag": "es",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "spanish-qwerty",
+          "layoutName": "Spanish QWERTY",
+          "path": "languages/es/spanish-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 5073,
+          "sha256": "24cc351c18e574d8eac8dc76a921fd57847237aae1ff011e145f2856c945028b",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "fa",
+      "languageName": "Persian",
+      "nativeName": "فارسی",
+      "localeTag": "fa",
+      "script": "Arab",
+      "direction": "rtl",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "persian-standard",
+          "layoutName": "Persian (Standard)",
+          "path": "languages/fa/persian-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 5217,
+          "sha256": "c0acb8af201020ab445ed0fbc31a319adb10ba65b5f237febe511c3234056455",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "fr",
+      "languageName": "French",
+      "nativeName": "Français",
+      "localeTag": "fr",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "french-azerty",
+          "layoutName": "French AZERTY",
+          "path": "languages/fr/french-azerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 4971,
+          "sha256": "fe9d5f2cbe9ba0ef96dd9d489f4f7e8d87c333494fc9e01a1d6508f2a26652e6",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "hi",
+      "languageName": "Hindi",
+      "nativeName": "हिन्दी",
+      "localeTag": "hi",
+      "script": "Deva",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "hindi-inscript",
+          "layoutName": "Hindi (InScript)",
+          "path": "languages/hi/hindi-inscript.json",
+          "formatVersion": 1,
+          "sizeBytes": 5393,
+          "sha256": "17b1e50997b91c7c26426461361f8552250df9de4b9e6feeeab97ada1d3eb7a0",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ja",
+      "languageName": "Japanese",
+      "nativeName": "日本語",
+      "localeTag": "ja",
+      "script": "Jpan",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": true
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "japanese-hiragana",
+          "layoutName": "Japanese Hiragana (JIS kana)",
+          "path": "languages/ja/japanese-hiragana.json",
+          "formatVersion": 1,
+          "sizeBytes": 4779,
+          "sha256": "936f61766cb2883aba4aa000501d6cf1d02f6e48bfbaf4ba9ee4724c219e15ea",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "km",
+      "languageName": "Khmer",
+      "nativeName": "ភាសាខ្មែរ",
+      "localeTag": "km",
+      "script": "Khmr",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "khmer-nida",
+          "layoutName": "Khmer (NiDA)",
+          "path": "languages/km/khmer-nida.json",
+          "formatVersion": 1,
+          "sizeBytes": 4788,
+          "sha256": "5717e7be2ebb7c390a4bda443e7626da69a477a9cddc21822aac637bbe7d51d7",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ko",
+      "languageName": "Korean",
+      "nativeName": "한국어",
+      "localeTag": "ko",
+      "script": "Hang",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": true
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "korean-dubeolsik",
+          "layoutName": "Korean (Dubeolsik 2-set)",
+          "path": "languages/ko/korean-dubeolsik.json",
+          "formatVersion": 1,
+          "sizeBytes": 4747,
+          "sha256": "fd60987a25a78468fc55184cb3a18e51edb824fb7f7e5c064d7feb1b204eb1be",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ru",
+      "languageName": "Russian",
+      "nativeName": "Русский",
+      "localeTag": "ru",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "russian-jcuken",
+          "layoutName": "Russian (ЙЦУКЕН)",
+          "path": "languages/ru/russian-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 5316,
+          "sha256": "331dc525874ccdd0f224308f39c8c3f53c78a2f2988840fa7605e09958b03d09",
+          "verification": "layout-reviewed"
+        }
+      ]
+    }
+  ]
+}

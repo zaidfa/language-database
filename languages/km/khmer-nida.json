@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "languageId": "km",
+  "layoutId": "khmer-nida",
+  "layoutName": "Khmer (NiDA)",
+  "languageName": "Khmer",
+  "nativeName": "ភាសាខ្មែរ",
+  "localeTag": "km",
+  "script": "Khmr",
+  "direction": "ltr",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": true,
+    "composition": false,
+    "notes": "Khmer uses subscripts (coeng) and stacking handled by the OS renderer. The app emits exact code points; it does not re-order or validate cluster sequences."
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/khmer",
+    "verification": "unverified",
+    "notes": "Replaces the mislabelled bundled layout (the old qwerty_khmer.xml actually held Korean jamo). NiDA base + Shift layers partially filled. Pending manual Branah verification."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "១",
+          "shift": "!"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "២",
+          "shift": "ៗ"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "៣",
+          "shift": "\""
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "៤",
+          "shift": "៛"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "៥",
+          "shift": "%"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "៦",
+          "shift": "៍"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "៧",
+          "shift": "័"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "៨",
+          "shift": "ៈ"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "៩",
+          "shift": "("
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "០",
+          "shift": ")"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "ឆ",
+          "shift": "ឈ"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "ឹ",
+          "shift": "ឹ"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "េ",
+          "shift": "ែ"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "រ",
+          "shift": "ឬ"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "ត",
+          "shift": "ទ"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "យ",
+          "shift": "ួ"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "ុ",
+          "shift": "ូ"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "ិ",
+          "shift": "ី"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "ោ",
+          "shift": "ៅ"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "ផ",
+          "shift": "ភ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "ា",
+          "shift": "ាំ"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "ស",
+          "shift": "ៃ"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "ដ",
+          "shift": "ឌ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "ថ",
+          "shift": "ធ"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "ង",
+          "shift": "អ"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "ហ",
+          "shift": "ះ"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "្",
+          "shift": "ញ"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "ក",
+          "shift": "គ"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "ល",
+          "shift": "ឡ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "ឋ",
+          "shift": "ឍ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ខ",
+          "shift": "ឃ"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "ច",
+          "shift": "ជ"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "វ",
+          "shift": "េ"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "ប",
+          "shift": "ព"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "ន",
+          "shift": "ណ"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "ម",
+          "shift": "ំ"
+        }
+      ]
+    }
+  ]
+}
