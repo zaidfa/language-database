@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "languageId": "si",
+  "layoutId": "sinhala-wijesekara",
+  "layoutName": "Sinhala (Wijesekara)",
+  "languageName": "Sinhala",
+  "nativeName": "සිංහල",
+  "localeTag": "si",
+  "script": "Sinh",
+  "direction": "ltr",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": true,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/sinhala",
+    "verification": "unverified",
+    "notes": "Sinhala commonly uses the Wijesekara layout, NOT InScript. This is a best-effort vowels-then-consonants arrangement (independent vowels අ ආ ඇ ... then consonants ක ග ච ජ ට ...), with vowel-signs/matras where appropriate. The actual Wijesekara physical key positions are quite different and need key-by-key verification against Branah."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "1",
+          "shift": "1"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "2",
+          "shift": "2"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "3",
+          "shift": "3"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "4",
+          "shift": "4"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "5",
+          "shift": "5"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "6",
+          "shift": "6"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "7",
+          "shift": "7"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "8",
+          "shift": "8"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "9",
+          "shift": "("
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "0",
+          "shift": ")"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "අ",
+          "shift": "ආ"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "ඇ",
+          "shift": "ඈ"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "ඉ",
+          "shift": "ඊ"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "උ",
+          "shift": "ඌ"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "එ",
+          "shift": "ඒ"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "ඔ",
+          "shift": "ඕ"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "ඓ",
+          "shift": "ඖ"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "ඍ",
+          "shift": "ඎ"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "ඏ",
+          "shift": "ඐ"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "ං",
+          "shift": "ඃ"
+        },
+        {
+          "keyId": "row-1-11",
+          "normal": "ා",
+          "shift": "ැ"
+        },
+        {
+          "keyId": "row-1-12",
+          "normal": "ෑ",
+          "shift": "ි"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "ක",
+          "shift": "ඛ"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "ග",
+          "shift": "ඝ"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "ඞ",
+          "shift": "ඟ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "ච",
+          "shift": "ඡ"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "ජ",
+          "shift": "ඣ"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "ඤ",
+          "shift": "ඦ"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "ට",
+          "shift": "ඨ"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "ඩ",
+          "shift": "ඪ"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "ණ",
+          "shift": "ඬ"
+        },
+        {
+          "keyId": "row-2-10",
+          "normal": "ත",
+          "shift": "ථ"
+        },
+        {
+          "keyId": "row-2-11",
+          "normal": "ද",
+          "shift": "ධ"
+        },
+        {
+          "keyId": "row-2-12",
+          "normal": "න",
+          "shift": "ඳ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "ප",
+          "shift": "ඵ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "බ",
+          "shift": "භ"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "ම",
+          "shift": "ඹ"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "ය",
+          "shift": "ර"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "ල",
+          "shift": "ළ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "ව",
+          "shift": "ශ"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "ෂ",
+          "shift": "ස"
+        },
+        {
+          "keyId": "row-3-8",
+          "normal": "හ",
+          "shift": "ෆ"
+        },
+        {
+          "keyId": "row-3-9",
+          "normal": "්",
+          "shift": "ෘ"
+        }
+      ]
+    }
+  ]
+}

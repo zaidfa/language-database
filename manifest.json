@@ -5,6 +5,162 @@
   "minAppVersion": 1,
   "languages": [
     {
+      "languageId": "ab",
+      "languageName": "Abkhaz",
+      "nativeName": "Аҧсуа",
+      "localeTag": "ab",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "abkhaz-jcuken",
+          "layoutName": "Abkhaz (ЙЦУКЕН)",
+          "path": "languages/ab/abkhaz-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 4039,
+          "sha256": "0b9bfe810b5bdf35f551eddeab63a4244cb3d7ae52a042553c425ef8a743a427",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ace",
+      "languageName": "Acehnese",
+      "nativeName": "Bahsa Acèh",
+      "localeTag": "ace",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "acehnese-qwerty",
+          "layoutName": "Acehnese QWERTY",
+          "path": "languages/ace/acehnese-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3499,
+          "sha256": "a6e653f80054f045b6be098de8811cb2bf9474730bd74e23a2760f9e328a1651",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "af",
+      "languageName": "Afrikaans",
+      "nativeName": "Afrikaans",
+      "localeTag": "af",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "afrikaans-qwerty",
+          "layoutName": "Afrikaans QWERTY",
+          "path": "languages/af/afrikaans-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3938,
+          "sha256": "4dec01f92d5727f120aa4b86951883c39e958055894f519bd569ef7e19664d8d",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ak",
+      "languageName": "Akan",
+      "nativeName": "Akan",
+      "localeTag": "ak",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "akan-qwerty",
+          "layoutName": "Akan QWERTY",
+          "path": "languages/ak/akan-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 5123,
+          "sha256": "7c8dcb00f72b3256608e125dbce9c6a184c85404ffa1648bdc474caeb58cdc9c",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "am",
+      "languageName": "Amharic",
+      "nativeName": "አማርኛ",
+      "localeTag": "am",
+      "script": "Ethi",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "composing",
+        "combining": false,
+        "composition": true
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "amharic-fidel",
+          "layoutName": "Amharic (Geʽez)",
+          "path": "languages/am/amharic-fidel.json",
+          "formatVersion": 1,
+          "sizeBytes": 5367,
+          "sha256": "b061f059ea34649e1b0ebd965e2f2de18de4a631ef6f36f60e44087c2f2d7efe",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "an",
+      "languageName": "Aragonese",
+      "nativeName": "Aragonés",
+      "localeTag": "an",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "aragonese-qwerty",
+          "layoutName": "Aragonese QWERTY",
+          "path": "languages/an/aragonese-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3544,
+          "sha256": "59f3d887f12eb05e94f48349cc3a45ad1e9373c5024aa9a14e06f1569af68526",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
       "languageId": "ar",
       "languageName": "Arabic",
       "nativeName": "العربية",
@@ -26,6 +182,864 @@
           "formatVersion": 1,
           "sizeBytes": 5356,
           "sha256": "157ac8ea729bd6e4dec47eadebb47cf631e00f35462b52a3344d3b41f661bec8",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "as",
+      "languageName": "Assamese",
+      "nativeName": "অসমীয়া",
+      "localeTag": "as",
+      "script": "Beng",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "assamese-inscript",
+          "layoutName": "Assamese (InScript)",
+          "path": "languages/as/assamese-inscript.json",
+          "formatVersion": 1,
+          "sizeBytes": 5459,
+          "sha256": "a746dae2ba4c6c5cc815ed78db0c37fc4311fb3150744f426ad24e628f60fffe",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ast",
+      "languageName": "Asturian",
+      "nativeName": "Asturianu",
+      "localeTag": "ast",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "asturian-qwerty",
+          "layoutName": "Asturian QWERTY",
+          "path": "languages/ast/asturian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3682,
+          "sha256": "2c1e2eadc368f9279941bd83c12bc8ad01ba55002b3b1df66a4451bd3787df6f",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "av",
+      "languageName": "Avar",
+      "nativeName": "Магӏарул мацӏ",
+      "localeTag": "av",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "avar-jcuken",
+          "layoutName": "Avar (ЙЦУКЕН)",
+          "path": "languages/av/avar-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 3910,
+          "sha256": "651a761ec81cc8e8ed120b58541adffb32cb03f145651358574c18cbddc1785f",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ay",
+      "languageName": "Aymara",
+      "nativeName": "Aymar aru",
+      "localeTag": "ay",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "aymara-qwerty",
+          "layoutName": "Aymara QWERTY",
+          "path": "languages/ay/aymara-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3409,
+          "sha256": "47ba49e90006656f3e3be5d68202bc6829aaf3ccd2a4d4fe6c5d9a66355495fb",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "az",
+      "languageName": "Azerbaijani",
+      "nativeName": "Azərbaycan dili",
+      "localeTag": "az",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "azerbaijani-latin",
+          "layoutName": "Azerbaijani (Latin)",
+          "path": "languages/az/azerbaijani-latin.json",
+          "formatVersion": 1,
+          "sizeBytes": 5211,
+          "sha256": "880341f48f2427627de819febfdc35f463b16d7fb296ad7e713947b19c55f5cc",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ba",
+      "languageName": "Bashkir",
+      "nativeName": "Башҡорт",
+      "localeTag": "ba",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "bashkir-jcuken",
+          "layoutName": "Bashkir (ЙЦУКЕН)",
+          "path": "languages/ba/bashkir-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 5417,
+          "sha256": "a0c8f4160495254f79a07f60338b336daf11b3cf12dab8b7059423414228021b",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ban",
+      "languageName": "Balinese",
+      "nativeName": "Basa Bali",
+      "localeTag": "ban",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "balinese-latin",
+          "layoutName": "Balinese (Latin)",
+          "path": "languages/ban/balinese-latin.json",
+          "formatVersion": 1,
+          "sizeBytes": 3444,
+          "sha256": "d2a73e470d2f6dbc2bcd2f78946b22046810768a13d81f2767a1d5b42f14f55e",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "bar",
+      "languageName": "Bavarian",
+      "nativeName": "Boarisch",
+      "localeTag": "bar",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "bavarian-qwertz",
+          "layoutName": "Bavarian QWERTZ",
+          "path": "languages/bar/bavarian-qwertz.json",
+          "formatVersion": 1,
+          "sizeBytes": 3444,
+          "sha256": "f2b038a614db3a7eb24154bd24bdd31ab78ec53b036a741d7a9d38206e3c7a18",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "be",
+      "languageName": "Belarusian",
+      "nativeName": "Беларуская",
+      "localeTag": "be",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "belarusian-jcuken",
+          "layoutName": "Belarusian (ЙЦУКЕН)",
+          "path": "languages/be/belarusian-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 5195,
+          "sha256": "a8eb1720fee9e74f77c894d340496cd658c38581d4f9366847f2bbdffdb49f35",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "bg",
+      "languageName": "Bulgarian",
+      "nativeName": "Български",
+      "localeTag": "bg",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "bulgarian-bds",
+          "layoutName": "Bulgarian (БДС)",
+          "path": "languages/bg/bulgarian-bds.json",
+          "formatVersion": 1,
+          "sizeBytes": 5148,
+          "sha256": "50492fb2d776ab9dc5f1f69804678acf871d8b3367393844b53afbbd04a1ab32",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "bho",
+      "languageName": "Bhojpuri",
+      "nativeName": "भोजपुरी",
+      "localeTag": "bho",
+      "script": "Deva",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "bhojpuri-inscript",
+          "layoutName": "Bhojpuri (InScript)",
+          "path": "languages/bho/bhojpuri-inscript.json",
+          "formatVersion": 1,
+          "sizeBytes": 3680,
+          "sha256": "b67959bca91ae7af43ca1a933ea439a3e3d1fb9310cbf4b4166bec0f89f96245",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "bi",
+      "languageName": "Bislama",
+      "nativeName": "Bislama",
+      "localeTag": "bi",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "bislama-qwerty",
+          "layoutName": "Bislama QWERTY",
+          "path": "languages/bi/bislama-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3215,
+          "sha256": "9851d1bbba6e70163006575dbe8602f9fbc1ee79703bb27bd639e2a4358c7d08",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "bm",
+      "languageName": "Bambara",
+      "nativeName": "Bamanankan",
+      "localeTag": "bm",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "bambara-qwerty",
+          "layoutName": "Bambara QWERTY",
+          "path": "languages/bm/bambara-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 5166,
+          "sha256": "1d17c7140b9a7ecc4b732bc664558e74036e71a1395bd2b93e1d36d065aaf673",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "bn",
+      "languageName": "Bangla",
+      "nativeName": "বাংলা",
+      "localeTag": "bn",
+      "script": "Beng",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "bangla-inscript",
+          "layoutName": "Bangla (InScript)",
+          "path": "languages/bn/bangla-inscript.json",
+          "formatVersion": 1,
+          "sizeBytes": 5413,
+          "sha256": "60e7203194f4b89689219c309aa18bd8b15ea5d83ee145101ed5ccbbfd06b91a",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "bo",
+      "languageName": "Tibetan",
+      "nativeName": "བོད་སྐད་",
+      "localeTag": "bo",
+      "script": "Tibt",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "tibetan-standard",
+          "layoutName": "Tibetan",
+          "path": "languages/bo/tibetan-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 4968,
+          "sha256": "f072fb41a000af70967eba6745df427fef1568261990eb328f8d46b349e3e89a",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "br",
+      "languageName": "Breton",
+      "nativeName": "Brezhoneg",
+      "localeTag": "br",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "breton-qwerty",
+          "layoutName": "Breton QWERTY",
+          "path": "languages/br/breton-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3631,
+          "sha256": "c521172e03613f19561adb1df4742e363e0a316233b99cd979a15066b1a05942",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "brx",
+      "languageName": "Bodo",
+      "nativeName": "बड़ो",
+      "localeTag": "brx",
+      "script": "Deva",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "bodo-inscript",
+          "layoutName": "Bodo (InScript)",
+          "path": "languages/brx/bodo-inscript.json",
+          "formatVersion": 1,
+          "sizeBytes": 3655,
+          "sha256": "a0b57d71a10b46a7b51c3771d21f8f2494512149af47973515e4d6aafaa2bb7b",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "bs",
+      "languageName": "Bosnian",
+      "nativeName": "Bosanski",
+      "localeTag": "bs",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "bosnian-qwertz",
+          "layoutName": "Bosnian QWERTZ",
+          "path": "languages/bs/bosnian-qwertz.json",
+          "formatVersion": 1,
+          "sizeBytes": 5324,
+          "sha256": "7f09bf6d563388d261eb7bda8edb9ad11549f30fd39c4f41e38cd2d5354e21f3",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "bua",
+      "languageName": "Buryat",
+      "nativeName": "Буряад",
+      "localeTag": "bua",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "buryat-jcuken",
+          "layoutName": "Buryat (ЙЦУКЕН)",
+          "path": "languages/bua/buryat-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 3910,
+          "sha256": "e2b4c7facded7cb44131a1e8b6d6825c556ef375bc517650240962c219db9b5f",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "bug",
+      "languageName": "Buginese",
+      "nativeName": "ᨅᨔ ᨕᨘᨁᨗ",
+      "localeTag": "bug",
+      "script": "Bugi",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "buginese-lontara",
+          "layoutName": "Buginese (Lontara)",
+          "path": "languages/bug/buginese-lontara.json",
+          "formatVersion": 1,
+          "sizeBytes": 4208,
+          "sha256": "d655fdd3425b45de0aafa38132880147dac6d12416c92d79da0cd646996223fb",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ca",
+      "languageName": "Catalan",
+      "nativeName": "Català",
+      "localeTag": "ca",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "catalan-qwerty",
+          "layoutName": "Catalan QWERTY",
+          "path": "languages/ca/catalan-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3944,
+          "sha256": "fe4b7de2f91c028a2acb0b5313cf8eac5a8b8e4ccb0183d63fa79e486a5baaa8",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ce",
+      "languageName": "Chechen",
+      "nativeName": "Нохчийн",
+      "localeTag": "ce",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "chechen-jcuken",
+          "layoutName": "Chechen (ЙЦУКЕН)",
+          "path": "languages/ce/chechen-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 3935,
+          "sha256": "48eaef0133a4bbfb34ed02e36132006b2f71bdf9c01faea40682a2666c358e20",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ceb",
+      "languageName": "Cebuano",
+      "nativeName": "Sinugbuanong Binisaya",
+      "localeTag": "ceb",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "Cebuano uses the Latin (Filipino) alphabet; ñ retained from Spanish loanwords. No standard national Cebuano keyboard exists, so a QWERTY base plus ñ is used.",
+      "layouts": [
+        {
+          "layoutId": "cebuano-qwerty",
+          "layoutName": "Cebuano QWERTY",
+          "path": "languages/ceb/cebuano-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3541,
+          "sha256": "941131b42e4cbdf8324bf409ce8e0a502e3d9ecc423008afb99193f01faeda68",
+          "verification": "Cebuano uses the Latin (Filipino) alphabet; ñ retained from Spanish loanwords. No standard national Cebuano keyboard exists, so a QWERTY base plus ñ is used."
+        }
+      ]
+    },
+    {
+      "languageId": "ch",
+      "languageName": "Chamorro",
+      "nativeName": "Chamoru",
+      "localeTag": "ch",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "chamorro-qwerty",
+          "layoutName": "Chamorro QWERTY",
+          "path": "languages/ch/chamorro-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3482,
+          "sha256": "694faacf0495423af7d35f76eeb7720c297f21d6539f0fcab13e31930036d438",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "chr",
+      "languageName": "Cherokee",
+      "nativeName": "ᏣᎳᎩ",
+      "localeTag": "chr",
+      "script": "Cher",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "cherokee-syllabary",
+          "layoutName": "Cherokee (Syllabary)",
+          "path": "languages/chr/cherokee-syllabary.json",
+          "formatVersion": 1,
+          "sizeBytes": 5458,
+          "sha256": "40417fdad152329a32034f57f4279965ca73fd944f7184a5a8b636c91358bcd7",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "co",
+      "languageName": "Corsican",
+      "nativeName": "Corsu",
+      "localeTag": "co",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "corsican-qwerty",
+          "layoutName": "Corsican QWERTY",
+          "path": "languages/co/corsican-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3563,
+          "sha256": "8daa24fc7e157580844b2e94546291cb0f7412e616d2dadeca26a6f74d47d019",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "cop",
+      "languageName": "Coptic",
+      "nativeName": "ϯⲘⲉⲧⲣⲉⲙⲛⲭⲏⲙⲓ",
+      "localeTag": "cop",
+      "script": "Copt",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "coptic-standard",
+          "layoutName": "Coptic",
+          "path": "languages/cop/coptic-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 4577,
+          "sha256": "58f60b8bc6cff6b312e72f0d9b77eb39770588dbdeb545d3362ec4dda11b5405",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "cr",
+      "languageName": "Cree",
+      "nativeName": "ᓀᐦᐃᔭᐍᐏᐣ",
+      "localeTag": "cr",
+      "script": "Cans",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "cree-syllabics",
+          "layoutName": "Cree (Syllabics)",
+          "path": "languages/cr/cree-syllabics.json",
+          "formatVersion": 1,
+          "sizeBytes": 3850,
+          "sha256": "d261efde43b4c4fe90ad9b884820559f138bc534f5238fd4593e43e38823d8cb",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "cs",
+      "languageName": "Czech",
+      "nativeName": "Čeština",
+      "localeTag": "cs",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "czech-qwertz",
+          "layoutName": "Czech QWERTZ",
+          "path": "languages/cs/czech-qwertz.json",
+          "formatVersion": 1,
+          "sizeBytes": 3473,
+          "sha256": "85f6868e588cb47ab920e61e6a565e29792d810d9db59debc893d8f46ba13094",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "csb",
+      "languageName": "Kashubian",
+      "nativeName": "Kaszëbsczi",
+      "localeTag": "csb",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "kashubian-qwerty",
+          "layoutName": "Kashubian QWERTY",
+          "path": "languages/csb/kashubian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3665,
+          "sha256": "9f138601000fbebf8f70f12db06bda643fcf2a5f5ee759416d95a9b97b74b665",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "cv",
+      "languageName": "Chuvash",
+      "nativeName": "Чӑвашла",
+      "localeTag": "cv",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "chuvash-jcuken",
+          "layoutName": "Chuvash (ЙЦУКЕН)",
+          "path": "languages/cv/chuvash-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 3989,
+          "sha256": "ef5b4941bb701bfb23d4f1d079b061e8066902a0bc0c59a9f62c412a0808c869",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "cy",
+      "languageName": "Welsh",
+      "nativeName": "Cymraeg",
+      "localeTag": "cy",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "welsh-qwerty",
+          "layoutName": "Welsh QWERTY",
+          "path": "languages/cy/welsh-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3769,
+          "sha256": "dc7ca990c26ca4d977ba9958c0c94073d50f4c639004d7b7736121df719bf08f",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "da",
+      "languageName": "Danish",
+      "nativeName": "Dansk",
+      "localeTag": "da",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "danish-qwerty",
+          "layoutName": "Danish QWERTY",
+          "path": "languages/da/danish-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3382,
+          "sha256": "eb27771b1a63bf51e854260291583487e4d913b4402c569f340d754c9ef66ef2",
           "verification": "layout-reviewed"
         }
       ]
@@ -57,6 +1071,162 @@
       ]
     },
     {
+      "languageId": "doi",
+      "languageName": "Dogri",
+      "nativeName": "डोगरी",
+      "localeTag": "doi",
+      "script": "Deva",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "dogri-inscript",
+          "layoutName": "Dogri (InScript)",
+          "path": "languages/doi/dogri-inscript.json",
+          "formatVersion": 1,
+          "sizeBytes": 3662,
+          "sha256": "dabdfa51ae904d44e67caf73ca2c373f83ff7006197456284594aa0dc0d56801",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "dsb",
+      "languageName": "Lower Sorbian",
+      "nativeName": "Dolnoserbski",
+      "localeTag": "dsb",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "lower-sorbian-qwertz",
+          "layoutName": "Lower Sorbian QWERTZ",
+          "path": "languages/dsb/lower-sorbian-qwertz.json",
+          "formatVersion": 1,
+          "sizeBytes": 3776,
+          "sha256": "3dd4ebd22b8a9925a18a81af310dfc8666b0b926475688eb17151c1977c04a5c",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "dv",
+      "languageName": "Dhivehi",
+      "nativeName": "ދިވެހި",
+      "localeTag": "dv",
+      "script": "Thaa",
+      "direction": "rtl",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "dhivehi-thaana",
+          "layoutName": "Dhivehi (Thaana)",
+          "path": "languages/dv/dhivehi-thaana.json",
+          "formatVersion": 1,
+          "sizeBytes": 4531,
+          "sha256": "ac2678c2e1c94bfb97ee3e149e33ac1277e91bbd26064d8fbe55757d89bcecb3",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "dz",
+      "languageName": "Bhutanese",
+      "nativeName": "རྫོང་ཁ",
+      "localeTag": "dz",
+      "script": "Tibt",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "dzongkha-standard",
+          "layoutName": "Dzongkha (Bhutanese)",
+          "path": "languages/dz/dzongkha-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 5075,
+          "sha256": "a5d9cdb524abb48a7844ca0cffa4c5c4ea9a478c97350e2491818a5c1941e32c",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ee",
+      "languageName": "Ewe",
+      "nativeName": "Eʋegbe",
+      "localeTag": "ee",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "ewe-qwerty",
+          "layoutName": "Ewe QWERTY",
+          "path": "languages/ee/ewe-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3418,
+          "sha256": "ca1baba5afa660634d48c41aa71a88a73b452ec9d7744f46121d76abf24387ef",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "el",
+      "languageName": "Greek",
+      "nativeName": "Ελληνικά",
+      "localeTag": "el",
+      "script": "Grek",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "greek-standard",
+          "layoutName": "Greek (Standard)",
+          "path": "languages/el/greek-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 4523,
+          "sha256": "74573a2637855b4ea7886f644b06475015b7b7fbb263125dd1b64dcb8179fc08",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
       "languageId": "en",
       "languageName": "English",
       "nativeName": "English",
@@ -79,6 +1249,32 @@
           "sizeBytes": 4392,
           "sha256": "5abacf0f04bbe6c6f6ce7f9702f8b80b100d6143e22d6fbe6caa76d8533aa0ef",
           "verification": "branah-verified"
+        }
+      ]
+    },
+    {
+      "languageId": "eo",
+      "languageName": "Esperanto",
+      "nativeName": "Esperanto",
+      "localeTag": "eo",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "esperanto-qwerty",
+          "layoutName": "Esperanto QWERTY",
+          "path": "languages/eo/esperanto-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 5000,
+          "sha256": "0b4c28a5a61a9b5ce53b4e44d831d3aedd3bbdd384a2dfe2e96e3855efb645a6",
+          "verification": "layout-reviewed"
         }
       ]
     },
@@ -109,6 +1305,58 @@
       ]
     },
     {
+      "languageId": "et",
+      "languageName": "Estonian",
+      "nativeName": "Eesti",
+      "localeTag": "et",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "estonian-qwerty",
+          "layoutName": "Estonian QWERTY",
+          "path": "languages/et/estonian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 5207,
+          "sha256": "a8f04390891603372ae758092bb8e75ea371b06c9e13acb201e2ec202c76280c",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "eu",
+      "languageName": "Basque",
+      "nativeName": "Euskara",
+      "localeTag": "eu",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "basque-qwerty",
+          "layoutName": "Basque QWERTY",
+          "path": "languages/eu/basque-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3455,
+          "sha256": "44bbecbe52f91d9a0ea8659b8da9af400e24bfc050266e9d27abaf07d4c7959f",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
       "languageId": "fa",
       "languageName": "Persian",
       "nativeName": "فارسی",
@@ -135,6 +1383,110 @@
       ]
     },
     {
+      "languageId": "ff",
+      "languageName": "Fula",
+      "nativeName": "Fulfulde",
+      "localeTag": "ff",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "fula-qwerty",
+          "layoutName": "Fula (Fulfulde) QWERTY",
+          "path": "languages/ff/fula-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 5263,
+          "sha256": "986376008ac238a534024ec0f6d14fad891c4809e23d29860c5a23844581844f",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "fi",
+      "languageName": "Finnish",
+      "nativeName": "Suomi",
+      "localeTag": "fi",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "finnish-qwerty",
+          "layoutName": "Finnish QWERTY",
+          "path": "languages/fi/finnish-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3405,
+          "sha256": "378dbfef96f929d3d6c38a99a1bdd1b3faa5239a840a85d40a7544c40d2e7832",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "fj",
+      "languageName": "Fijian",
+      "nativeName": "Na Vosa Vakaviti",
+      "localeTag": "fj",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "Fijian uses the Latin alphabet. Standard Fijian orthography uses plain Latin letters (with b, d, g, q, c having special phonetic values); no diacritics are required for everyday writing, so a plain QWERTY base is used.",
+      "layouts": [
+        {
+          "layoutId": "fijian-qwerty",
+          "layoutName": "Fijian QWERTY",
+          "path": "languages/fj/fijian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3538,
+          "sha256": "1c89a3a6902301df4e39a09a475f2ac14fa3b9c29109f33371e1b217a1637a7d",
+          "verification": "Fijian uses the Latin alphabet. Standard Fijian orthography uses plain Latin letters (with b, d, g, q, c having special phonetic values); no diacritics are required for everyday writing, so a plain QWERTY base is used."
+        }
+      ]
+    },
+    {
+      "languageId": "fo",
+      "languageName": "Faroese",
+      "nativeName": "Føroyskt",
+      "localeTag": "fo",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "faroese-qwerty",
+          "layoutName": "Faroese QWERTY",
+          "path": "languages/fo/faroese-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3654,
+          "sha256": "ae415900f620bd4cd68201ca4c1590ad37c2871b0f18cb225d63c85a443f6b93",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
       "languageId": "fr",
       "languageName": "French",
       "nativeName": "Français",
@@ -156,6 +1508,318 @@
           "formatVersion": 1,
           "sizeBytes": 4971,
           "sha256": "fe9d5f2cbe9ba0ef96dd9d489f4f7e8d87c333494fc9e01a1d6508f2a26652e6",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "fur",
+      "languageName": "Friulian",
+      "nativeName": "Furlan",
+      "localeTag": "fur",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "friulian-qwerty",
+          "layoutName": "Friulian QWERTY",
+          "path": "languages/fur/friulian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3837,
+          "sha256": "686a6be64e53d128c1d25ad42bd5ea7bd46119e29111f98852a9b80453c3532e",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "fy",
+      "languageName": "Frisian",
+      "nativeName": "Frysk",
+      "localeTag": "fy",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "frisian-qwerty",
+          "layoutName": "Frisian QWERTY",
+          "path": "languages/fy/frisian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3639,
+          "sha256": "68c3c57fc31daeb7fa3fdfa07b1e431ce9a45bcef74904cad21551042635159f",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ga",
+      "languageName": "Irish",
+      "nativeName": "Gaeilge",
+      "localeTag": "ga",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "irish-qwerty",
+          "layoutName": "Irish QWERTY",
+          "path": "languages/ga/irish-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 4677,
+          "sha256": "9c4649ba5b97d6e4beacd102b000f2e6d3ac4de44f288aefa9e277b092bdb5b3",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "gd",
+      "languageName": "Scottish Gaelic",
+      "nativeName": "Gàidhlig",
+      "localeTag": "gd",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "gaelic-qwerty",
+          "layoutName": "Scottish Gaelic QWERTY",
+          "path": "languages/gd/gaelic-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3666,
+          "sha256": "698c48a422a10aee64937745a1c3b0d76657866572ff7c008ecd9d1c4cf8674b",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "gl",
+      "languageName": "Galician",
+      "nativeName": "Galego",
+      "localeTag": "gl",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "galician-qwerty",
+          "layoutName": "Galician QWERTY",
+          "path": "languages/gl/galician-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3824,
+          "sha256": "fabaa0ddbad4fac7dcc36178e659538d09e6d31637bca178a134881852a413cb",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "gn",
+      "languageName": "Guarani",
+      "nativeName": "Avane'e",
+      "localeTag": "gn",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "guarani-qwerty",
+          "layoutName": "Guarani QWERTY",
+          "path": "languages/gn/guarani-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3798,
+          "sha256": "6bcd655409fd42e133a04272c962be9dfe3f898ac08b4c14118fdba9ec9a589d",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "gsw",
+      "languageName": "Swiss German",
+      "nativeName": "Schwiizerdütsch",
+      "localeTag": "gsw",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "swiss-german-qwertz",
+          "layoutName": "Swiss German QWERTZ",
+          "path": "languages/gsw/swiss-german-qwertz.json",
+          "formatVersion": 1,
+          "sizeBytes": 3458,
+          "sha256": "cc7159adbd0fe5ec29d79f2e137bb955047858ceb437b7950af4708d7ab3e2fd",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "gu",
+      "languageName": "Gujarati",
+      "nativeName": "ગુજરાતી",
+      "localeTag": "gu",
+      "script": "Gujr",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "gujarati-inscript",
+          "layoutName": "Gujarati (InScript)",
+          "path": "languages/gu/gujarati-inscript.json",
+          "formatVersion": 1,
+          "sizeBytes": 5382,
+          "sha256": "9b1acf75455383c35fcca8aa6616e285a3d973dfd77e53c86356510ef853d029",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "gv",
+      "languageName": "Manx",
+      "nativeName": "Gaelg",
+      "localeTag": "gv",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "manx-qwerty",
+          "layoutName": "Manx QWERTY",
+          "path": "languages/gv/manx-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3311,
+          "sha256": "d3ed5f0b66854bf77ea16064678a62f53018af3530a1622710cf511285a74604",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ha",
+      "languageName": "Hausa",
+      "nativeName": "Hausa",
+      "localeTag": "ha",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "hausa-qwerty",
+          "layoutName": "Hausa QWERTY",
+          "path": "languages/ha/hausa-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 5261,
+          "sha256": "d484f5e33a208f6b59aa5d46902d46ed3081714e692f0eb2a55831f24b56373f",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "haw",
+      "languageName": "Hawaiian",
+      "nativeName": "ʻŌlelo Hawaiʻi",
+      "localeTag": "haw",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "Hawaiian uses the Latin alphabet with macron vowels (kahakō: ā ē ī ō ū) for long vowels and the ʻokina (ʻ, U+02BB) for the glottal stop.",
+      "layouts": [
+        {
+          "layoutId": "hawaiian-qwerty",
+          "layoutName": "Hawaiian QWERTY",
+          "path": "languages/haw/hawaiian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3685,
+          "sha256": "fef07f37cf57c95229147b4d27cda2a4b486104df0bcae13b72493d2478036f2",
+          "verification": "Hawaiian uses the Latin alphabet with macron vowels (kahakō: ā ē ī ō ū) for long vowels and the ʻokina (ʻ, U+02BB) for the glottal stop."
+        }
+      ]
+    },
+    {
+      "languageId": "he",
+      "languageName": "Hebrew",
+      "nativeName": "עברית",
+      "localeTag": "he",
+      "script": "Hebr",
+      "direction": "rtl",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "hebrew-standard",
+          "layoutName": "Hebrew (Standard)",
+          "path": "languages/he/hebrew-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 4805,
+          "sha256": "9162f34ac2d68381123634bd1f8cc97cbc2efe5e9162a46ab86320304bfc339c",
           "verification": "layout-reviewed"
         }
       ]
@@ -187,6 +1851,344 @@
       ]
     },
     {
+      "languageId": "hil",
+      "languageName": "Hiligaynon",
+      "nativeName": "Hiligaynon",
+      "localeTag": "hil",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "Hiligaynon uses the Latin (Filipino) alphabet; ñ retained from Spanish loanwords. No standard national Hiligaynon keyboard exists, so a QWERTY base plus ñ is used.",
+      "layouts": [
+        {
+          "layoutId": "hiligaynon-qwerty",
+          "layoutName": "Hiligaynon QWERTY",
+          "path": "languages/hil/hiligaynon-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3548,
+          "sha256": "70a951ff9ec6edc52a749eb00336e64a8f9cb209f0c11d55442f514c9d77dc40",
+          "verification": "Hiligaynon uses the Latin (Filipino) alphabet; ñ retained from Spanish loanwords. No standard national Hiligaynon keyboard exists, so a QWERTY base plus ñ is used."
+        }
+      ]
+    },
+    {
+      "languageId": "hr",
+      "languageName": "Croatian",
+      "nativeName": "Hrvatski",
+      "localeTag": "hr",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "croatian-qwertz",
+          "layoutName": "Croatian QWERTZ",
+          "path": "languages/hr/croatian-qwertz.json",
+          "formatVersion": 1,
+          "sizeBytes": 5344,
+          "sha256": "9385b0fde580d50e745d20d5953cf7e4ec543416fe7c2402b48f4f86f5bcabbd",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "hsb",
+      "languageName": "Upper Sorbian",
+      "nativeName": "Hornjoserbsce",
+      "localeTag": "hsb",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "upper-sorbian-qwertz",
+          "layoutName": "Upper Sorbian QWERTZ",
+          "path": "languages/hsb/upper-sorbian-qwertz.json",
+          "formatVersion": 1,
+          "sizeBytes": 3766,
+          "sha256": "501bb5e9ea91c5ef969a8e556e157e3c32786074ad8aef8b3b2a57c9f7c2892d",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ht",
+      "languageName": "Haitian Creole",
+      "nativeName": "Kreyòl ayisyen",
+      "localeTag": "ht",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "haitian-qwerty",
+          "layoutName": "Haitian Creole QWERTY",
+          "path": "languages/ht/haitian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3508,
+          "sha256": "e6000753428a68a1d12129ffc560cba7d5174bc3d894795f1853b83964b4838e",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "hu",
+      "languageName": "Hungarian",
+      "nativeName": "Magyar",
+      "localeTag": "hu",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "hungarian-qwertz",
+          "layoutName": "Hungarian QWERTZ",
+          "path": "languages/hu/hungarian-qwertz.json",
+          "formatVersion": 1,
+          "sizeBytes": 5556,
+          "sha256": "23b76ed04dedc809606d1c5143553494f2f79ccf2f105c9281ab74ededee98bd",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "hy",
+      "languageName": "Armenian",
+      "nativeName": "Հայերեն",
+      "localeTag": "hy",
+      "script": "Armn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "armenian-phonetic",
+          "layoutName": "Armenian (Eastern Phonetic)",
+          "path": "languages/hy/armenian-phonetic.json",
+          "formatVersion": 1,
+          "sizeBytes": 4619,
+          "sha256": "2d5c9f68aab2fa472680b3e97234fd2b29035292fa3260d8156657436a65b048",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "id",
+      "languageName": "Indonesian",
+      "nativeName": "Bahasa Indonesia",
+      "localeTag": "id",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "indonesian-qwerty",
+          "layoutName": "Indonesian QWERTY",
+          "path": "languages/id/indonesian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3306,
+          "sha256": "8a0c021cec095751330ed3b41c9d0aa612495fdf6edf027e9ba3336f5164e43c",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "ig",
+      "languageName": "Igbo",
+      "nativeName": "Igbo",
+      "localeTag": "ig",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "igbo-qwerty",
+          "layoutName": "Igbo QWERTY",
+          "path": "languages/ig/igbo-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 5147,
+          "sha256": "32d4fa0ffe7f37b5610fad0ca9cafb126cdc4e8182cf8b798048f2ca0b621290",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ii",
+      "languageName": "Nuosu (Yi)",
+      "nativeName": "ꆈꌠꉙ",
+      "localeTag": "ii",
+      "script": "Yiii",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "nuosu-yi",
+          "layoutName": "Nuosu (Yi)",
+          "path": "languages/ii/nuosu-yi.json",
+          "formatVersion": 1,
+          "sizeBytes": 3946,
+          "sha256": "b7fe50c70ae41f0c4c9b21bbfa9eed996badbdb37cadd940854b6e397a25e555",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ilo",
+      "languageName": "Ilocano",
+      "nativeName": "Ilokano",
+      "localeTag": "ilo",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "Ilocano uses the Latin (Filipino) alphabet; ñ retained from Spanish loanwords. No standard national Ilocano keyboard exists, so a QWERTY base plus ñ is used.",
+      "layouts": [
+        {
+          "layoutId": "ilocano-qwerty",
+          "layoutName": "Ilocano QWERTY",
+          "path": "languages/ilo/ilocano-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3527,
+          "sha256": "3c24320961561d1e7b2547891e61250ff58a06dfab0c7e334a62af9de91fa103",
+          "verification": "Ilocano uses the Latin (Filipino) alphabet; ñ retained from Spanish loanwords. No standard national Ilocano keyboard exists, so a QWERTY base plus ñ is used."
+        }
+      ]
+    },
+    {
+      "languageId": "is",
+      "languageName": "Icelandic",
+      "nativeName": "Íslenska",
+      "localeTag": "is",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "icelandic-qwerty",
+          "layoutName": "Icelandic QWERTY",
+          "path": "languages/is/icelandic-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3587,
+          "sha256": "001bb1b9772f56f6366ab9f79bee1353580055db9bcd1c9a3f4c32e32815d1af",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "it",
+      "languageName": "Italian",
+      "nativeName": "Italiano",
+      "localeTag": "it",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "italian-qwerty",
+          "layoutName": "Italian QWERTY",
+          "path": "languages/it/italian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3590,
+          "sha256": "ca36f7ee517215727a0990a06b307d09c7296b46fbb239b447c7a9b446b3614f",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "iu",
+      "languageName": "Inuktitut",
+      "nativeName": "ᐃᓄᒃᑎᑐᑦ",
+      "localeTag": "iu",
+      "script": "Cans",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "inuktitut-syllabics",
+          "layoutName": "Inuktitut (Syllabics)",
+          "path": "languages/iu/inuktitut-syllabics.json",
+          "formatVersion": 1,
+          "sizeBytes": 3814,
+          "sha256": "cd351c5fcd448e62210f7abb47c79a1150baa0211385386ec7d9045f9ad58595",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
       "languageId": "ja",
       "languageName": "Japanese",
       "nativeName": "日本語",
@@ -208,6 +2210,162 @@
           "formatVersion": 1,
           "sizeBytes": 4779,
           "sha256": "936f61766cb2883aba4aa000501d6cf1d02f6e48bfbaf4ba9ee4724c219e15ea",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "jv",
+      "languageName": "Javanese",
+      "nativeName": "Basa Jawa",
+      "localeTag": "jv",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "javanese-latin",
+          "layoutName": "Javanese (Latin)",
+          "path": "languages/jv/javanese-latin.json",
+          "formatVersion": 1,
+          "sizeBytes": 4735,
+          "sha256": "1451b192ad450daf4d231612d1c0929dc02cbb086af733ee9b337d22d96843aa",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ka",
+      "languageName": "Georgian",
+      "nativeName": "ქართული",
+      "localeTag": "ka",
+      "script": "Geor",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "georgian-qwerty",
+          "layoutName": "Georgian (QWERTY)",
+          "path": "languages/ka/georgian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 4629,
+          "sha256": "a84f986b14db60879a8b6b7ddf97fb09aab6532a84f837479f298d480868228d",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "kg",
+      "languageName": "Kongo",
+      "nativeName": "Kikongo",
+      "localeTag": "kg",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "kikongo-qwerty",
+          "layoutName": "Kikongo QWERTY",
+          "path": "languages/kg/kikongo-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3446,
+          "sha256": "5b84c9f2b48191c955e1242bcaa0ade62412f78ac3774a4b0623f7fc8eadc920",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "khw",
+      "languageName": "Khowar",
+      "nativeName": "کھوار",
+      "localeTag": "khw",
+      "script": "Arab",
+      "direction": "rtl",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "khowar-standard",
+          "layoutName": "Khowar",
+          "path": "languages/khw/khowar-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 5379,
+          "sha256": "1c120e520b7a66be9e47426ac54ea540e77012ceb34abd30be633ac78a4327e7",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "kk",
+      "languageName": "Kazakh",
+      "nativeName": "Қазақ тілі",
+      "localeTag": "kk",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "kazakh-jcuken",
+          "layoutName": "Kazakh (ЙЦУКЕН)",
+          "path": "languages/kk/kazakh-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 5291,
+          "sha256": "5e42879893ea8d5efcb8e9148115e16c32a872379eebe5ef110529be95834787",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "kl",
+      "languageName": "Greenlandic",
+      "nativeName": "Kalaallisut",
+      "localeTag": "kl",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "greenlandic-qwerty",
+          "layoutName": "Greenlandic (Kalaallisut)",
+          "path": "languages/kl/greenlandic-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3397,
+          "sha256": "8a350d7a3b504cf1360524689be23ef9c807b2ef95d9f5e00596bb66e6acddf7",
           "verification": "unverified"
         }
       ]
@@ -239,6 +2397,32 @@
       ]
     },
     {
+      "languageId": "kn",
+      "languageName": "Kannada",
+      "nativeName": "ಕನ್ನಡ",
+      "localeTag": "kn",
+      "script": "Knda",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "kannada-inscript",
+          "layoutName": "Kannada (InScript)",
+          "path": "languages/kn/kannada-inscript.json",
+          "formatVersion": 1,
+          "sizeBytes": 5381,
+          "sha256": "5ca34bf7f9e7a29dd260acd6d425757dc9114f55cc4e78801709963684de1e2d",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
       "languageId": "ko",
       "languageName": "Korean",
       "nativeName": "한국어",
@@ -265,6 +2449,1462 @@
       ]
     },
     {
+      "languageId": "kok",
+      "languageName": "Konkani",
+      "nativeName": "कोंकणी",
+      "localeTag": "kok",
+      "script": "Deva",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "konkani-inscript",
+          "layoutName": "Konkani (InScript)",
+          "path": "languages/kok/konkani-inscript.json",
+          "formatVersion": 1,
+          "sizeBytes": 3673,
+          "sha256": "3c022134a5fa1db4435f21bb4b7390c5f8ddbe1835c96c68c23cd61518598cb4",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "kr",
+      "languageName": "Kanuri",
+      "nativeName": "Kanuri",
+      "localeTag": "kr",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "kanuri-qwerty",
+          "layoutName": "Kanuri QWERTY",
+          "path": "languages/kr/kanuri-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3233,
+          "sha256": "07731720e0fd82d69554eb097b453d5d66441da9fe65cf6bd979ae0df9c1d9ed",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "krl",
+      "languageName": "Karelian",
+      "nativeName": "Karjala",
+      "localeTag": "krl",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "karelian-qwerty",
+          "layoutName": "Karelian QWERTY",
+          "path": "languages/krl/karelian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3543,
+          "sha256": "a46dd420122990eff7682e971c2945759fd44d8532c67547068342f0a00f0d1f",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ks",
+      "languageName": "Kashmiri",
+      "nativeName": "کٲشُر",
+      "localeTag": "ks",
+      "script": "Arab",
+      "direction": "rtl",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "kashmiri-standard",
+          "layoutName": "Kashmiri",
+          "path": "languages/ks/kashmiri-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 3861,
+          "sha256": "1282f904c55dbc83445c986cc83899eb1d7565d4541a5233177e7ba2fd08edbf",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ku",
+      "languageName": "Kurdish",
+      "nativeName": "کوردی",
+      "localeTag": "ku",
+      "script": "Arab",
+      "direction": "rtl",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "kurdish-sorani",
+          "layoutName": "Kurdish (Sorani)",
+          "path": "languages/ku/kurdish-sorani.json",
+          "formatVersion": 1,
+          "sizeBytes": 5299,
+          "sha256": "900465adb690a1a8a2a10eaf836feef8c46b2ffa27aaef7b40b5288180561b40",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "kv",
+      "languageName": "Komi",
+      "nativeName": "Коми",
+      "localeTag": "kv",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "komi-jcuken",
+          "layoutName": "Komi (ЙЦУКЕН)",
+          "path": "languages/kv/komi-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 3831,
+          "sha256": "1074a6c6dcfbd1254638d2efb455b2eff7dbd7f99c92946deaa4ec043331bfa4",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "kw",
+      "languageName": "Cornish",
+      "nativeName": "Kernewek",
+      "localeTag": "kw",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "cornish-qwerty",
+          "layoutName": "Cornish QWERTY",
+          "path": "languages/kw/cornish-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3307,
+          "sha256": "98bd06d55d0a036b0773d4a982b7d15cba643ef78af399c0c6944907bbe82426",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "ky",
+      "languageName": "Kyrgyz",
+      "nativeName": "Кыргызча",
+      "localeTag": "ky",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "kyrgyz-jcuken",
+          "layoutName": "Kyrgyz (ЙЦУКЕН)",
+          "path": "languages/ky/kyrgyz-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 5498,
+          "sha256": "a65a7caa0ece03ade5f849a471ac4e3712c645ae467975f55d066fa610029e9d",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "la",
+      "languageName": "Latin",
+      "nativeName": "Latina",
+      "localeTag": "la",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "latin-qwerty",
+          "layoutName": "Latin QWERTY",
+          "path": "languages/la/latin-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3352,
+          "sha256": "2dadfac3d159dbb8195619c11cadd13db2d44feab9454ea9eef0fccece03ee8b",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "lb",
+      "languageName": "Luxembourgish",
+      "nativeName": "Lëtzebuergesch",
+      "localeTag": "lb",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "luxembourgish-qwertz",
+          "layoutName": "Luxembourgish QWERTZ",
+          "path": "languages/lb/luxembourgish-qwertz.json",
+          "formatVersion": 1,
+          "sizeBytes": 3653,
+          "sha256": "a90f3206146af5207a612be2aadd9b93dd963afa8bf146d098a6153897da689f",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "lg",
+      "languageName": "Ganda",
+      "nativeName": "Luganda",
+      "localeTag": "lg",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "luganda-qwerty",
+          "layoutName": "Luganda QWERTY",
+          "path": "languages/lg/luganda-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3583,
+          "sha256": "00a9d59841f0cfda2ce21172598b1137f53a8a7cd2a26cdb53e1713a3d5f92da",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "lis",
+      "languageName": "Lisu",
+      "nativeName": "ꓡꓲ-ꓢꓴ",
+      "localeTag": "lis",
+      "script": "Lisu",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "lisu-fraser",
+          "layoutName": "Lisu (Fraser)",
+          "path": "languages/lis/lisu-fraser.json",
+          "formatVersion": 1,
+          "sizeBytes": 5198,
+          "sha256": "a479108e75ee3146448d7e0b91f8ecb03eb87762d801760df0af1b25e3fdfda4",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "lmo",
+      "languageName": "Lombard",
+      "nativeName": "Lombard",
+      "localeTag": "lmo",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "lombard-qwerty",
+          "layoutName": "Lombard QWERTY",
+          "path": "languages/lmo/lombard-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3582,
+          "sha256": "66a8b61d4df82853ec606124a3f9dcb3785268243ac9c5863d7d8c72f28cea9b",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ln",
+      "languageName": "Lingala",
+      "nativeName": "Lingála",
+      "localeTag": "ln",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "lingala-qwerty",
+          "layoutName": "Lingala QWERTY",
+          "path": "languages/ln/lingala-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3974,
+          "sha256": "a28b1bfb1a0bb824feabf9c98a0536120e0673aa42f59aa12e9b7339c2fb4091",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "lo",
+      "languageName": "Lao",
+      "nativeName": "ລາວ",
+      "localeTag": "lo",
+      "script": "Laoo",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "lao-standard",
+          "layoutName": "Lao",
+          "path": "languages/lo/lao-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 5051,
+          "sha256": "be092d8e67dd59ec8be60e9219596a26def7cd0ef3229ab00e46ab2003a27cdb",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "lt",
+      "languageName": "Lithuanian",
+      "nativeName": "Lietuvių",
+      "localeTag": "lt",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "lithuanian-standard",
+          "layoutName": "Lithuanian (Standard)",
+          "path": "languages/lt/lithuanian-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 5061,
+          "sha256": "6d7cd4c996037c483624f14b2d13341e97bcc1e40aff98fa89e4c04cf537fcf5",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "lv",
+      "languageName": "Latvian",
+      "nativeName": "Latviešu",
+      "localeTag": "lv",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "latvian-qwerty",
+          "layoutName": "Latvian (Standard)",
+          "path": "languages/lv/latvian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 5741,
+          "sha256": "c0d00ee8ac4b37cecab446b1641cff7593e7861f1726a04f60d00d02b87946e6",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "mad",
+      "languageName": "Madurese",
+      "nativeName": "Basa Madhurâ",
+      "localeTag": "mad",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "madurese-qwerty",
+          "layoutName": "Madurese QWERTY",
+          "path": "languages/mad/madurese-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3352,
+          "sha256": "2bcb9ab95944e9f67634258e16169e882cec311f0843af0aef762fbcc90b09d4",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "mai",
+      "languageName": "Maithili",
+      "nativeName": "मैथिली",
+      "localeTag": "mai",
+      "script": "Deva",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "maithili-inscript",
+          "layoutName": "Maithili (InScript)",
+          "path": "languages/mai/maithili-inscript.json",
+          "formatVersion": 1,
+          "sizeBytes": 3677,
+          "sha256": "52986e4137f4428813df6e0e30ba146370465f408cde7f94c4fddb04d81d7221",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "mg",
+      "languageName": "Malagasy",
+      "nativeName": "Malagasy",
+      "localeTag": "mg",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "malagasy-qwerty",
+          "layoutName": "Malagasy QWERTY",
+          "path": "languages/mg/malagasy-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3124,
+          "sha256": "f5b55cef5e4c028e6002f5c7d4dd9adf0b45c23f88cf44e789d0a220e7cc8ca8",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "mh",
+      "languageName": "Marshallese",
+      "nativeName": "Kajin Majel",
+      "localeTag": "mh",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "marshallese-qwerty",
+          "layoutName": "Marshallese QWERTY",
+          "path": "languages/mh/marshallese-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3618,
+          "sha256": "d65b0b4cfe690dbf4d4896e6bc043f8f7c21a318d249f025edfe7395853a3e6c",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "mi",
+      "languageName": "Maori",
+      "nativeName": "te reo Māori",
+      "localeTag": "mi",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "Māori uses the Latin alphabet with macron vowels (ā ē ī ō ū) to mark long vowels. The Māori keyboard is a US QWERTY base with direct macron-vowel keys.",
+      "layouts": [
+        {
+          "layoutId": "maori-qwerty",
+          "layoutName": "Maori QWERTY",
+          "path": "languages/mi/maori-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3674,
+          "sha256": "4cd02edc2ed8ea38760228fa0d02b59df6ef75f57bec7491e39e48deb720eef8",
+          "verification": "Māori uses the Latin alphabet with macron vowels (ā ē ī ō ū) to mark long vowels. The Māori keyboard is a US QWERTY base with direct macron-vowel keys."
+        }
+      ]
+    },
+    {
+      "languageId": "min",
+      "languageName": "Minangkabau",
+      "nativeName": "Baso Minangkabau",
+      "localeTag": "min",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "minangkabau-qwerty",
+          "layoutName": "Minangkabau QWERTY",
+          "path": "languages/min/minangkabau-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3253,
+          "sha256": "84dd46a61c5965b8edb6d942ccfe2d2c902e5bb8f6e7a0860b6f1dcd1da94f0a",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "mk",
+      "languageName": "Macedonian",
+      "nativeName": "Македонски",
+      "localeTag": "mk",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "macedonian-standard",
+          "layoutName": "Macedonian (Standard)",
+          "path": "languages/mk/macedonian-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 4987,
+          "sha256": "a2109b55b4c19a08b40a8df9f29aaef4776e7ba1e8c32aef4f06eb6b704ed123",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "ml",
+      "languageName": "Malayalam",
+      "nativeName": "മലയാളം",
+      "localeTag": "ml",
+      "script": "Mlym",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "malayalam-inscript",
+          "layoutName": "Malayalam (InScript)",
+          "path": "languages/ml/malayalam-inscript.json",
+          "formatVersion": 1,
+          "sizeBytes": 5396,
+          "sha256": "87977b7e0d073c2b632a48e63dd84d7b6c6b323d3993ecd0b9ac228bc0b28de7",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "mn",
+      "languageName": "Mongolian",
+      "nativeName": "Монгол",
+      "localeTag": "mn",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "mongolian-cyrillic",
+          "layoutName": "Mongolian (Cyrillic)",
+          "path": "languages/mn/mongolian-cyrillic.json",
+          "formatVersion": 1,
+          "sizeBytes": 5402,
+          "sha256": "3056642f7097f8ddd4fc6eaafce7248393b4cec1b698dc1ac1b1f80335946ea6",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "mni",
+      "languageName": "Manipuri",
+      "nativeName": "ꯃꯤꯇꯩ ꯂꯣꯟ",
+      "localeTag": "mni",
+      "script": "Mtei",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "meitei-mayek",
+          "layoutName": "Manipuri (Meitei Mayek)",
+          "path": "languages/mni/meitei-mayek.json",
+          "formatVersion": 1,
+          "sizeBytes": 3838,
+          "sha256": "6ad1f2bb8e297dfe560b42d1bb0b2702af8ea6c3ea4f4d2448a07b99d3aa1ccb",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "mos",
+      "languageName": "Mossi",
+      "nativeName": "Mòoré",
+      "localeTag": "mos",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "mossi-qwerty",
+          "layoutName": "Mossi (Mòoré) QWERTY",
+          "path": "languages/mos/mossi-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 5162,
+          "sha256": "5388e21e7e5aaf4754725e3876e3623a78c96b660b01c3d9c2c76edd694aa459",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "mr",
+      "languageName": "Marathi",
+      "nativeName": "मराठी",
+      "localeTag": "mr",
+      "script": "Deva",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "verified",
+      "layouts": [
+        {
+          "layoutId": "marathi-inscript",
+          "layoutName": "Marathi (InScript)",
+          "path": "languages/mr/marathi-inscript.json",
+          "formatVersion": 1,
+          "sizeBytes": 5394,
+          "sha256": "d7c6169a47f7d4f49538198ad714836159a64ec95b45af6a2224d7d3054a8525",
+          "verification": "verified"
+        }
+      ]
+    },
+    {
+      "languageId": "ms",
+      "languageName": "Malay",
+      "nativeName": "Bahasa Melayu",
+      "localeTag": "ms",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "malay-qwerty",
+          "layoutName": "Malay QWERTY",
+          "path": "languages/ms/malay-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3285,
+          "sha256": "b29fafe10371598122f70ac338ec83f7453c8ef5bc2fce8ab823bba810a900b4",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "mt",
+      "languageName": "Maltese",
+      "nativeName": "Malti",
+      "localeTag": "mt",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "maltese-qwerty",
+          "layoutName": "Maltese QWERTY",
+          "path": "languages/mt/maltese-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 5251,
+          "sha256": "eb0d5809dfca2d3ba4a110f9ec981f08645eea80bee548f302590cd3e4fd5709",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "my",
+      "languageName": "Myanmar",
+      "nativeName": "မြန်မာ",
+      "localeTag": "my",
+      "script": "Mymr",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "myanmar-standard",
+          "layoutName": "Myanmar (Burmese)",
+          "path": "languages/my/myanmar-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 5111,
+          "sha256": "374dd823de656ecf10e6cf88b8d798f55a6262cb860b54702cabc3b2cbc431b6",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "nap",
+      "languageName": "Neapolitan",
+      "nativeName": "Napulitano",
+      "localeTag": "nap",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "neapolitan-qwerty",
+          "layoutName": "Neapolitan QWERTY",
+          "path": "languages/nap/neapolitan-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3593,
+          "sha256": "64f7ff5c396b6956ffd1e49397185a0900ef2d11876c36eb79ae7fa6531a6d5b",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "nb",
+      "languageName": "Norwegian",
+      "nativeName": "Norsk",
+      "localeTag": "nb",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "norwegian-qwerty",
+          "layoutName": "Norwegian QWERTY",
+          "path": "languages/nb/norwegian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3423,
+          "sha256": "e3bf9140bab49f9492e6f0ce3abeb57c837b9f8c6ec5993d610646803a947c7d",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "nds",
+      "languageName": "Low German",
+      "nativeName": "Plattdüütsch",
+      "localeTag": "nds",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "low-german-qwertz",
+          "layoutName": "Low German QWERTZ",
+          "path": "languages/nds/low-german-qwertz.json",
+          "formatVersion": 1,
+          "sizeBytes": 3458,
+          "sha256": "c46eadfd5eb021bccbbf49dee3271973983feaa735468cea36bd2b7ede0f3afc",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ne",
+      "languageName": "Nepali",
+      "nativeName": "नेपाली",
+      "localeTag": "ne",
+      "script": "Deva",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "verified",
+      "layouts": [
+        {
+          "layoutId": "nepali-inscript",
+          "layoutName": "Nepali (InScript)",
+          "path": "languages/ne/nepali-inscript.json",
+          "formatVersion": 1,
+          "sizeBytes": 5389,
+          "sha256": "cf0c0602903db98606a1daa1d48ab81840fc57151ddd3c4afe654b4b2e612deb",
+          "verification": "verified"
+        }
+      ]
+    },
+    {
+      "languageId": "nl",
+      "languageName": "Dutch",
+      "nativeName": "Nederlands",
+      "localeTag": "nl",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "dutch-qwerty",
+          "layoutName": "Dutch QWERTY",
+          "path": "languages/nl/dutch-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3273,
+          "sha256": "0c5cebd0402e7423dcf28273476b87f2ee250f7daab6e91ee6eb4ba7a9dba392",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "nn",
+      "languageName": "Norwegian Nynorsk",
+      "nativeName": "Nynorsk",
+      "localeTag": "nn",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "nynorsk-qwerty",
+          "layoutName": "Norwegian Nynorsk QWERTY",
+          "path": "languages/nn/nynorsk-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3442,
+          "sha256": "738bd5f263ccef1b8bb308cc1f9a07dac92ba4542007e9cff4abf6dad20099f1",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "nqo",
+      "languageName": "N'Ko",
+      "nativeName": "ߒߞߏ",
+      "localeTag": "nqo",
+      "script": "Nkoo",
+      "direction": "rtl",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "nko-standard",
+          "layoutName": "N'Ko",
+          "path": "languages/nqo/nko-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 3375,
+          "sha256": "ae16aff44d6f87309724669859e1d48403430c10ec4e5cfca0ec82a48921e178",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "nr",
+      "languageName": "South Ndebele",
+      "nativeName": "isiNdebele",
+      "localeTag": "nr",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "ndebele-qwerty",
+          "layoutName": "Ndebele QWERTY",
+          "path": "languages/nr/ndebele-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 2914,
+          "sha256": "6ed6176746cb90e13ec99077ccdb4c1287caebb8112eb167bc61a3e9d04883b6",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "nso",
+      "languageName": "Northern Sotho",
+      "nativeName": "Sepedi",
+      "localeTag": "nso",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "sepedi-qwerty",
+          "layoutName": "Sepedi (Northern Sotho) QWERTY",
+          "path": "languages/nso/sepedi-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3217,
+          "sha256": "bfb1825b3364e665dc79f71822660a7f0960208380dc4af2f56706fa3d655ace",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ny",
+      "languageName": "Chichewa",
+      "nativeName": "Chichewa",
+      "localeTag": "ny",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "chichewa-qwerty",
+          "layoutName": "Chichewa QWERTY",
+          "path": "languages/ny/chichewa-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3478,
+          "sha256": "54a85d26774a546339f6ea6797b3d1312c837cd3842ecf861a52542695e031d1",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "oc",
+      "languageName": "Occitan",
+      "nativeName": "Occitan",
+      "localeTag": "oc",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "occitan-qwerty",
+          "layoutName": "Occitan QWERTY",
+          "path": "languages/oc/occitan-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3667,
+          "sha256": "1e040fda16675557d829f73c26e67cdf9edc95f19998402b078ac77fb21e8f85",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "om",
+      "languageName": "Oromo",
+      "nativeName": "Oromoo",
+      "localeTag": "om",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "oromo-qwerty",
+          "layoutName": "Oromo (Qubee) QWERTY",
+          "path": "languages/om/oromo-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 2954,
+          "sha256": "a51f43b497459d9428b43250b390946c7be738b40576cc3a6047c13dd53600ab",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "or",
+      "languageName": "Oriya",
+      "nativeName": "ଓଡ଼ିଆ",
+      "localeTag": "or",
+      "script": "Orya",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "oriya-inscript",
+          "layoutName": "Odia (InScript)",
+          "path": "languages/or/oriya-inscript.json",
+          "formatVersion": 1,
+          "sizeBytes": 5359,
+          "sha256": "097408c8f5973cca814d069af8d9e123ab86b9199916cecec0ba1a2ab92f8172",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "os",
+      "languageName": "Ossetian",
+      "nativeName": "Ирон",
+      "localeTag": "os",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "ossetian-jcuken",
+          "layoutName": "Ossetian (ЙЦУКЕН)",
+          "path": "languages/os/ossetian-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 3862,
+          "sha256": "c3eb5ded69ccd4536a55d7be98b3ab68eca7493e6287932ab767060f50d9e286",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "pa",
+      "languageName": "Punjabi",
+      "nativeName": "ਪੰਜਾਬੀ",
+      "localeTag": "pa",
+      "script": "Guru",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "punjabi-inscript",
+          "layoutName": "Punjabi (Gurmukhi InScript)",
+          "path": "languages/pa/punjabi-inscript.json",
+          "formatVersion": 1,
+          "sizeBytes": 5520,
+          "sha256": "2e865cb6406d7a53d6a8f7256c8c1687728298fa1212593c1a36b1fcec1845ad",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "pam",
+      "languageName": "Kapampangan",
+      "nativeName": "Kapampangan",
+      "localeTag": "pam",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "Kapampangan uses the Latin (Filipino) alphabet. No standard national Kapampangan keyboard exists, so a plain QWERTY base is used.",
+      "layouts": [
+        {
+          "layoutId": "kapampangan-qwerty",
+          "layoutName": "Kapampangan QWERTY",
+          "path": "languages/pam/kapampangan-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3431,
+          "sha256": "e2996f59ad0cba917e246c2ae9188ccc53c9f51bc42977dcb072c4452065a063",
+          "verification": "Kapampangan uses the Latin (Filipino) alphabet. No standard national Kapampangan keyboard exists, so a plain QWERTY base is used."
+        }
+      ]
+    },
+    {
+      "languageId": "pl",
+      "languageName": "Polish",
+      "nativeName": "Polski",
+      "localeTag": "pl",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "polish-programmers",
+          "layoutName": "Polish (Programmers)",
+          "path": "languages/pl/polish-programmers.json",
+          "formatVersion": 1,
+          "sizeBytes": 3797,
+          "sha256": "16c5907ca94550bac68765e503ef72371d54154aa8685cd6692dac8142462e53",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "pms",
+      "languageName": "Piedmontese",
+      "nativeName": "Piemontèis",
+      "localeTag": "pms",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "piedmontese-qwerty",
+          "layoutName": "Piedmontese QWERTY",
+          "path": "languages/pms/piedmontese-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3590,
+          "sha256": "cd35a600525112096af7603d50c30756257fd3ae7bc2f257645b274dc38f4b28",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ps",
+      "languageName": "Pashto",
+      "nativeName": "پښتو",
+      "localeTag": "ps",
+      "script": "Arab",
+      "direction": "rtl",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "pashto-standard",
+          "layoutName": "Pashto",
+          "path": "languages/ps/pashto-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 5573,
+          "sha256": "1236036268d199bfed6175088c72889dc0e556a521ad1d73276e7a6989ebda6c",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "pt",
+      "languageName": "Portuguese",
+      "nativeName": "Português",
+      "localeTag": "pt",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "portuguese-qwerty",
+          "layoutName": "Portuguese QWERTY",
+          "path": "languages/pt/portuguese-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3356,
+          "sha256": "9f402a54233ef29ff86a944e74be2b34589946c351c4dbc19bade5805cea1426",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "qu",
+      "languageName": "Quechua",
+      "nativeName": "Runa Simi",
+      "localeTag": "qu",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "quechua-qwerty",
+          "layoutName": "Quechua QWERTY",
+          "path": "languages/qu/quechua-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3289,
+          "sha256": "7c121fea3607bb16e4ac227879efca90441705c1494475f73560f5cc7be16ac8",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "rm",
+      "languageName": "Romansh",
+      "nativeName": "Rumantsch",
+      "localeTag": "rm",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "romansh-qwertz",
+          "layoutName": "Romansh QWERTZ",
+          "path": "languages/rm/romansh-qwertz.json",
+          "formatVersion": 1,
+          "sizeBytes": 3656,
+          "sha256": "2f341a40065b353c29d6b6eebff91382c115c23522be3c4d57e4193b181f0253",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "rn",
+      "languageName": "Kirundi",
+      "nativeName": "Ikirundi",
+      "localeTag": "rn",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "kirundi-qwerty",
+          "layoutName": "Kirundi QWERTY",
+          "path": "languages/rn/kirundi-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3453,
+          "sha256": "2f7a5dc6b32e182db5f44bafb50ebffae43a0b1276c4d59c0ebb700babb7a580",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "ro",
+      "languageName": "Romanian",
+      "nativeName": "Română",
+      "localeTag": "ro",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "romanian-standard",
+          "layoutName": "Romanian (Standard)",
+          "path": "languages/ro/romanian-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 5256,
+          "sha256": "64aad156415f41f4bfa6bd079ef3fffc541fd349f58676bbde50652218903945",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
       "languageId": "ru",
       "languageName": "Russian",
       "nativeName": "Русский",
@@ -286,6 +3926,1618 @@
           "formatVersion": 1,
           "sizeBytes": 5316,
           "sha256": "331dc525874ccdd0f224308f39c8c3f53c78a2f2988840fa7605e09958b03d09",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "rw",
+      "languageName": "Kinyarwanda",
+      "nativeName": "Ikinyarwanda",
+      "localeTag": "rw",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "kinyarwanda-qwerty",
+          "layoutName": "Kinyarwanda QWERTY",
+          "path": "languages/rw/kinyarwanda-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3474,
+          "sha256": "be1e4e574376edb33486e3ba9d909a915d9ec23a31f619a4a56d1e5215e6f972",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "sa",
+      "languageName": "Sanskrit",
+      "nativeName": "संस्कृतम्",
+      "localeTag": "sa",
+      "script": "Deva",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "sanskrit-devanagari",
+          "layoutName": "Sanskrit (Devanagari InScript)",
+          "path": "languages/sa/sanskrit-devanagari.json",
+          "formatVersion": 1,
+          "sizeBytes": 3700,
+          "sha256": "db0c4b8660186c29cda10c59a1034fd523cbf37043d3b7a2b0f9dca764eae9e0",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "sah",
+      "languageName": "Sakha",
+      "nativeName": "Саха тыла",
+      "localeTag": "sah",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "sakha-jcuken",
+          "layoutName": "Sakha (Yakut, ЙЦУКЕН)",
+          "path": "languages/sah/sakha-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 3981,
+          "sha256": "1f951cd0edbd7e8cf0616a0f76edf909bcf4b17e141a3ae4b86a8d0ffb5f37d5",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "sat",
+      "languageName": "Santali",
+      "nativeName": "ᱥᱟᱱᱛᱟᱲᱤ",
+      "localeTag": "sat",
+      "script": "Olck",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "santali-olchiki",
+          "layoutName": "Santali (Ol Chiki)",
+          "path": "languages/sat/santali-olchiki.json",
+          "formatVersion": 1,
+          "sizeBytes": 5254,
+          "sha256": "5560bb04aa4489c3c21f8efd67b2887568031404a19253541560c0524b8a2f5f",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "sc",
+      "languageName": "Sardinian",
+      "nativeName": "Sardu",
+      "localeTag": "sc",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "sardinian-qwerty",
+          "layoutName": "Sardinian QWERTY",
+          "path": "languages/sc/sardinian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3555,
+          "sha256": "f5dc016821f25bbb5853695f5b1b85d81e026e378abeea415fab553651ce54e0",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "scn",
+      "languageName": "Sicilian",
+      "nativeName": "Sicilianu",
+      "localeTag": "scn",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "sicilian-qwerty",
+          "layoutName": "Sicilian QWERTY",
+          "path": "languages/scn/sicilian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3557,
+          "sha256": "b7d1a0ba2fe9dadebd235ed023cfcd14d27cd33a8cf8960e21daa948adfe3c5d",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "sd",
+      "languageName": "Sindhi",
+      "nativeName": "سنڌي",
+      "localeTag": "sd",
+      "script": "Arab",
+      "direction": "rtl",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "sindhi-standard",
+          "layoutName": "Sindhi",
+          "path": "languages/sd/sindhi-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 5856,
+          "sha256": "8ce2c4b5f1ebb21c383c71def8a2dfa2556e8ccc0f6890b941ef6fe5d333c51e",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "se",
+      "languageName": "Northern Sami",
+      "nativeName": "Davvisámegiella",
+      "localeTag": "se",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "northern-sami",
+          "layoutName": "Northern Sami",
+          "path": "languages/se/northern-sami.json",
+          "formatVersion": 1,
+          "sizeBytes": 3678,
+          "sha256": "2be9b925fbf0542b08063409045194e52c05e0f5a86f2dbb5950a756484a6855",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "sg",
+      "languageName": "Sango",
+      "nativeName": "Sängö",
+      "localeTag": "sg",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "sango-qwerty",
+          "layoutName": "Sango QWERTY",
+          "path": "languages/sg/sango-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3579,
+          "sha256": "a03e1c02061fb8c4e070c2b5b0b1b04c1863135905a4cc0ca73e130317384456",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "shn",
+      "languageName": "Shan",
+      "nativeName": "လိၵ်ႈတႆး",
+      "localeTag": "shn",
+      "script": "Mymr",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "shan-standard",
+          "layoutName": "Shan",
+          "path": "languages/shn/shan-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 3348,
+          "sha256": "5a3843fc6a034a4ee0cdb0fc2f63d8c8d3bde7d3b60e555e2a181793331e3cc0",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "si",
+      "languageName": "Sinhala",
+      "nativeName": "සිංහල",
+      "localeTag": "si",
+      "script": "Sinh",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "sinhala-wijesekara",
+          "layoutName": "Sinhala (Wijesekara)",
+          "path": "languages/si/sinhala-wijesekara.json",
+          "formatVersion": 1,
+          "sizeBytes": 5494,
+          "sha256": "752808418b3ff97a5c398d23d49e114b2bc47d10e2451e2d80990379c0991c5c",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "sk",
+      "languageName": "Slovak",
+      "nativeName": "Slovenčina",
+      "localeTag": "sk",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "slovak-qwertz",
+          "layoutName": "Slovak QWERTZ",
+          "path": "languages/sk/slovak-qwertz.json",
+          "formatVersion": 1,
+          "sizeBytes": 5271,
+          "sha256": "9e15ce9fae5ecc7c77fdc1225a1955249388f64b9621a32ff6cb0875eab4ceb2",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "sl",
+      "languageName": "Slovenian",
+      "nativeName": "Slovenščina",
+      "localeTag": "sl",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "slovenian-qwertz",
+          "layoutName": "Slovenian QWERTZ",
+          "path": "languages/sl/slovenian-qwertz.json",
+          "formatVersion": 1,
+          "sizeBytes": 5337,
+          "sha256": "ebd3f15458712e4c0d7e1d79e881ed357c4e3a199b25e89ecf160d731ea8b125",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "sm",
+      "languageName": "Samoan",
+      "nativeName": "Gagana Samoa",
+      "localeTag": "sm",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "Samoan uses the Latin alphabet with macron vowels (ā ē ī ō ū) for long vowels and the ʻokina (ʻ, U+02BB) for the glottal stop.",
+      "layouts": [
+        {
+          "layoutId": "samoan-qwerty",
+          "layoutName": "Samoan QWERTY",
+          "path": "languages/sm/samoan-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3659,
+          "sha256": "e26cd9804152ad769a77d8f11177bbbffc1aff2aed1ea50a333e14b14ea1019a",
+          "verification": "Samoan uses the Latin alphabet with macron vowels (ā ē ī ō ū) for long vowels and the ʻokina (ʻ, U+02BB) for the glottal stop."
+        }
+      ]
+    },
+    {
+      "languageId": "sn",
+      "languageName": "Shona",
+      "nativeName": "chiShona",
+      "localeTag": "sn",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "shona-qwerty",
+          "layoutName": "Shona QWERTY",
+          "path": "languages/sn/shona-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3465,
+          "sha256": "ba721fb50e1b1128391ce2623681ccd04c1e05594bbe657807d65e3b51fb3912",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "so",
+      "languageName": "Somali",
+      "nativeName": "Soomaali",
+      "localeTag": "so",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "somali-qwerty",
+          "layoutName": "Somali QWERTY",
+          "path": "languages/so/somali-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 2903,
+          "sha256": "7ff232cce9b8103bd3596556cec2585da0dc93216a73948a9f5c0bce4dd50d4d",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "sq",
+      "languageName": "Albanian",
+      "nativeName": "Shqip",
+      "localeTag": "sq",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "albanian-qwertz",
+          "layoutName": "Albanian QWERTZ",
+          "path": "languages/sq/albanian-qwertz.json",
+          "formatVersion": 1,
+          "sizeBytes": 4927,
+          "sha256": "a932ae3dec1d4b02d76604035ddeb68bf79e5f7aea43b27ea8d12522b86eb182",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "sr",
+      "languageName": "Serbian",
+      "nativeName": "Српски",
+      "localeTag": "sr",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "serbian-cyrillic",
+          "layoutName": "Serbian (Cyrillic)",
+          "path": "languages/sr/serbian-cyrillic.json",
+          "formatVersion": 1,
+          "sizeBytes": 3609,
+          "sha256": "f89496b66588955c4dac78a2d2677fc056dc7521caa0f3bc49178651f18f0c43",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "srb",
+      "languageName": "Sora Sompeng",
+      "nativeName": "𑃐𑃦𑃝",
+      "localeTag": "srb",
+      "script": "Sora",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "sora-sompeng",
+          "layoutName": "Sora Sompeng",
+          "path": "languages/srb/sora-sompeng.json",
+          "formatVersion": 1,
+          "sizeBytes": 4594,
+          "sha256": "cce9d7c4b2338cea0413a5c14f6eb80436516523519f51037fce09c0d78edf49",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ss",
+      "languageName": "Swati",
+      "nativeName": "siSwati",
+      "localeTag": "ss",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "swati-qwerty",
+          "layoutName": "Swati QWERTY",
+          "path": "languages/ss/swati-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 2878,
+          "sha256": "24f848473dcd7479b0a71ce5555a3e7ffffc5245298d8b4bd429ed13182414eb",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "st",
+      "languageName": "Southern Sotho",
+      "nativeName": "Sesotho",
+      "localeTag": "st",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "sesotho-qwerty",
+          "layoutName": "Sesotho QWERTY",
+          "path": "languages/st/sesotho-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3639,
+          "sha256": "fb68b711ca49cb73d070d8741bae9becb1f8ba03d63374601dd25c2dad032a0e",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "su",
+      "languageName": "Sundanese",
+      "nativeName": "Basa Sunda",
+      "localeTag": "su",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "sundanese-latin",
+          "layoutName": "Sundanese (Latin)",
+          "path": "languages/su/sundanese-latin.json",
+          "formatVersion": 1,
+          "sizeBytes": 4743,
+          "sha256": "1bb0993556e088ba6a3ab994a16d81d6cc3a310cafd6507d7af8a6bdbb2d50ab",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "sv",
+      "languageName": "Swedish",
+      "nativeName": "Svenska",
+      "localeTag": "sv",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "swedish-qwerty",
+          "layoutName": "Swedish QWERTY",
+          "path": "languages/sv/swedish-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3407,
+          "sha256": "77ccfd5a2f223861b93c31096d8a1048b9336d719967c5c90a694ad486b90641",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "sw",
+      "languageName": "Swahili",
+      "nativeName": "Kiswahili",
+      "localeTag": "sw",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "swahili-qwerty",
+          "layoutName": "Swahili QWERTY",
+          "path": "languages/sw/swahili-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3283,
+          "sha256": "f338a381912a3bd9546f6c0cbe887d00d09881ab94c28db5d117372f83344373",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "syr",
+      "languageName": "Syriac",
+      "nativeName": "ܣܘܪܝܝܐ",
+      "localeTag": "syr",
+      "script": "Syrc",
+      "direction": "rtl",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "syriac-standard",
+          "layoutName": "Syriac",
+          "path": "languages/syr/syriac-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 4209,
+          "sha256": "2699780fe35cdf938b38de2ec3a5b3d3d74fede4e83bc22569b15fc358d71fe0",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "szl",
+      "languageName": "Silesian",
+      "nativeName": "Ślōnski",
+      "localeTag": "szl",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "silesian-qwertz",
+          "layoutName": "Silesian QWERTZ",
+          "path": "languages/szl/silesian-qwertz.json",
+          "formatVersion": 1,
+          "sizeBytes": 3835,
+          "sha256": "ca1dcff44170ff84b8bfe4d27b5caefae3b50e5276d6d4a1013e9a97a3d206c3",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ta",
+      "languageName": "Tamil",
+      "nativeName": "தமிழ்",
+      "localeTag": "ta",
+      "script": "Taml",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "tamil-inscript",
+          "layoutName": "Tamil (InScript)",
+          "path": "languages/ta/tamil-inscript.json",
+          "formatVersion": 1,
+          "sizeBytes": 5510,
+          "sha256": "d931c0af76d7275d3bedf353d67a5827135a988168929735c06ca3500a66ce6f",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "te",
+      "languageName": "Telugu",
+      "nativeName": "తెలుగు",
+      "localeTag": "te",
+      "script": "Telu",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "telugu-inscript",
+          "layoutName": "Telugu (InScript)",
+          "path": "languages/te/telugu-inscript.json",
+          "formatVersion": 1,
+          "sizeBytes": 5377,
+          "sha256": "79ec5d639a5dd635855886a1eb7f8effd2a6c20a56687c63ab1178279328b988",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "tet",
+      "languageName": "Tetum",
+      "nativeName": "Tetun",
+      "localeTag": "tet",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "tetum-qwerty",
+          "layoutName": "Tetum QWERTY",
+          "path": "languages/tet/tetum-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3616,
+          "sha256": "fada026a13d7a614f2121354536efee84a52ced90d7498deded3c84bb9a3ee9b",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "tg",
+      "languageName": "Tajik",
+      "nativeName": "Тоҷикӣ",
+      "localeTag": "tg",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "tajik-jcuken",
+          "layoutName": "Tajik (ЙЦУКЕН)",
+          "path": "languages/tg/tajik-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 5396,
+          "sha256": "8b1b93573968d193038395dc62498275be11981b0904097b8625cec210b90b6f",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "th",
+      "languageName": "Thai",
+      "nativeName": "ไทย",
+      "localeTag": "th",
+      "script": "Thai",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "thai-kedmanee",
+          "layoutName": "Thai (Kedmanee)",
+          "path": "languages/th/thai-kedmanee.json",
+          "formatVersion": 1,
+          "sizeBytes": 5625,
+          "sha256": "63bf54db3426d0e83ad674e49e99782dc825d8b0f920e718e6611de97fc199a6",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "ti",
+      "languageName": "Tigrinya",
+      "nativeName": "ትግርኛ",
+      "localeTag": "ti",
+      "script": "Ethi",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "composing",
+        "combining": false,
+        "composition": true
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "tigrinya-fidel",
+          "layoutName": "Tigrinya (Geʽez)",
+          "path": "languages/ti/tigrinya-fidel.json",
+          "formatVersion": 1,
+          "sizeBytes": 3799,
+          "sha256": "18a1e7497ea039299b6a5605de0d1f1da0cdf51d06a1b5848b101c656b531c65",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "tk",
+      "languageName": "Turkmen",
+      "nativeName": "Türkmençe",
+      "localeTag": "tk",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "turkmen-latin",
+          "layoutName": "Turkmen (Latin)",
+          "path": "languages/tk/turkmen-latin.json",
+          "formatVersion": 1,
+          "sizeBytes": 3838,
+          "sha256": "f9c5b303ac1a72004425c00c2d52d26c7f56e979ce8897651920574c90047bba",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "tl",
+      "languageName": "Tagalog",
+      "nativeName": "Tagalog",
+      "localeTag": "tl",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "tagalog-qwerty",
+          "layoutName": "Tagalog (Filipino) QWERTY",
+          "path": "languages/tl/tagalog-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 4829,
+          "sha256": "2f5b5055c08d7485f4c9debe65bc4eb1b26160dc440a23d364d2b910cfb843d1",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "tn",
+      "languageName": "Tswana",
+      "nativeName": "Setswana",
+      "localeTag": "tn",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "tswana-qwerty",
+          "layoutName": "Tswana QWERTY",
+          "path": "languages/tn/tswana-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3742,
+          "sha256": "b755d8ad87570c222f1abd12906c7089032de5aab289e32656ba8444584fc2e1",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "to",
+      "languageName": "Tongan",
+      "nativeName": "lea faka-Tonga",
+      "localeTag": "to",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "Tongan uses the Latin alphabet with macron vowels (ā ē ī ō ū) for long vowels and the ʻokina / fakauʻa (ʻ, U+02BB) for the glottal stop.",
+      "layouts": [
+        {
+          "layoutId": "tongan-qwerty",
+          "layoutName": "Tongan QWERTY",
+          "path": "languages/to/tongan-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3672,
+          "sha256": "0dcfe8f84b70d9b94f585b18339223f20148d72dc621f9ea9095167e9e39996b",
+          "verification": "Tongan uses the Latin alphabet with macron vowels (ā ē ī ō ū) for long vowels and the ʻokina / fakauʻa (ʻ, U+02BB) for the glottal stop."
+        }
+      ]
+    },
+    {
+      "languageId": "tpi",
+      "languageName": "Tok Pisin",
+      "nativeName": "Tok Pisin",
+      "localeTag": "tpi",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "tok-pisin-qwerty",
+          "layoutName": "Tok Pisin QWERTY",
+          "path": "languages/tpi/tok-pisin-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3229,
+          "sha256": "fa7b05adb4bfa98fcf24ae219531ee1ea85e1a74853b28575103d2b20591f9b9",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "tr",
+      "languageName": "Turkish",
+      "nativeName": "Türkçe",
+      "localeTag": "tr",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "turkish-q",
+          "layoutName": "Turkish Q",
+          "path": "languages/tr/turkish-q.json",
+          "formatVersion": 1,
+          "sizeBytes": 5240,
+          "sha256": "55fe6b8c7dd6224f9edb0faa86fea099ab002496f78087c083096620246b8ebf",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "ts",
+      "languageName": "Tsonga",
+      "nativeName": "Xitsonga",
+      "localeTag": "ts",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "tsonga-qwerty",
+          "layoutName": "Tsonga QWERTY",
+          "path": "languages/ts/tsonga-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 2884,
+          "sha256": "fa41f788b1ad840a59fa52c942f0ee36b729c9c0dc6170c695bc2d1c6e680649",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "tt",
+      "languageName": "Tatar",
+      "nativeName": "Татар",
+      "localeTag": "tt",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "tatar-jcuken",
+          "layoutName": "Tatar (ЙЦУКЕН)",
+          "path": "languages/tt/tatar-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 5394,
+          "sha256": "48763c1ecc59967b12c5916f1f825047098438120abc8e4e228320d5095e0b1b",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ty",
+      "languageName": "Tahitian",
+      "nativeName": "Reo Tahiti",
+      "localeTag": "ty",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "Tahitian uses the Latin alphabet with macron vowels (tārava: ā ē ī ō ū) for long vowels and the ʻeta / ʻokina (ʻ, U+02BB) for the glottal stop.",
+      "layouts": [
+        {
+          "layoutId": "tahitian-qwerty",
+          "layoutName": "Tahitian QWERTY",
+          "path": "languages/ty/tahitian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3684,
+          "sha256": "e4992c90a82d738d1863392d68b0cd455bf556ad79f3e5d11f471526b69ab601",
+          "verification": "Tahitian uses the Latin alphabet with macron vowels (tārava: ā ē ī ō ū) for long vowels and the ʻeta / ʻokina (ʻ, U+02BB) for the glottal stop."
+        }
+      ]
+    },
+    {
+      "languageId": "tyv",
+      "languageName": "Tuvan",
+      "nativeName": "Тыва дыл",
+      "localeTag": "tyv",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "tuvan-jcuken",
+          "layoutName": "Tuvan (ЙЦУКЕН)",
+          "path": "languages/tyv/tuvan-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 3908,
+          "sha256": "14633d4b1a18cf6df190d8886ce9f0a4c9f2dd0f01ee1cf26ef48c962e94a721",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "udm",
+      "languageName": "Udmurt",
+      "nativeName": "Удмурт",
+      "localeTag": "udm",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "udmurt-jcuken",
+          "layoutName": "Udmurt (ЙЦУКЕН)",
+          "path": "languages/udm/udmurt-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 3992,
+          "sha256": "59df499f0f68cf42be9ac4d4909afd29e8c926fe719fa8907d71a4db93ecb0a4",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ug",
+      "languageName": "Uyghur",
+      "nativeName": "ئۇيغۇرچە",
+      "localeTag": "ug",
+      "script": "Arab",
+      "direction": "rtl",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "uyghur-standard",
+          "layoutName": "Uyghur",
+          "path": "languages/ug/uyghur-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 5332,
+          "sha256": "d2270dc65a20173db94d7414e055c84e64fd312f6b33e58cd8192f24fa14495d",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "uk",
+      "languageName": "Ukrainian",
+      "nativeName": "Українська",
+      "localeTag": "uk",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "ukrainian-jcuken",
+          "layoutName": "Ukrainian (ЙЦУКЕН)",
+          "path": "languages/uk/ukrainian-jcuken.json",
+          "formatVersion": 1,
+          "sizeBytes": 5180,
+          "sha256": "21349f58a9067d3a1b73d6b6ae4d8d949eaaa8340eeb8f02bcd82b7d3ad62f74",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "ur",
+      "languageName": "Urdu",
+      "nativeName": "اردو",
+      "localeTag": "ur",
+      "script": "Arab",
+      "direction": "rtl",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "urdu-phonetic",
+          "layoutName": "Urdu (Phonetic)",
+          "path": "languages/ur/urdu-phonetic.json",
+          "formatVersion": 1,
+          "sizeBytes": 5416,
+          "sha256": "b86a3a241bc47f3da59855658df7bb49693b3aecc22e9f7f243758c697972ab8",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "uz",
+      "languageName": "Uzbek",
+      "nativeName": "Oʻzbekcha",
+      "localeTag": "uz",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "uzbek-latin",
+          "layoutName": "Uzbek (Latin)",
+          "path": "languages/uz/uzbek-latin.json",
+          "formatVersion": 1,
+          "sizeBytes": 5131,
+          "sha256": "dca089dc19c238da2df91edc16999307329665e96abbf016fcf2b71e6a137a63",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "vai",
+      "languageName": "Vai",
+      "nativeName": "ꕙꔤ",
+      "localeTag": "vai",
+      "script": "Vaii",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "vai-syllabary",
+          "layoutName": "Vai (Syllabary)",
+          "path": "languages/vai/vai-syllabary.json",
+          "formatVersion": 1,
+          "sizeBytes": 3940,
+          "sha256": "2ff81c90b7bdedd65e2610602099fcfdb786683c8c3cbb29e452dee8f6644eb6",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "ve",
+      "languageName": "Venda",
+      "nativeName": "Tshivenda",
+      "localeTag": "ve",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "venda-qwerty",
+          "layoutName": "Venda QWERTY",
+          "path": "languages/ve/venda-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3346,
+          "sha256": "3c9185eb63656a0ecc28e24801666269b5f59481ca875f53b0cea5afb78d056d",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "vec",
+      "languageName": "Venetian",
+      "nativeName": "Vèneto",
+      "localeTag": "vec",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "venetian-qwerty",
+          "layoutName": "Venetian QWERTY",
+          "path": "languages/vec/venetian-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3570,
+          "sha256": "6d5724051adf621db340fb879bdbb419816decb7d9072b449f37591b10f41701",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "vi",
+      "languageName": "Vietnamese",
+      "nativeName": "Tiếng Việt",
+      "localeTag": "vi",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "vietnamese-qwerty",
+          "layoutName": "Vietnamese QWERTY",
+          "path": "languages/vi/vietnamese-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 4788,
+          "sha256": "696e5c2b356aa610cd1dc3888ee4342c6942926734f216af26fcc7317c5811a7",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "vls",
+      "languageName": "West Flemish",
+      "nativeName": "West-Vlams",
+      "localeTag": "vls",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "flemish-qwerty",
+          "layoutName": "West Flemish QWERTY",
+          "path": "languages/vls/flemish-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3374,
+          "sha256": "d51c16f9b4e5d78b8ae957a2727a0eb413c8073c60f7e108ec2836e45158aa17",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "wa",
+      "languageName": "Walloon",
+      "nativeName": "Walon",
+      "localeTag": "wa",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "walloon-azerty",
+          "layoutName": "Walloon AZERTY",
+          "path": "languages/wa/walloon-azerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3597,
+          "sha256": "28f5c6639d7a94207e6c484511bef5baf611e05ff5cfaf8f445e87b13c5b076c",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "war",
+      "languageName": "Waray",
+      "nativeName": "Winaray",
+      "localeTag": "war",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "Waray uses the Latin (Filipino) alphabet. No standard national Waray keyboard exists, so a plain QWERTY base is used.",
+      "layouts": [
+        {
+          "layoutId": "waray-qwerty",
+          "layoutName": "Waray QWERTY",
+          "path": "languages/war/waray-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3391,
+          "sha256": "92b4e3f967d760eed2d73ec037256146b0ed108faff9ce06d264b4c43d85ddf5",
+          "verification": "Waray uses the Latin (Filipino) alphabet. No standard national Waray keyboard exists, so a plain QWERTY base is used."
+        }
+      ]
+    },
+    {
+      "languageId": "wo",
+      "languageName": "Wolof",
+      "nativeName": "Wolof",
+      "localeTag": "wo",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "wolof-qwerty",
+          "layoutName": "Wolof QWERTY",
+          "path": "languages/wo/wolof-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 5290,
+          "sha256": "cbb9ac355bc6dc58d93320d6841e15a47f1289f944a6c423ba889fdc59387045",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "xh",
+      "languageName": "Xhosa",
+      "nativeName": "isiXhosa",
+      "localeTag": "xh",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "xhosa-qwerty",
+          "layoutName": "Xhosa QWERTY",
+          "path": "languages/xh/xhosa-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3470,
+          "sha256": "8d3ca38d5f9ce9ed7196fa6d006737a6d7906487c3b6530a63e66ed8a4a8590c",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "yi",
+      "languageName": "Yiddish",
+      "nativeName": "ייִדיש",
+      "localeTag": "yi",
+      "script": "Hebr",
+      "direction": "rtl",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": true,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "yiddish-standard",
+          "layoutName": "Yiddish",
+          "path": "languages/yi/yiddish-standard.json",
+          "formatVersion": 1,
+          "sizeBytes": 3279,
+          "sha256": "d1df842363a9ef45da70fb4ab810d492932625a31a2daa1ad8003a93607df4f3",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "yo",
+      "languageName": "Yoruba",
+      "nativeName": "Yorùbá",
+      "localeTag": "yo",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "yoruba-qwerty",
+          "layoutName": "Yorùbá QWERTY",
+          "path": "languages/yo/yoruba-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 5152,
+          "sha256": "2a1e469fbe963c4ec373b4b214d5c29a6ce823537a2ced9d779a3da48cb6359f",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "yue",
+      "languageName": "Cantonese",
+      "nativeName": "粵語",
+      "localeTag": "yue",
+      "script": "Hani",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "candidates",
+        "combining": false,
+        "composition": true
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "cantonese-jyutping",
+          "layoutName": "Cantonese (Jyutping QWERTY)",
+          "path": "languages/yue/cantonese-jyutping.json",
+          "formatVersion": 1,
+          "sizeBytes": 4670,
+          "sha256": "4a05e8b8756278010d6c5f5e245b2bf50d69db74bcd9eeb0cf9cedc36e99b83d",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "zgh",
+      "languageName": "Tamazight",
+      "nativeName": "ⵜⴰⵎⴰⵣⵉⵖⵜ",
+      "localeTag": "zgh",
+      "script": "Tfng",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "unverified",
+      "layouts": [
+        {
+          "layoutId": "tamazight-tifinagh",
+          "layoutName": "Tamazight (Tifinagh)",
+          "path": "languages/zgh/tamazight-tifinagh.json",
+          "formatVersion": 1,
+          "sizeBytes": 5328,
+          "sha256": "0c55762445afd1dea022d9ac96b6a12647d9bc318e497b214d3a9ffa5b096f10",
+          "verification": "unverified"
+        }
+      ]
+    },
+    {
+      "languageId": "zh",
+      "languageName": "Chinese",
+      "nativeName": "中文",
+      "localeTag": "zh",
+      "script": "Hani",
+      "direction": "ltr",
+      "hasCase": false,
+      "capabilities": {
+        "inputMode": "candidates",
+        "combining": false,
+        "composition": true
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "chinese-pinyin",
+          "layoutName": "Chinese (Pinyin QWERTY)",
+          "path": "languages/zh/chinese-pinyin.json",
+          "formatVersion": 1,
+          "sizeBytes": 4646,
+          "sha256": "7758ad168663716da8921dc5e1a816c2a35e63383bfacd8632a01e3ebc533cd4",
+          "verification": "layout-reviewed"
+        }
+      ]
+    },
+    {
+      "languageId": "zu",
+      "languageName": "Zulu",
+      "nativeName": "isiZulu",
+      "localeTag": "zu",
+      "script": "Latn",
+      "direction": "ltr",
+      "hasCase": true,
+      "capabilities": {
+        "inputMode": "direct",
+        "combining": false,
+        "composition": false
+      },
+      "verification": "layout-reviewed",
+      "layouts": [
+        {
+          "layoutId": "zulu-qwerty",
+          "layoutName": "Zulu QWERTY",
+          "path": "languages/zu/zulu-qwerty.json",
+          "formatVersion": 1,
+          "sizeBytes": 3432,
+          "sha256": "be72979c2b5957a63c42aaf0cf931461f17aa425e21cf642bb30a1467d84133f",
           "verification": "layout-reviewed"
         }
       ]

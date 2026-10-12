@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "languageId": "cop",
+  "layoutId": "coptic-standard",
+  "layoutName": "Coptic",
+  "languageName": "Coptic",
+  "nativeName": "ϯⲘⲉⲧⲣⲉⲙⲛⲭⲏⲙⲓ",
+  "localeTag": "cop",
+  "script": "Copt",
+  "direction": "ltr",
+  "hasCase": true,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": false,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/coptic",
+    "verification": "unverified",
+    "notes": "Coptic is bicameral. Letters mapped onto a Greek-like order; normal=lowercase (ⲁ), shift=uppercase (Ⲁ). Positions best-effort, not independently verified."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "1",
+          "shift": "1"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "2",
+          "shift": "2"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "3",
+          "shift": "3"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "4",
+          "shift": "4"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "5",
+          "shift": "5"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "6",
+          "shift": "6"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "7",
+          "shift": "7"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "8",
+          "shift": "8"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "9",
+          "shift": "9"
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "0",
+          "shift": "0"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "ⲥ",
+          "shift": "Ⲥ"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "ⲉ",
+          "shift": "Ⲉ"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "ⲣ",
+          "shift": "Ⲣ"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "ⲧ",
+          "shift": "Ⲧ"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "ⲩ",
+          "shift": "Ⲩ"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "ⲑ",
+          "shift": "Ⲑ"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "ⲓ",
+          "shift": "Ⲓ"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "ⲟ",
+          "shift": "Ⲟ"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "ⲡ",
+          "shift": "Ⲡ"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "ⲱ",
+          "shift": "Ⲱ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "ⲁ",
+          "shift": "Ⲁ"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "ⲃ",
+          "shift": "Ⲃ"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "ⲇ",
+          "shift": "Ⲇ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "ⲫ",
+          "shift": "Ⲫ"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "ⲅ",
+          "shift": "Ⲅ"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "ⲏ",
+          "shift": "Ⲏ"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "ⲝ",
+          "shift": "Ⲝ"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "ⲕ",
+          "shift": "Ⲕ"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "ⲗ",
+          "shift": "Ⲗ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "ⲍ",
+          "shift": "Ⲍ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ⲭ",
+          "shift": "Ⲭ"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "ⲯ",
+          "shift": "Ⲯ"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "ϣ",
+          "shift": "Ϣ"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "ⲫ",
+          "shift": "Ⲫ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "ⲛ",
+          "shift": "Ⲛ"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "ⲙ",
+          "shift": "Ⲙ"
+        }
+      ]
+    }
+  ]
+}

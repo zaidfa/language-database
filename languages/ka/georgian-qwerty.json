@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "languageId": "ka",
+  "layoutId": "georgian-qwerty",
+  "layoutName": "Georgian (QWERTY)",
+  "languageName": "Georgian",
+  "nativeName": "ქართული",
+  "localeTag": "ka",
+  "script": "Geor",
+  "direction": "ltr",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": false,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/georgian",
+    "verification": "unverified",
+    "notes": "Georgian QWERTY mapping (q->ქ, w->წ, e->ე, r->რ, t->ტ ...). Georgian is unicameral; shift==normal. Positions are best-effort against the common Georgian QWERTY layout and not independently verified."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "1",
+          "shift": "1"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "2",
+          "shift": "2"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "3",
+          "shift": "3"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "4",
+          "shift": "4"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "5",
+          "shift": "5"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "6",
+          "shift": "6"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "7",
+          "shift": "7"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "8",
+          "shift": "8"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "9",
+          "shift": "9"
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "0",
+          "shift": "0"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "ქ",
+          "shift": "ქ"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "წ",
+          "shift": "წ"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "ე",
+          "shift": "ე"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "რ",
+          "shift": "ღ"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "ტ",
+          "shift": "თ"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "ყ",
+          "shift": "ყ"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "უ",
+          "shift": "უ"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "ი",
+          "shift": "ი"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "ო",
+          "shift": "ო"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "პ",
+          "shift": "პ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "ა",
+          "shift": "ა"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "ს",
+          "shift": "შ"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "დ",
+          "shift": "დ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "ფ",
+          "shift": "ფ"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "გ",
+          "shift": "გ"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "ჰ",
+          "shift": "ჰ"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "ჯ",
+          "shift": "ჟ"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "კ",
+          "shift": "კ"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "ლ",
+          "shift": "ლ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "ზ",
+          "shift": "ძ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ხ",
+          "shift": "ხ"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "ც",
+          "shift": "ჩ"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "ვ",
+          "shift": "ვ"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "ბ",
+          "shift": "ბ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "ნ",
+          "shift": "ნ"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "მ",
+          "shift": "მ"
+        }
+      ]
+    }
+  ]
+}

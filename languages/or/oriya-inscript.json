@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "languageId": "or",
+  "layoutId": "oriya-inscript",
+  "layoutName": "Odia (InScript)",
+  "languageName": "Oriya",
+  "nativeName": "ଓଡ଼ିଆ",
+  "localeTag": "or",
+  "script": "Orya",
+  "direction": "ltr",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": true,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/oriya",
+    "verification": "unverified",
+    "notes": "Odia (Oriya) script InScript, built by mapping each Hindi InScript physical position to the equivalent Odia code point (matras in normal, independent vowels in shift). Native Odia digits in row-0. Not Branah-verified key-by-key; needs key-by-key Branah verification."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "୧",
+          "shift": "ଁ"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "୨",
+          "shift": "୨"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "୩",
+          "shift": "୍ର"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "୪",
+          "shift": "ର୍"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "୫",
+          "shift": "ଜ୍ଞ"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "୬",
+          "shift": "ତ୍ର"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "୭",
+          "shift": "କ୍ଷ"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "୮",
+          "shift": "ଶ୍ର"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "୯",
+          "shift": "("
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "୦",
+          "shift": ")"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "ୌ",
+          "shift": "ଔ"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "ୈ",
+          "shift": "ଐ"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "ା",
+          "shift": "ଆ"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "ୀ",
+          "shift": "ଈ"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "ୂ",
+          "shift": "ଊ"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "ବ",
+          "shift": "ଭ"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "ହ",
+          "shift": "ଙ"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "ଗ",
+          "shift": "ଘ"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "ଦ",
+          "shift": "ଧ"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "ଜ",
+          "shift": "ଝ"
+        },
+        {
+          "keyId": "row-1-11",
+          "normal": "ଡ",
+          "shift": "ଢ"
+        },
+        {
+          "keyId": "row-1-12",
+          "normal": "଼",
+          "shift": "ଞ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "ୋ",
+          "shift": "ଓ"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "େ",
+          "shift": "ଏ"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "୍",
+          "shift": "ଅ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "ି",
+          "shift": "ଇ"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "ୁ",
+          "shift": "ଉ"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "ପ",
+          "shift": "ଫ"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "ର",
+          "shift": "ର"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "କ",
+          "shift": "ଖ"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "ତ",
+          "shift": "ଥ"
+        },
+        {
+          "keyId": "row-2-10",
+          "normal": "ଚ",
+          "shift": "ଛ"
+        },
+        {
+          "keyId": "row-2-11",
+          "normal": "ଟ",
+          "shift": "ଠ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "ୃ",
+          "shift": "ଋ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ଂ",
+          "shift": "ଣ"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "ମ",
+          "shift": "ଃ"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "ନ",
+          "shift": "ନ"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "ଵ",
+          "shift": "ଵ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "ଲ",
+          "shift": "ଳ"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "ସ",
+          "shift": "ଶ"
+        },
+        {
+          "keyId": "row-3-8",
+          "normal": "ଯ",
+          "shift": "ୟ"
+        },
+        {
+          "keyId": "row-3-9",
+          "normal": "।",
+          "shift": "ଽ"
+        }
+      ]
+    }
+  ]
+}

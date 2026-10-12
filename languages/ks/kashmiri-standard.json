@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "languageId": "ks",
+  "layoutId": "kashmiri-standard",
+  "layoutName": "Kashmiri",
+  "languageName": "Kashmiri",
+  "nativeName": "کٲشُر",
+  "localeTag": "ks",
+  "script": "Arab",
+  "direction": "rtl",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": true,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/kashmiri",
+    "verification": "unverified",
+    "notes": "Kashmiri uses an extended Perso-Arabic script (Urdu-like base plus extra vowel signs/letters), written right-to-left. Base consonants are arranged across 4 rows as a best-effort; the many Kashmiri-specific vowel diacritics are not fully represented. Verify against branah.com/kashmiri."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        { "keyId": "row-0-1", "normal": "۱", "shift": "۱" },
+        { "keyId": "row-0-2", "normal": "۲", "shift": "۲" },
+        { "keyId": "row-0-3", "normal": "۳", "shift": "۳" },
+        { "keyId": "row-0-4", "normal": "۴", "shift": "۴" },
+        { "keyId": "row-0-5", "normal": "۵", "shift": "۵" },
+        { "keyId": "row-0-6", "normal": "۶", "shift": "۶" },
+        { "keyId": "row-0-7", "normal": "۷", "shift": "۷" },
+        { "keyId": "row-0-8", "normal": "۸", "shift": "۸" },
+        { "keyId": "row-0-9", "normal": "۹", "shift": "۹" },
+        { "keyId": "row-0-10", "normal": "۰", "shift": "۰" }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        { "keyId": "row-1-1", "normal": "ا", "shift": "ا" },
+        { "keyId": "row-1-2", "normal": "ب", "shift": "ب" },
+        { "keyId": "row-1-3", "normal": "پ", "shift": "پ" },
+        { "keyId": "row-1-4", "normal": "ت", "shift": "ت" },
+        { "keyId": "row-1-5", "normal": "ٹ", "shift": "ٹ" },
+        { "keyId": "row-1-6", "normal": "ث", "shift": "ث" },
+        { "keyId": "row-1-7", "normal": "ج", "shift": "ج" },
+        { "keyId": "row-1-8", "normal": "چ", "shift": "چ" },
+        { "keyId": "row-1-9", "normal": "ح", "shift": "ح" },
+        { "keyId": "row-1-10", "normal": "خ", "shift": "خ" },
+        { "keyId": "row-1-11", "normal": "د", "shift": "د" },
+        { "keyId": "row-1-12", "normal": "ڈ", "shift": "ڈ" }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        { "keyId": "row-2-1", "normal": "ذ", "shift": "ذ" },
+        { "keyId": "row-2-2", "normal": "ر", "shift": "ر" },
+        { "keyId": "row-2-3", "normal": "ز", "shift": "ز" },
+        { "keyId": "row-2-4", "normal": "ژ", "shift": "ژ" },
+        { "keyId": "row-2-5", "normal": "س", "shift": "س" },
+        { "keyId": "row-2-6", "normal": "ش", "shift": "ش" },
+        { "keyId": "row-2-7", "normal": "ص", "shift": "ص" },
+        { "keyId": "row-2-8", "normal": "ض", "shift": "ض" },
+        { "keyId": "row-2-9", "normal": "ط", "shift": "ط" },
+        { "keyId": "row-2-10", "normal": "ظ", "shift": "ظ" },
+        { "keyId": "row-2-11", "normal": "ع", "shift": "ع" },
+        { "keyId": "row-2-12", "normal": "غ", "shift": "غ" }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        { "keyId": "row-3-1", "normal": "ف", "shift": "ف" },
+        { "keyId": "row-3-2", "normal": "ق", "shift": "ق" },
+        { "keyId": "row-3-3", "normal": "ک", "shift": "ک" },
+        { "keyId": "row-3-4", "normal": "گ", "shift": "گ" },
+        { "keyId": "row-3-5", "normal": "ل", "shift": "ل" },
+        { "keyId": "row-3-6", "normal": "م", "shift": "م" },
+        { "keyId": "row-3-7", "normal": "ن", "shift": "ن" },
+        { "keyId": "row-3-8", "normal": "و", "shift": "و" },
+        { "keyId": "row-3-9", "normal": "ہ", "shift": "ہ" },
+        { "keyId": "row-3-10", "normal": "ی", "shift": "ی" },
+        { "keyId": "row-3-11", "normal": "ے", "shift": "ے" }
+      ]
+    }
+  ]
+}

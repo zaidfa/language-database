@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "languageId": "ta",
+  "layoutId": "tamil-inscript",
+  "layoutName": "Tamil (InScript)",
+  "languageName": "Tamil",
+  "nativeName": "தமிழ்",
+  "localeTag": "ta",
+  "script": "Taml",
+  "direction": "ltr",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": true,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/tamil",
+    "verification": "unverified",
+    "notes": "Tamil InScript, following the Hindi InScript physical key order. Tamil has far fewer consonants than Devanagari (no aspirated/voiced series), so many InScript positions that hold aspirates in Hindi are left mapping to the nearest Tamil consonant or repeat the base letter; several keys therefore duplicate normal/shift. row-0 uses ASCII 1-0 (Tamil uses Tamil digits ௧-௦ but ASCII is safer for input). NOT verified key-by-key against Branah; needs branah key-by-key verification."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "1",
+          "shift": "1"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "2",
+          "shift": "2"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "3",
+          "shift": "3"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "4",
+          "shift": "4"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "5",
+          "shift": "5"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "6",
+          "shift": "6"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "7",
+          "shift": "7"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "8",
+          "shift": "8"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "9",
+          "shift": "("
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "0",
+          "shift": ")"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "ௌ",
+          "shift": "ஔ"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "ை",
+          "shift": "ஐ"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "ா",
+          "shift": "ஆ"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "ீ",
+          "shift": "ஈ"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "ூ",
+          "shift": "ஊ"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "ப",
+          "shift": "ப"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "ஹ",
+          "shift": "ங"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "க",
+          "shift": "க"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "த",
+          "shift": "த"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "ஜ",
+          "shift": "ஜ"
+        },
+        {
+          "keyId": "row-1-11",
+          "normal": "ட",
+          "shift": "ட"
+        },
+        {
+          "keyId": "row-1-12",
+          "normal": "ஞ",
+          "shift": "ஞ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "ோ",
+          "shift": "ஓ"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "ே",
+          "shift": "ஏ"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "்",
+          "shift": "அ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "ி",
+          "shift": "இ"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "ு",
+          "shift": "உ"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "ப",
+          "shift": "ப"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "ர",
+          "shift": "ற"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "க",
+          "shift": "க"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "த",
+          "shift": "த"
+        },
+        {
+          "keyId": "row-2-10",
+          "normal": "ச",
+          "shift": "ச"
+        },
+        {
+          "keyId": "row-2-11",
+          "normal": "ட",
+          "shift": "ட"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "ெ",
+          "shift": "எ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ஂ",
+          "shift": "ண"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "ம",
+          "shift": "ஃ"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "ன",
+          "shift": "ந"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "வ",
+          "shift": "ழ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "ல",
+          "shift": "ள"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "ஸ",
+          "shift": "ஶ"
+        },
+        {
+          "keyId": "row-3-8",
+          "normal": "ய",
+          "shift": "ய"
+        },
+        {
+          "keyId": "row-3-9",
+          "normal": "।",
+          "shift": "ஈ"
+        }
+      ]
+    }
+  ]
+}

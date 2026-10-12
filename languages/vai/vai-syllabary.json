@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "languageId": "vai",
+  "layoutId": "vai-syllabary",
+  "layoutName": "Vai (Syllabary)",
+  "languageName": "Vai",
+  "nativeName": "ꕙꔤ",
+  "localeTag": "vai",
+  "script": "Vaii",
+  "direction": "ltr",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": false,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/vai",
+    "verification": "unverified",
+    "notes": "Vai is a large syllabary (200+ characters). This is a best-effort subset of ~40 common syllables arranged across 4 rows; the full syllabary is not represented. Verify against branah.com/vai."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        { "keyId": "row-0-1", "normal": "1", "shift": "1" },
+        { "keyId": "row-0-2", "normal": "2", "shift": "2" },
+        { "keyId": "row-0-3", "normal": "3", "shift": "3" },
+        { "keyId": "row-0-4", "normal": "4", "shift": "4" },
+        { "keyId": "row-0-5", "normal": "5", "shift": "5" },
+        { "keyId": "row-0-6", "normal": "6", "shift": "6" },
+        { "keyId": "row-0-7", "normal": "7", "shift": "7" },
+        { "keyId": "row-0-8", "normal": "8", "shift": "8" },
+        { "keyId": "row-0-9", "normal": "9", "shift": "9" },
+        { "keyId": "row-0-10", "normal": "0", "shift": "0" }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        { "keyId": "row-1-1", "normal": "ꔀ", "shift": "ꔀ" },
+        { "keyId": "row-1-2", "normal": "ꔁ", "shift": "ꔁ" },
+        { "keyId": "row-1-3", "normal": "ꔂ", "shift": "ꔂ" },
+        { "keyId": "row-1-4", "normal": "ꔃ", "shift": "ꔃ" },
+        { "keyId": "row-1-5", "normal": "ꔄ", "shift": "ꔄ" },
+        { "keyId": "row-1-6", "normal": "ꔤ", "shift": "ꔤ" },
+        { "keyId": "row-1-7", "normal": "ꕀ", "shift": "ꕀ" },
+        { "keyId": "row-1-8", "normal": "ꕁ", "shift": "ꕁ" },
+        { "keyId": "row-1-9", "normal": "ꕂ", "shift": "ꕂ" },
+        { "keyId": "row-1-10", "normal": "ꕃ", "shift": "ꕃ" },
+        { "keyId": "row-1-11", "normal": "ꕄ", "shift": "ꕄ" },
+        { "keyId": "row-1-12", "normal": "ꕅ", "shift": "ꕅ" },
+        { "keyId": "row-1-13", "normal": "ꕆ", "shift": "ꕆ" }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        { "keyId": "row-2-1", "normal": "ꕇ", "shift": "ꕇ" },
+        { "keyId": "row-2-2", "normal": "ꕈ", "shift": "ꕈ" },
+        { "keyId": "row-2-3", "normal": "ꕉ", "shift": "ꕉ" },
+        { "keyId": "row-2-4", "normal": "ꕊ", "shift": "ꕊ" },
+        { "keyId": "row-2-5", "normal": "ꕌ", "shift": "ꕌ" },
+        { "keyId": "row-2-6", "normal": "ꕎ", "shift": "ꕎ" },
+        { "keyId": "row-2-7", "normal": "ꕐ", "shift": "ꕐ" },
+        { "keyId": "row-2-8", "normal": "ꕑ", "shift": "ꕑ" },
+        { "keyId": "row-2-9", "normal": "ꕒ", "shift": "ꕒ" },
+        { "keyId": "row-2-10", "normal": "ꕓ", "shift": "ꕓ" },
+        { "keyId": "row-2-11", "normal": "ꕔ", "shift": "ꕔ" },
+        { "keyId": "row-2-12", "normal": "ꕕ", "shift": "ꕕ" },
+        { "keyId": "row-2-13", "normal": "ꕖ", "shift": "ꕖ" }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        { "keyId": "row-3-1", "normal": "ꕘ", "shift": "ꕘ" },
+        { "keyId": "row-3-2", "normal": "ꕙ", "shift": "ꕙ" },
+        { "keyId": "row-3-3", "normal": "ꕚ", "shift": "ꕚ" },
+        { "keyId": "row-3-4", "normal": "ꕛ", "shift": "ꕛ" },
+        { "keyId": "row-3-5", "normal": "ꕞ", "shift": "ꕞ" },
+        { "keyId": "row-3-6", "normal": "ꕟ", "shift": "ꕟ" },
+        { "keyId": "row-3-7", "normal": "ꕠ", "shift": "ꕠ" },
+        { "keyId": "row-3-8", "normal": "ꕡ", "shift": "ꕡ" },
+        { "keyId": "row-3-9", "normal": "ꕢ", "shift": "ꕢ" },
+        { "keyId": "row-3-10", "normal": "ꖐ", "shift": "ꖐ" },
+        { "keyId": "row-3-11", "normal": "ꖙ", "shift": "ꖙ" }
+      ]
+    }
+  ]
+}

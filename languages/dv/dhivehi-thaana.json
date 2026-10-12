@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "languageId": "dv",
+  "layoutId": "dhivehi-thaana",
+  "layoutName": "Dhivehi (Thaana)",
+  "languageName": "Dhivehi",
+  "nativeName": "ދިވެހި",
+  "localeTag": "dv",
+  "script": "Thaa",
+  "direction": "rtl",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": true,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "Dhivehi Thaana (RTL) keyboard. Base consonants ހ ށ ނ ރ ބ ޅ ކ އ ވ މ ފ ދ ތ ލ ގ ޱ ސ ޑ ޒ ޓ ޔ ޕ ޖ ޗ.",
+    "verification": "unverified",
+    "notes": "Row-0 uses ASCII digits 1-0 (Thaana has no distinct digit set in common keyboard use). Vowels (fili) are combining diacritics entered via an input method and are not placed on the base rows here. Letter order approximated; must be verified against branah. See https://www.branah.com/thaana"
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "1",
+          "shift": "1"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "2",
+          "shift": "2"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "3",
+          "shift": "3"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "4",
+          "shift": "4"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "5",
+          "shift": "5"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "6",
+          "shift": "6"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "7",
+          "shift": "7"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "8",
+          "shift": "8"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "9",
+          "shift": "9"
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "0",
+          "shift": "0"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "ހ",
+          "shift": "ޙ"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "ށ",
+          "shift": "ޝ"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "ނ",
+          "shift": "ޱ"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "ރ",
+          "shift": "ރ"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "ބ",
+          "shift": "ބ"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "ޅ",
+          "shift": "ޅ"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "ކ",
+          "shift": "ޚ"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "އ",
+          "shift": "އ"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "ވ",
+          "shift": "ޥ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "މ",
+          "shift": "މ"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "ފ",
+          "shift": "ﷲ"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "ދ",
+          "shift": "ޛ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "ތ",
+          "shift": "ޘ"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "ލ",
+          "shift": "ޢ"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "ގ",
+          "shift": "ޣ"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "ޱ",
+          "shift": "ޱ"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "ސ",
+          "shift": "ޞ"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "ޑ",
+          "shift": "ޟ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "ޒ",
+          "shift": "ޡ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ޓ",
+          "shift": "ޠ"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "ޔ",
+          "shift": "ޔ"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "ޕ",
+          "shift": "ޕ"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "ޖ",
+          "shift": "ޖ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "ޗ",
+          "shift": "ޗ"
+        }
+      ]
+    }
+  ]
+}

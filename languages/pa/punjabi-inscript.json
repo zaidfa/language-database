@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "languageId": "pa",
+  "layoutId": "punjabi-inscript",
+  "layoutName": "Punjabi (Gurmukhi InScript)",
+  "languageName": "Punjabi",
+  "nativeName": "ਪੰਜਾਬੀ",
+  "localeTag": "pa",
+  "script": "Guru",
+  "direction": "ltr",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": true,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/punjabi",
+    "verification": "unverified",
+    "notes": "Gurmukhi-script InScript, built by mapping Hindi InScript physical positions to the equivalent Gurmukhi code points (matras in normal, independent vowels in shift). Gurmukhi independent vowels are formed on bearer letters (ੳ ਅ ੲ); here the closest single code points are used, so some vowel positions are best-effort. Native Gurmukhi digits in row-0. Needs key-by-key Branah verification."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "੧",
+          "shift": "ਁ"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "੨",
+          "shift": "੨"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "੩",
+          "shift": "੍ਰ"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "੪",
+          "shift": "ਰ੍"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "੫",
+          "shift": "ਜ੍ਞ"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "੬",
+          "shift": "ਤ੍ਰ"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "੭",
+          "shift": "ਕ੍ਸ਼"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "੮",
+          "shift": "ਸ਼੍ਰ"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "੯",
+          "shift": "("
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "੦",
+          "shift": ")"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "ੌ",
+          "shift": "ਔ"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "ੈ",
+          "shift": "ਐ"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "ਾ",
+          "shift": "ਆ"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "ੀ",
+          "shift": "ਈ"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "ੂ",
+          "shift": "ਊ"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "ਬ",
+          "shift": "ਭ"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "ਹ",
+          "shift": "ਙ"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "ਗ",
+          "shift": "ਘ"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "ਦ",
+          "shift": "ਧ"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "ਜ",
+          "shift": "ਝ"
+        },
+        {
+          "keyId": "row-1-11",
+          "normal": "ਡ",
+          "shift": "ਢ"
+        },
+        {
+          "keyId": "row-1-12",
+          "normal": "਼",
+          "shift": "ਞ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "ੋ",
+          "shift": "ਓ"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "ੇ",
+          "shift": "ਏ"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "੍",
+          "shift": "ਅ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "ਿ",
+          "shift": "ਇ"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "ੁ",
+          "shift": "ਉ"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "ਪ",
+          "shift": "ਫ"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "ਰ",
+          "shift": "ਰ"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "ਕ",
+          "shift": "ਖ"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "ਤ",
+          "shift": "ਥ"
+        },
+        {
+          "keyId": "row-2-10",
+          "normal": "ਚ",
+          "shift": "ਛ"
+        },
+        {
+          "keyId": "row-2-11",
+          "normal": "ਟ",
+          "shift": "ਠ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "ੑ",
+          "shift": "ਐ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ਂ",
+          "shift": "ਣ"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "ਮ",
+          "shift": "ਃ"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "ਨ",
+          "shift": "ਨ"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "ਵ",
+          "shift": "ਵ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "ਲ",
+          "shift": "ਲ਼"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "ਸ",
+          "shift": "ਸ਼"
+        },
+        {
+          "keyId": "row-3-8",
+          "normal": "ਯ",
+          "shift": "ਯ"
+        },
+        {
+          "keyId": "row-3-9",
+          "normal": "।",
+          "shift": "ੴ"
+        }
+      ]
+    }
+  ]
+}

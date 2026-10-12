@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "languageId": "bho",
+  "layoutId": "bhojpuri-inscript",
+  "layoutName": "Bhojpuri (InScript)",
+  "languageName": "Bhojpuri",
+  "nativeName": "भोजपुरी",
+  "localeTag": "bho",
+  "script": "Deva",
+  "direction": "ltr",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": true,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/hindi",
+    "verification": "unverified",
+    "notes": "Bhojpuri uses the Devanagari script; InScript mapping is identical to Hindi InScript. NOT yet verified key-by-key against Branah. Treat as preview until reviewed."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        { "keyId": "row-0-1", "normal": "१", "shift": "ँ" },
+        { "keyId": "row-0-2", "normal": "२", "shift": "ॅ" },
+        { "keyId": "row-0-3", "normal": "३", "shift": "्र" },
+        { "keyId": "row-0-4", "normal": "४", "shift": "र्" },
+        { "keyId": "row-0-5", "normal": "५", "shift": "ज्ञ" },
+        { "keyId": "row-0-6", "normal": "६", "shift": "त्र" },
+        { "keyId": "row-0-7", "normal": "७", "shift": "क्ष" },
+        { "keyId": "row-0-8", "normal": "८", "shift": "श्र" },
+        { "keyId": "row-0-9", "normal": "९", "shift": "(" },
+        { "keyId": "row-0-10", "normal": "०", "shift": ")" }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        { "keyId": "row-1-1", "normal": "ौ", "shift": "औ" },
+        { "keyId": "row-1-2", "normal": "ै", "shift": "ऐ" },
+        { "keyId": "row-1-3", "normal": "ा", "shift": "आ" },
+        { "keyId": "row-1-4", "normal": "ी", "shift": "ई" },
+        { "keyId": "row-1-5", "normal": "ू", "shift": "ऊ" },
+        { "keyId": "row-1-6", "normal": "ब", "shift": "भ" },
+        { "keyId": "row-1-7", "normal": "ह", "shift": "ङ" },
+        { "keyId": "row-1-8", "normal": "ग", "shift": "घ" },
+        { "keyId": "row-1-9", "normal": "द", "shift": "ध" },
+        { "keyId": "row-1-10", "normal": "ज", "shift": "झ" },
+        { "keyId": "row-1-11", "normal": "ड", "shift": "ढ" },
+        { "keyId": "row-1-12", "normal": "़", "shift": "ञ" }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        { "keyId": "row-2-1", "normal": "ो", "shift": "ओ" },
+        { "keyId": "row-2-2", "normal": "े", "shift": "ए" },
+        { "keyId": "row-2-3", "normal": "्", "shift": "अ" },
+        { "keyId": "row-2-4", "normal": "ि", "shift": "इ" },
+        { "keyId": "row-2-5", "normal": "ु", "shift": "उ" },
+        { "keyId": "row-2-6", "normal": "प", "shift": "फ" },
+        { "keyId": "row-2-7", "normal": "र", "shift": "ऱ" },
+        { "keyId": "row-2-8", "normal": "क", "shift": "ख" },
+        { "keyId": "row-2-9", "normal": "त", "shift": "थ" },
+        { "keyId": "row-2-10", "normal": "च", "shift": "छ" },
+        { "keyId": "row-2-11", "normal": "ट", "shift": "ठ" }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        { "keyId": "row-3-1", "normal": "ॆ", "shift": "ऍ" },
+        { "keyId": "row-3-2", "normal": "ं", "shift": "ण" },
+        { "keyId": "row-3-3", "normal": "म", "shift": "ं" },
+        { "keyId": "row-3-4", "normal": "न", "shift": "ऩ" },
+        { "keyId": "row-3-5", "normal": "व", "shift": "ऴ" },
+        { "keyId": "row-3-6", "normal": "ल", "shift": "ळ" },
+        { "keyId": "row-3-7", "normal": "स", "shift": "श" },
+        { "keyId": "row-3-8", "normal": "य", "shift": "य़" },
+        { "keyId": "row-3-9", "normal": "।", "shift": "ऽ" }
+      ]
+    }
+  ]
+}

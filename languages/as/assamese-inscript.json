@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "languageId": "as",
+  "layoutId": "assamese-inscript",
+  "layoutName": "Assamese (InScript)",
+  "languageName": "Assamese",
+  "nativeName": "অসমীয়া",
+  "localeTag": "as",
+  "script": "Beng",
+  "direction": "ltr",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": true,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/assamese",
+    "verification": "unverified",
+    "notes": "Assamese uses the Bengali script with the Assamese-specific letters ৰ (U+09F0 RA) and ৱ (U+09F1 WA) in place of the Bengali র/ব variants. Built by mapping Hindi InScript positions to Bengali/Assamese code points; matras in normal, independent vowels in shift. Native Bengali-script digits in row-0. Needs key-by-key Branah verification."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "১",
+          "shift": "ঁ"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "২",
+          "shift": "২"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "৩",
+          "shift": "্ৰ"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "৪",
+          "shift": "ৰ্"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "৫",
+          "shift": "জ্ঞ"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "৬",
+          "shift": "ত্ৰ"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "৭",
+          "shift": "ক্ষ"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "৮",
+          "shift": "শ্ৰ"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "৯",
+          "shift": "("
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "০",
+          "shift": ")"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "ৌ",
+          "shift": "ঔ"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "ৈ",
+          "shift": "ঐ"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "া",
+          "shift": "আ"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "ী",
+          "shift": "ঈ"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "ূ",
+          "shift": "ঊ"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "ব",
+          "shift": "ভ"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "হ",
+          "shift": "ঙ"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "গ",
+          "shift": "ঘ"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "দ",
+          "shift": "ধ"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "জ",
+          "shift": "ঝ"
+        },
+        {
+          "keyId": "row-1-11",
+          "normal": "ড",
+          "shift": "ঢ"
+        },
+        {
+          "keyId": "row-1-12",
+          "normal": "়",
+          "shift": "ঞ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "ো",
+          "shift": "ও"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "ে",
+          "shift": "এ"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "্",
+          "shift": "অ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "ি",
+          "shift": "ই"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "ু",
+          "shift": "উ"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "প",
+          "shift": "ফ"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "ৰ",
+          "shift": "ৱ"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "ক",
+          "shift": "খ"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "ত",
+          "shift": "থ"
+        },
+        {
+          "keyId": "row-2-10",
+          "normal": "চ",
+          "shift": "ছ"
+        },
+        {
+          "keyId": "row-2-11",
+          "normal": "ট",
+          "shift": "ঠ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "ৃ",
+          "shift": "ঋ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ং",
+          "shift": "ণ"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "ম",
+          "shift": "ঃ"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "ন",
+          "shift": "ন"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "ৱ",
+          "shift": "ৼ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "ল",
+          "shift": "ল"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "স",
+          "shift": "শ"
+        },
+        {
+          "keyId": "row-3-8",
+          "normal": "য",
+          "shift": "য়"
+        },
+        {
+          "keyId": "row-3-9",
+          "normal": "।",
+          "shift": "ঽ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "languageId": "srb",
+  "layoutId": "sora-sompeng",
+  "layoutName": "Sora Sompeng",
+  "languageName": "Sora Sompeng",
+  "nativeName": "𑃐𑃦𑃝",
+  "localeTag": "srb",
+  "script": "Sora",
+  "direction": "ltr",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": false,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/",
+    "verification": "unverified",
+    "notes": "Sora Sompeng is an alphabetic script in the Unicode Supplementary Multilingual Plane (U+110D0..U+110E8). Each letter is a single code point (one 4-byte UTF-8 sequence / surrogate pair). This is a best-effort left-to-right arrangement of the 23 letters across 4 rows; there is no standard physical keyboard order, so positions need verification. row-0 holds Sora Sompeng digits (U+110F0..U+110F9)."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "𑃱",
+          "shift": "𑃱"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "𑃲",
+          "shift": "𑃲"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "𑃳",
+          "shift": "𑃳"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "𑃴",
+          "shift": "𑃴"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "𑃵",
+          "shift": "𑃵"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "𑃶",
+          "shift": "𑃶"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "𑃷",
+          "shift": "𑃷"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "𑃸",
+          "shift": "𑃸"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "𑃹",
+          "shift": "𑃹"
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "𑃰",
+          "shift": "𑃰"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "𑃐",
+          "shift": "𑃐"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "𑃑",
+          "shift": "𑃑"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "𑃒",
+          "shift": "𑃒"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "𑃓",
+          "shift": "𑃓"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "𑃔",
+          "shift": "𑃔"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "𑃕",
+          "shift": "𑃕"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "𑃖",
+          "shift": "𑃖"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "𑃗",
+          "shift": "𑃗"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "𑃘",
+          "shift": "𑃘"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "𑃙",
+          "shift": "𑃙"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "𑃚",
+          "shift": "𑃚"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "𑃛",
+          "shift": "𑃛"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "𑃜",
+          "shift": "𑃜"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "𑃝",
+          "shift": "𑃝"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "𑃞",
+          "shift": "𑃞"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "𑃟",
+          "shift": "𑃟"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "𑃠",
+          "shift": "𑃠"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "𑃡",
+          "shift": "𑃡"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "𑃢",
+          "shift": "𑃢"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "𑃣",
+          "shift": "𑃣"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "𑃤",
+          "shift": "𑃤"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "𑃥",
+          "shift": "𑃥"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "𑃦",
+          "shift": "𑃦"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "languageId": "gu",
+  "layoutId": "gujarati-inscript",
+  "layoutName": "Gujarati (InScript)",
+  "languageName": "Gujarati",
+  "nativeName": "ગુજરાતી",
+  "localeTag": "gu",
+  "script": "Gujr",
+  "direction": "ltr",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": true,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/gujarati",
+    "verification": "unverified",
+    "notes": "Gujarati-script InScript, built by mapping each Hindi InScript physical position to the equivalent Gujarati code point (matras in normal, independent vowels in shift). Native Gujarati digits in row-0. Not Branah-verified key-by-key; needs key-by-key Branah verification."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "૧",
+          "shift": "ઁ"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "૨",
+          "shift": "ૅ"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "૩",
+          "shift": "્ર"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "૪",
+          "shift": "ર્"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "૫",
+          "shift": "જ્ઞ"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "૬",
+          "shift": "ત્ર"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "૭",
+          "shift": "ક્ષ"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "૮",
+          "shift": "શ્ર"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "૯",
+          "shift": "("
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "૦",
+          "shift": ")"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "ૌ",
+          "shift": "ઔ"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "ૈ",
+          "shift": "ઐ"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "ા",
+          "shift": "આ"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "ી",
+          "shift": "ઈ"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "ૂ",
+          "shift": "ઊ"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "બ",
+          "shift": "ભ"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "હ",
+          "shift": "ઙ"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "ગ",
+          "shift": "ઘ"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "દ",
+          "shift": "ધ"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "જ",
+          "shift": "ઝ"
+        },
+        {
+          "keyId": "row-1-11",
+          "normal": "ડ",
+          "shift": "ઢ"
+        },
+        {
+          "keyId": "row-1-12",
+          "normal": "઼",
+          "shift": "ઞ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "ો",
+          "shift": "ઓ"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "ે",
+          "shift": "એ"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "્",
+          "shift": "અ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "િ",
+          "shift": "ઇ"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "ુ",
+          "shift": "ઉ"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "પ",
+          "shift": "ફ"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "ર",
+          "shift": "ર"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "ક",
+          "shift": "ખ"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "ત",
+          "shift": "થ"
+        },
+        {
+          "keyId": "row-2-10",
+          "normal": "ચ",
+          "shift": "છ"
+        },
+        {
+          "keyId": "row-2-11",
+          "normal": "ટ",
+          "shift": "ઠ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "ૃ",
+          "shift": "ઍ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ં",
+          "shift": "ણ"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "મ",
+          "shift": "ઃ"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "ન",
+          "shift": "ન"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "વ",
+          "shift": "વ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "લ",
+          "shift": "ળ"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "સ",
+          "shift": "શ"
+        },
+        {
+          "keyId": "row-3-8",
+          "normal": "ય",
+          "shift": "ય"
+        },
+        {
+          "keyId": "row-3-9",
+          "normal": "।",
+          "shift": "ઽ"
+        }
+      ]
+    }
+  ]
+}

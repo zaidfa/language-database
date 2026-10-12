@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "languageId": "th",
+  "layoutId": "thai-kedmanee",
+  "layoutName": "Thai (Kedmanee)",
+  "languageName": "Thai",
+  "nativeName": "ไทย",
+  "localeTag": "th",
+  "script": "Thai",
+  "direction": "ltr",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": true,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/thai",
+    "verification": "layout-reviewed",
+    "notes": "Thai Kedmanee layout. Digit row uses Thai digits ๑-๐ in normal and ASCII symbols/punct in shift per standard Kedmanee. Base consonants and vowels in normal layer, upper symbols/tone marks in shift layer. Cross-checked against branah.com/thai Kedmanee arrangement."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "_",
+          "shift": "%"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "ๅ",
+          "shift": "+"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "ภ",
+          "shift": "๑"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "ถ",
+          "shift": "๒"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "ุ",
+          "shift": "๓"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "ึ",
+          "shift": "๔"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "ค",
+          "shift": "ู"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "ต",
+          "shift": "฿"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "จ",
+          "shift": "๕"
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "ข",
+          "shift": "๖"
+        },
+        {
+          "keyId": "row-0-11",
+          "normal": "ช",
+          "shift": "๗"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "ๆ",
+          "shift": "๘"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "ไ",
+          "shift": "๙"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "ำ",
+          "shift": "๐"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "พ",
+          "shift": "\""
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "ะ",
+          "shift": "ฎ"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "ั",
+          "shift": "ฑ"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "ี",
+          "shift": "ธ"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "ร",
+          "shift": "ณ"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "น",
+          "shift": "ฯ"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "ย",
+          "shift": "ญ"
+        },
+        {
+          "keyId": "row-1-11",
+          "normal": "บ",
+          "shift": "ฐ"
+        },
+        {
+          "keyId": "row-1-12",
+          "normal": "ล",
+          "shift": ","
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "ฟ",
+          "shift": "ฤ"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "ห",
+          "shift": "ฆ"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "ก",
+          "shift": "ฏ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "ด",
+          "shift": "โ"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "เ",
+          "shift": "ฌ"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "้",
+          "shift": "็"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "่",
+          "shift": "๋"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "า",
+          "shift": "ษ"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "ส",
+          "shift": "ศ"
+        },
+        {
+          "keyId": "row-2-10",
+          "normal": "ว",
+          "shift": "ซ"
+        },
+        {
+          "keyId": "row-2-11",
+          "normal": "ง",
+          "shift": "."
+        },
+        {
+          "keyId": "row-2-12",
+          "normal": "ฃ",
+          "shift": "ฅ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "ผ",
+          "shift": "("
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ป",
+          "shift": ")"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "แ",
+          "shift": "ฉ"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "อ",
+          "shift": "ฮ"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "ิ",
+          "shift": "ฺ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "ื",
+          "shift": "์"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "ท",
+          "shift": "?"
+        },
+        {
+          "keyId": "row-3-8",
+          "normal": "ม",
+          "shift": "ฒ"
+        },
+        {
+          "keyId": "row-3-9",
+          "normal": "ใ",
+          "shift": "ฬ"
+        },
+        {
+          "keyId": "row-3-10",
+          "normal": "ฝ",
+          "shift": "ฦ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "languageId": "my",
+  "layoutId": "myanmar-standard",
+  "layoutName": "Myanmar (Burmese)",
+  "languageName": "Myanmar",
+  "nativeName": "မြန်မာ",
+  "localeTag": "my",
+  "script": "Mymr",
+  "direction": "ltr",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": true,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/myanmar",
+    "verification": "unverified",
+    "notes": "Burmese consonant, medial and vowel arrangement authored from the Myanmar consonant set; key positions NOT verified against the Myanmar3 / standard Myanmar keyboard. Digit row uses Myanmar digits ၁-၀. Verify against branah.com/myanmar before production use."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "၁",
+          "shift": "1"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "၂",
+          "shift": "2"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "၃",
+          "shift": "3"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "၄",
+          "shift": "4"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "၅",
+          "shift": "5"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "၆",
+          "shift": "6"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "၇",
+          "shift": "7"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "၈",
+          "shift": "8"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "၉",
+          "shift": "9"
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "၀",
+          "shift": "0"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "က",
+          "shift": "ခ"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "ဂ",
+          "shift": "ဃ"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "င",
+          "shift": "စ"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "ဆ",
+          "shift": "ဇ"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "ဈ",
+          "shift": "ဉ"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "ည",
+          "shift": "ဋ"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "ဌ",
+          "shift": "ဍ"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "ဎ",
+          "shift": "ဏ"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "တ",
+          "shift": "ထ"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "ဒ",
+          "shift": "ဓ"
+        },
+        {
+          "keyId": "row-1-11",
+          "normal": "န",
+          "shift": "ပ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "ဖ",
+          "shift": "ဗ"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "ဘ",
+          "shift": "မ"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "ယ",
+          "shift": "ရ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "လ",
+          "shift": "ဝ"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "သ",
+          "shift": "ဟ"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "ဠ",
+          "shift": "အ"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "ာ",
+          "shift": "ါ"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "ိ",
+          "shift": "ီ"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "ု",
+          "shift": "ူ"
+        },
+        {
+          "keyId": "row-2-10",
+          "normal": "ေ",
+          "shift": "ဲ"
+        },
+        {
+          "keyId": "row-2-11",
+          "normal": "ံ",
+          "shift": "့"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "ျ",
+          "shift": "ြ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ွ",
+          "shift": "ှ"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "္",
+          "shift": "်"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "ို",
+          "shift": "ဒ"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "ဿ",
+          "shift": "ဣ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "ဤ",
+          "shift": "ဥ"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "။",
+          "shift": "၊"
+        },
+        {
+          "keyId": "row-3-8",
+          "normal": "?",
+          "shift": "!"
+        }
+      ]
+    }
+  ]
+}

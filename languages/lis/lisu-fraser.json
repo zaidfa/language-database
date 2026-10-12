@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "languageId": "lis",
+  "layoutId": "lisu-fraser",
+  "layoutName": "Lisu (Fraser)",
+  "languageName": "Lisu",
+  "nativeName": "ꓡꓲ-ꓢꓴ",
+  "localeTag": "lis",
+  "script": "Lisu",
+  "direction": "ltr",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": false,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/lisu",
+    "verification": "unverified",
+    "notes": "Lisu Fraser alphabet uses Latin-like uppercase letterforms. Consonants and vowels placed across rows; unicameral so shift==normal. Order best-effort, not independently verified."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "1",
+          "shift": "1"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "2",
+          "shift": "2"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "3",
+          "shift": "3"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "4",
+          "shift": "4"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "5",
+          "shift": "5"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "6",
+          "shift": "6"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "7",
+          "shift": "7"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "8",
+          "shift": "8"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "9",
+          "shift": "9"
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "0",
+          "shift": "0"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "ꓐ",
+          "shift": "ꓐ"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "ꓑ",
+          "shift": "ꓑ"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "ꓒ",
+          "shift": "ꓒ"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "ꓓ",
+          "shift": "ꓓ"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "ꓔ",
+          "shift": "ꓔ"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "ꓕ",
+          "shift": "ꓕ"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "ꓖ",
+          "shift": "ꓖ"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "ꓗ",
+          "shift": "ꓗ"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "ꓘ",
+          "shift": "ꓘ"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "ꓙ",
+          "shift": "ꓙ"
+        },
+        {
+          "keyId": "row-1-11",
+          "normal": "ꓚ",
+          "shift": "ꓚ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "ꓛ",
+          "shift": "ꓛ"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "ꓜ",
+          "shift": "ꓜ"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "ꓝ",
+          "shift": "ꓝ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "ꓞ",
+          "shift": "ꓞ"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "ꓟ",
+          "shift": "ꓟ"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "ꓠ",
+          "shift": "ꓠ"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "ꓡ",
+          "shift": "ꓡ"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "ꓢ",
+          "shift": "ꓢ"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "ꓣ",
+          "shift": "ꓣ"
+        },
+        {
+          "keyId": "row-2-10",
+          "normal": "ꓦ",
+          "shift": "ꓦ"
+        },
+        {
+          "keyId": "row-2-11",
+          "normal": "ꓧ",
+          "shift": "ꓧ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "ꓨ",
+          "shift": "ꓨ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ꓩ",
+          "shift": "ꓩ"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "ꓪ",
+          "shift": "ꓪ"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "ꓫ",
+          "shift": "ꓫ"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "ꓬ",
+          "shift": "ꓬ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "ꓭ",
+          "shift": "ꓭ"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "ꓮ",
+          "shift": "ꓮ"
+        },
+        {
+          "keyId": "row-3-8",
+          "normal": "ꓯ",
+          "shift": "ꓯ"
+        },
+        {
+          "keyId": "row-3-9",
+          "normal": "ꓲ",
+          "shift": "ꓲ"
+        },
+        {
+          "keyId": "row-3-10",
+          "normal": "ꓴ",
+          "shift": "ꓴ"
+        }
+      ]
+    }
+  ]
+}

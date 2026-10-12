@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "languageId": "ps",
+  "layoutId": "pashto-standard",
+  "layoutName": "Pashto",
+  "languageName": "Pashto",
+  "nativeName": "پښتو",
+  "localeTag": "ps",
+  "script": "Arab",
+  "direction": "rtl",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": true,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "Pashto standard keyboard layout based on the Persian/Arabic physical layout with Pashto-specific letters (ټ ډ ړ ږ ښ ګ ڼ ی ۍ ئ).",
+    "verification": "unverified",
+    "notes": "Row-0 uses Arabic-Indic digits ١-٠. Key positions approximated from the Persian/Arabic base with Pashto extras appended; must be verified against branah. See https://www.branah.com/pashto"
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "١",
+          "shift": "١"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "٢",
+          "shift": "٢"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "٣",
+          "shift": "٣"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "٤",
+          "shift": "٤"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "٥",
+          "shift": "٥"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "٦",
+          "shift": "٦"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "٧",
+          "shift": "٧"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "٨",
+          "shift": "٨"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "٩",
+          "shift": "٩"
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "٠",
+          "shift": "٠"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "ض",
+          "shift": "ض"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "ص",
+          "shift": "ص"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "ث",
+          "shift": "ث"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "ق",
+          "shift": "ق"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "ف",
+          "shift": "ف"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "غ",
+          "shift": "غ"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "ع",
+          "shift": "ع"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "ه",
+          "shift": "ه"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "خ",
+          "shift": "خ"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "ح",
+          "shift": "ح"
+        },
+        {
+          "keyId": "row-1-11",
+          "normal": "ج",
+          "shift": "ج"
+        },
+        {
+          "keyId": "row-1-12",
+          "normal": "چ",
+          "shift": "چ"
+        },
+        {
+          "keyId": "row-1-13",
+          "normal": "ګ",
+          "shift": "ګ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "ش",
+          "shift": "ش"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "س",
+          "shift": "س"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "ی",
+          "shift": "ئ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "ب",
+          "shift": "ب"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "ل",
+          "shift": "ل"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "ا",
+          "shift": "آ"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "ت",
+          "shift": "ټ"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "ن",
+          "shift": "ڼ"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "م",
+          "shift": "م"
+        },
+        {
+          "keyId": "row-2-10",
+          "normal": "ک",
+          "shift": "ک"
+        },
+        {
+          "keyId": "row-2-11",
+          "normal": "ګ",
+          "shift": "گ"
+        },
+        {
+          "keyId": "row-2-12",
+          "normal": "ۍ",
+          "shift": "ۍ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "ظ",
+          "shift": "ظ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ط",
+          "shift": "ط"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "ز",
+          "shift": "ږ"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "ر",
+          "shift": "ړ"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "ذ",
+          "shift": "ډ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "د",
+          "shift": "ډ"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "پ",
+          "shift": "پ"
+        },
+        {
+          "keyId": "row-3-8",
+          "normal": "و",
+          "shift": "و"
+        },
+        {
+          "keyId": "row-3-9",
+          "normal": "ښ",
+          "shift": "ښ"
+        },
+        {
+          "keyId": "row-3-10",
+          "normal": "ئ",
+          "shift": "ئ"
+        }
+      ]
+    }
+  ]
+}

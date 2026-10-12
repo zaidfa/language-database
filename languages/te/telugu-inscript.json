@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "languageId": "te",
+  "layoutId": "telugu-inscript",
+  "layoutName": "Telugu (InScript)",
+  "languageName": "Telugu",
+  "nativeName": "తెలుగు",
+  "localeTag": "te",
+  "script": "Telu",
+  "direction": "ltr",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": true,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/telugu",
+    "verification": "unverified",
+    "notes": "Telugu InScript, following the Hindi InScript physical key order with Telugu code points (matras/vowel-signs in normal, independent vowels in shift). row-0 uses ASCII 1-0 (Telugu digits ౦-౯ exist but ASCII is safer for input). NOT verified key-by-key against Branah; needs branah key-by-key verification."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "1",
+          "shift": "ఁ"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "2",
+          "shift": "2"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "3",
+          "shift": "3"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "4",
+          "shift": "4"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "5",
+          "shift": "జ్ఞ"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "6",
+          "shift": "త్ర"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "7",
+          "shift": "క్ష"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "8",
+          "shift": "శ్ర"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "9",
+          "shift": "("
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "0",
+          "shift": ")"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "ౌ",
+          "shift": "ఔ"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "ై",
+          "shift": "ఐ"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "ా",
+          "shift": "ఆ"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "ీ",
+          "shift": "ఈ"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "ూ",
+          "shift": "ఊ"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "బ",
+          "shift": "భ"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "హ",
+          "shift": "ఙ"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "గ",
+          "shift": "ఘ"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "ద",
+          "shift": "ధ"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "జ",
+          "shift": "ఝ"
+        },
+        {
+          "keyId": "row-1-11",
+          "normal": "డ",
+          "shift": "ఢ"
+        },
+        {
+          "keyId": "row-1-12",
+          "normal": "ఞ",
+          "shift": "ఞ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "ో",
+          "shift": "ఓ"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "ే",
+          "shift": "ఏ"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "్",
+          "shift": "అ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "ి",
+          "shift": "ఇ"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "ు",
+          "shift": "ఉ"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "ప",
+          "shift": "ఫ"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "ర",
+          "shift": "ఱ"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "క",
+          "shift": "ఖ"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "త",
+          "shift": "థ"
+        },
+        {
+          "keyId": "row-2-10",
+          "normal": "చ",
+          "shift": "ఛ"
+        },
+        {
+          "keyId": "row-2-11",
+          "normal": "ట",
+          "shift": "ఠ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "ె",
+          "shift": "ఎ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ం",
+          "shift": "ణ"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "మ",
+          "shift": "ః"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "న",
+          "shift": "న"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "వ",
+          "shift": "ఴ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "ల",
+          "shift": "ళ"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "స",
+          "shift": "శ"
+        },
+        {
+          "keyId": "row-3-8",
+          "normal": "య",
+          "shift": "ష"
+        },
+        {
+          "keyId": "row-3-9",
+          "normal": "।",
+          "shift": "ఽ"
+        }
+      ]
+    }
+  ]
+}

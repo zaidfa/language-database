@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "languageId": "he",
+  "layoutId": "hebrew-standard",
+  "layoutName": "Hebrew (Standard)",
+  "languageName": "Hebrew",
+  "nativeName": "עברית",
+  "localeTag": "he",
+  "script": "Hebr",
+  "direction": "rtl",
+  "hasCase": false,
+  "inputProcessing": {
+    "mode": "direct",
+    "combining": true,
+    "composition": false
+  },
+  "provenance": {
+    "reference": "https://www.branah.com/hebrew",
+    "verification": "layout-reviewed",
+    "notes": "Standard Israeli Hebrew keyboard layout. Hebrew is unicameral; shift==normal (niqqud not modeled). Letter order reviewed against branah.com/hebrew."
+  },
+  "rows": [
+    {
+      "rowId": "row-0",
+      "keys": [
+        {
+          "keyId": "row-0-1",
+          "normal": "1",
+          "shift": "1"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "2",
+          "shift": "2"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "3",
+          "shift": "3"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "4",
+          "shift": "4"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "5",
+          "shift": "5"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "6",
+          "shift": "6"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "7",
+          "shift": "7"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "8",
+          "shift": "8"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "9",
+          "shift": "9"
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "0",
+          "shift": "0"
+        }
+      ]
+    },
+    {
+      "rowId": "row-1",
+      "keys": [
+        {
+          "keyId": "row-1-1",
+          "normal": "/",
+          "shift": "/"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "'",
+          "shift": "'"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "ק",
+          "shift": "ק"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "ר",
+          "shift": "ר"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "א",
+          "shift": "א"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "ט",
+          "shift": "ט"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "ו",
+          "shift": "ו"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "ן",
+          "shift": "ן"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "ם",
+          "shift": "ם"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "פ",
+          "shift": "פ"
+        }
+      ]
+    },
+    {
+      "rowId": "row-2",
+      "keys": [
+        {
+          "keyId": "row-2-1",
+          "normal": "ש",
+          "shift": "ש"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "ד",
+          "shift": "ד"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "ג",
+          "shift": "ג"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "כ",
+          "shift": "כ"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "ע",
+          "shift": "ע"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "י",
+          "shift": "י"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "ח",
+          "shift": "ח"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "ל",
+          "shift": "ל"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "ך",
+          "shift": "ך"
+        },
+        {
+          "keyId": "row-2-10",
+          "normal": "ף",
+          "shift": "ף"
+        }
+      ]
+    },
+    {
+      "rowId": "row-3",
+      "keys": [
+        {
+          "keyId": "row-3-1",
+          "normal": "ז",
+          "shift": "ז"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ס",
+          "shift": "ס"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "ב",
+          "shift": "ב"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "ה",
+          "shift": "ה"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "נ",
+          "shift": "נ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "מ",
+          "shift": "מ"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "צ",
+          "shift": "צ"
+        },
+        {
+          "keyId": "row-3-8",
+          "normal": "ת",
+          "shift": "ת"
+        },
+        {
+          "keyId": "row-3-9",
+          "normal": "ץ",
+          "shift": "ץ"
+        }
+      ]
+    }
+  ]
+}
