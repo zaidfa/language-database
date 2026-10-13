@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/assamese",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Assamese uses the Bengali script with the Assamese-specific letters ৰ (U+09F0 RA) and ৱ (U+09F1 WA) in place of the Bengali র/ব variants. Built by mapping Hindi InScript positions to Bengali/Assamese code points; matras in normal, independent vowels in shift. Native Bengali-script digits in row-0. Needs key-by-key Branah verification."
   },
   "rows": [

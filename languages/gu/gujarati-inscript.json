@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/gujarati",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Gujarati-script InScript, built by mapping each Hindi InScript physical position to the equivalent Gujarati code point (matras in normal, independent vowels in shift). Native Gujarati digits in row-0. Not Branah-verified key-by-key; needs key-by-key Branah verification."
   },
   "rows": [

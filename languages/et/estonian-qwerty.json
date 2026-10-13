@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/estonian",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Estonian QWERTY. Special letters ü õ ö ä placed right of the letter blocks (ü right of P; õ next; ö ä right of L). Approximated from the standard Estonian layout; not independently re-verified."
   },
   "rows": [

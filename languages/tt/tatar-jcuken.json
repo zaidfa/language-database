@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/tatar",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Best-effort: Russian ЙЦУКЕН skeleton with Tatar extras ә ө ү җ ң һ added; verify exact positions against branah."
   },
   "rows": [

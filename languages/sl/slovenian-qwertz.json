@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/slovenian",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Slovenian QWERTZ (South Slavic). Special letters č š ž placed in their standard positions (č and ž right of P/L area, š right of P). Approximated from the standard Slovenian layout; not independently re-verified."
   },
   "rows": [

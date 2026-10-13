@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/georgian",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Georgian QWERTY mapping (q->ქ, w->წ, e->ე, r->რ, t->ტ ...). Georgian is unicameral; shift==normal. Positions are best-effort against the common Georgian QWERTY layout and not independently verified."
   },
   "rows": [

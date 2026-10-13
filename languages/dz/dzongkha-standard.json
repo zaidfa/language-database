@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/dzongkha",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Dzongkha uses the Tibetan script. The 30 Tibetan consonants and vowel signs are arranged here, but the official Dzongkha keyboard arrangement differs from the Tibetan layout and these key positions need verification. Digit row uses Tibetan digits ༡-༠. Verify the branah/Dzongkha layout positions before production use."
   },
   "rows": [

@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "Central Kurdish (Sorani) Arabic-script keyboard: ا ب پ ت ج چ ح خ د ر ڕ ز ژ س ش ع غ ف ڤ ق ک گ ل ڵ م ن ه ھ و ۆ وو ی ێ.",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Row-0 uses Arabic-Indic digits ١-٠. Letters arranged across rows as best-effort approximation of the Sorani alphabet. Must be verified against branah. See https://www.branah.com/kurdish-sorani"
   },
   "rows": [

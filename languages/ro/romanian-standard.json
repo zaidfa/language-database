@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/romanian",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Romanian (Standard) QWERTY. Diacritic letters ă â î ș ț placed to the right of the main letter blocks (ă/î right of P; ș/ț right of L; â on bottom row). Approximated from the standard Romanian layout; not independently re-verified."
   },
   "rows": [

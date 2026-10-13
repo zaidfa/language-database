@@ -17,7 +17,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/khmer",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Replaces the mislabelled bundled layout (the old qwerty_khmer.xml actually held Korean jamo). NiDA base + Shift layers partially filled. Pending manual Branah verification."
   },
   "rows": [

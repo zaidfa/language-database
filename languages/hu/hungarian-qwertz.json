@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/hungarian",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Hungarian QWERTZ. Accented letters ő ú ű ü ö ó é á place in their standard positions (ő/ú right of P; é/á right of L; ö/ü/ó on the number row). Approximated from the standard Hungarian layout; not independently re-verified."
   },
   "rows": [

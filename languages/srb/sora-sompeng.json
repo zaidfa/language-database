@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Sora Sompeng is an alphabetic script in the Unicode Supplementary Multilingual Plane (U+110D0..U+110E8). Each letter is a single code point (one 4-byte UTF-8 sequence / surrogate pair). This is a best-effort left-to-right arrangement of the 23 letters across 4 rows; there is no standard physical keyboard order, so positions need verification. row-0 holds Sora Sompeng digits (U+110F0..U+110F9)."
   },
   "rows": [

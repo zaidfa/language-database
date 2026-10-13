@@ -13,6 +13,9 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const LANG_DIR = join(ROOT, "languages");
 const DB_VERSION = "1.0.0";
 const LAST_UPDATED = "2026-10-12T00:00:00Z"; // keep deterministic; bump when regenerating
+// Country/region flag per language id (browse UI). Ids not listed fall back to the globe.
+let FLAGS = {};
+try { FLAGS = JSON.parse(readFileSync(join(ROOT, "tools", "flags.json"), "utf8")); } catch (e) {}
 
 const errors = [];
 const warnings = [];
@@ -118,6 +121,7 @@ for (const lang of [...byLang.keys()].sort()) {
     localeTag: meta.localeTag,
     script: meta.script,
     direction: meta.direction,
+    flag: FLAGS[lang] || "🌐",
     hasCase: !!meta.hasCase,
     capabilities: { inputMode: ip.mode || "direct", combining: !!ip.combining, composition: !!ip.composition },
     verification: (meta.provenance && meta.provenance.verification) || "unverified",

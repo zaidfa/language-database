@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/javanese",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Javanese Latin orthography on a US QWERTY base. A native-script variant (Aksara Jawa / Javanese script, Unicode block U+A980-U+A9DF) exists and is NOT provided here. Latin layout approximated from US QWERTY; not independently verified."
   },
   "rows": [

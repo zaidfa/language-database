@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/lao",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Lao consonant and vowel arrangement authored from the Lao consonant set and common vowels; key positions NOT verified against the official Lao PC keyboard. Digit row uses Lao digits ໑-໐. Verify against branah.com/lao before production use."
   },
   "rows": [

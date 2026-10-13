@@ -17,7 +17,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/korean",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Base + Shift jamo positions follow the standard 2-set (두벌식). Pending manual Branah verification and a Hangul composition engine."
   },
   "rows": [

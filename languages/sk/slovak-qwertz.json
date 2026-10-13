@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/slovak",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Slovak QWERTZ. row-0 shows the diacritic letters (ľ š č ť ž ý á í é) that occupy the number row on the physical Slovak keyboard, with digits on shift. Letter rows follow QWERTZ order. Approximated from the standard Slovak layout; not independently re-verified."
   },
   "rows": [

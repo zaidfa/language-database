@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/myanmar",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Burmese consonant, medial and vowel arrangement authored from the Myanmar consonant set; key positions NOT verified against the Myanmar3 / standard Myanmar keyboard. Digit row uses Myanmar digits ၁-၀. Verify against branah.com/myanmar before production use."
   },
   "rows": [

@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/telugu",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Telugu InScript, following the Hindi InScript physical key order with Telugu code points (matras/vowel-signs in normal, independent vowels in shift). row-0 uses ASCII 1-0 (Telugu digits ౦-౯ exist but ASCII is safer for input). NOT verified key-by-key against Branah; needs branah key-by-key verification."
   },
   "rows": [

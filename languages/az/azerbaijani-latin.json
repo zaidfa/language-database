@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/azerbaijani",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Azerbaijani Latin QWERTY-based layout including ç ə ğ ı i ö ş ü. Positions of extra letters approximated from the standard Azerbaijani layout; not independently verified."
   },
   "rows": [

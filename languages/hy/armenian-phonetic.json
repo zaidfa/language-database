@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/armenian-phonetic",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Eastern Armenian phonetic best-effort mapping to QWERTY positions (a->ա, b->բ, g->գ, d->դ, e->ե ...). Armenian is bicameral; normal=lowercase, shift=uppercase. Exact positions not verified against a specific phonetic standard."
   },
   "rows": [

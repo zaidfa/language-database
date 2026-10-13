@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/latvian",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Latvian (Standard) QWERTY. The physical Latvian keyboard composes most diacritics via a dead key; here the common diacritic letters ā č ē ģ ī ķ ļ ņ š ū ž are placed as direct keys appended to the letter rows so they are all reachable. Letter order follows QWERTY. Approximated; not independently re-verified."
   },
   "rows": [

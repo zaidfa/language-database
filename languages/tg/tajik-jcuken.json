@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/tajik",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Best-effort: Russian ЙЦУКЕН skeleton with Tajik extras ғ ӣ қ ӯ ҳ ҷ added; verify exact positions against branah."
   },
   "rows": [

@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/sundanese",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Sundanese Latin orthography on a US QWERTY base. A native-script variant (Aksara Sunda / Sundanese script, Unicode block U+1B80-U+1BBF) exists and is NOT provided here. Latin layout approximated from US QWERTY; not independently verified."
   },
   "rows": [

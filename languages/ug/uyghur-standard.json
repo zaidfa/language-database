@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "Uyghur Ereb-Yeziqi (Arabic-script) keyboard: ئا ئە ب پ ت ج چ خ د ر ز ژ س ش غ ف ق ك گ ڭ ل م ن ھ ئو ئۇ ئۆ ئۈ ۋ ئې ئى ي.",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Row-0 uses Arabic-Indic digits ١-٠. Letters arranged across rows as best-effort approximation of the Uyghur alphabet order. Must be verified against branah. See https://www.branah.com/uyghur"
   },
   "rows": [

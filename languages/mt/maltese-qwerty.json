@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/maltese",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Maltese QWERTY. Special letters ġ ħ ż ċ placed as direct keys (ċ and ġ on the number-row/top area, ħ right of L, ż right of P) following the physical Maltese keyboard. Letter order follows QWERTY. Approximated; not independently re-verified."
   },
   "rows": [

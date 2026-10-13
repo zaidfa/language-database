@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/fula",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Best-effort QWERTY-based arrangement with Fula hooked letters b, d, eng, n-tilde and y-hook added as direct keys; key positions to be verified against branah."
   },
   "rows": [

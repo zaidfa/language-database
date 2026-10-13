@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/lisu",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Lisu Fraser alphabet uses Latin-like uppercase letterforms. Consonants and vowels placed across rows; unicameral so shift==normal. Order best-effort, not independently verified."
   },
   "rows": [

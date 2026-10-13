@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/cherokee",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Cherokee is an 85-character syllabary. This is a best-effort partial subset of the most common base syllables arranged across 4 rows; full syllabary not represented. Subset to verify against branah.com/cherokee."
   },
   "rows": [

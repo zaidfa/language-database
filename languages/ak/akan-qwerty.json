@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/akan",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Best-effort QWERTY-based arrangement with Akan letters e-open and o-open added as direct keys; key positions to be verified against branah."
   },
   "rows": [

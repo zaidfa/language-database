@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "Sindhi standard keyboard layout based on the Persian/Arabic physical layout with the many Sindhi-specific letters (ٻ ڀ ٿ ٽ ٺ ڄ ڃ ڇ ڌ ڍ ڏ ڊ ڱ ڳ ڦ ک گ ڻ ڙ ھ).",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Row-0 uses Arabic-Indic digits ١-٠. Sindhi has a large consonant inventory; letters arranged across rows as best-effort from the Arabic base plus Sindhi extras. Must be verified against branah. See https://www.branah.com/sindhi"
   },
   "rows": [

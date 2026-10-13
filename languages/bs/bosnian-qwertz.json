@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/bosnian",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Bosnian QWERTZ (South Slavic), identical in structure to the Croatian layout. Special letters č ć đ š ž in standard positions. Approximated from the standard Bosnian/Croatian layout; not independently re-verified."
   },
   "rows": [

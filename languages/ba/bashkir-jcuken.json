@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/bashkir",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Best-effort: Russian ЙЦУКЕН skeleton with Bashkir extras ә ө ү ҙ ҫ ң һ ғ added; verify exact positions against branah."
   },
   "rows": [

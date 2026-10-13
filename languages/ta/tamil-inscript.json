@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/tamil",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Tamil InScript, following the Hindi InScript physical key order. Tamil has far fewer consonants than Devanagari (no aspirated/voiced series), so many InScript positions that hold aspirates in Hindi are left mapping to the nearest Tamil consonant or repeat the base letter; several keys therefore duplicate normal/shift. row-0 uses ASCII 1-0 (Tamil uses Tamil digits ௧-௦ but ASCII is safer for input). NOT verified key-by-key against Branah; needs branah key-by-key verification."
   },
   "rows": [

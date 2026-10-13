@@ -16,65 +16,213 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/shan",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Shan is written with a Myanmar-script variant. Base consonants are arranged across 4 rows as a best-effort; dependent vowels, tone marks and medials are not fully represented. Verify against branah.com/shan."
   },
   "rows": [
     {
       "rowId": "row-0",
       "keys": [
-        { "keyId": "row-0-1", "normal": "႑", "shift": "႑" },
-        { "keyId": "row-0-2", "normal": "႒", "shift": "႒" },
-        { "keyId": "row-0-3", "normal": "႓", "shift": "႓" },
-        { "keyId": "row-0-4", "normal": "႔", "shift": "႔" },
-        { "keyId": "row-0-5", "normal": "႕", "shift": "႕" },
-        { "keyId": "row-0-6", "normal": "႖", "shift": "႖" },
-        { "keyId": "row-0-7", "normal": "႗", "shift": "႗" },
-        { "keyId": "row-0-8", "normal": "႘", "shift": "႘" },
-        { "keyId": "row-0-9", "normal": "႙", "shift": "႙" },
-        { "keyId": "row-0-10", "normal": "႐", "shift": "႐" }
+        {
+          "keyId": "row-0-1",
+          "normal": "႑",
+          "shift": "႑"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "႒",
+          "shift": "႒"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "႓",
+          "shift": "႓"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "႔",
+          "shift": "႔"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "႕",
+          "shift": "႕"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "႖",
+          "shift": "႖"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "႗",
+          "shift": "႗"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "႘",
+          "shift": "႘"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "႙",
+          "shift": "႙"
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "႐",
+          "shift": "႐"
+        }
       ]
     },
     {
       "rowId": "row-1",
       "keys": [
-        { "keyId": "row-1-1", "normal": "က", "shift": "က" },
-        { "keyId": "row-1-2", "normal": "ၵ", "shift": "ၵ" },
-        { "keyId": "row-1-3", "normal": "ၶ", "shift": "ၶ" },
-        { "keyId": "row-1-4", "normal": "င", "shift": "င" },
-        { "keyId": "row-1-5", "normal": "ၸ", "shift": "ၸ" },
-        { "keyId": "row-1-6", "normal": "သ", "shift": "သ" },
-        { "keyId": "row-1-7", "normal": "ၺ", "shift": "ၺ" },
-        { "keyId": "row-1-8", "normal": "တ", "shift": "တ" },
-        { "keyId": "row-1-9", "normal": "ထ", "shift": "ထ" },
-        { "keyId": "row-1-10", "normal": "ၻ", "shift": "ၻ" },
-        { "keyId": "row-1-11", "normal": "ၼ", "shift": "ၼ" }
+        {
+          "keyId": "row-1-1",
+          "normal": "က",
+          "shift": "က"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "ၵ",
+          "shift": "ၵ"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "ၶ",
+          "shift": "ၶ"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "င",
+          "shift": "င"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "ၸ",
+          "shift": "ၸ"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "သ",
+          "shift": "သ"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "ၺ",
+          "shift": "ၺ"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "တ",
+          "shift": "တ"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "ထ",
+          "shift": "ထ"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "ၻ",
+          "shift": "ၻ"
+        },
+        {
+          "keyId": "row-1-11",
+          "normal": "ၼ",
+          "shift": "ၼ"
+        }
       ]
     },
     {
       "rowId": "row-2",
       "keys": [
-        { "keyId": "row-2-1", "normal": "ပ", "shift": "ပ" },
-        { "keyId": "row-2-2", "normal": "ၽ", "shift": "ၽ" },
-        { "keyId": "row-2-3", "normal": "ၾ", "shift": "ၾ" },
-        { "keyId": "row-2-4", "normal": "မ", "shift": "မ" },
-        { "keyId": "row-2-5", "normal": "ယ", "shift": "ယ" },
-        { "keyId": "row-2-6", "normal": "ရ", "shift": "ရ" },
-        { "keyId": "row-2-7", "normal": "လ", "shift": "လ" },
-        { "keyId": "row-2-8", "normal": "ဝ", "shift": "ဝ" },
-        { "keyId": "row-2-9", "normal": "ႁ", "shift": "ႁ" },
-        { "keyId": "row-2-10", "normal": "ဢ", "shift": "ဢ" }
+        {
+          "keyId": "row-2-1",
+          "normal": "ပ",
+          "shift": "ပ"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "ၽ",
+          "shift": "ၽ"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "ၾ",
+          "shift": "ၾ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "မ",
+          "shift": "မ"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "ယ",
+          "shift": "ယ"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "ရ",
+          "shift": "ရ"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "လ",
+          "shift": "လ"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "ဝ",
+          "shift": "ဝ"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "ႁ",
+          "shift": "ႁ"
+        },
+        {
+          "keyId": "row-2-10",
+          "normal": "ဢ",
+          "shift": "ဢ"
+        }
       ]
     },
     {
       "rowId": "row-3",
       "keys": [
-        { "keyId": "row-3-1", "normal": "ာ", "shift": "ာ" },
-        { "keyId": "row-3-2", "normal": "ိ", "shift": "ိ" },
-        { "keyId": "row-3-3", "normal": "ု", "shift": "ု" },
-        { "keyId": "row-3-4", "normal": "ေ", "shift": "ေ" },
-        { "keyId": "row-3-5", "normal": "ဵ", "shift": "ဵ" },
-        { "keyId": "row-3-6", "normal": "ူ", "shift": "ူ" }
+        {
+          "keyId": "row-3-1",
+          "normal": "ာ",
+          "shift": "ာ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ိ",
+          "shift": "ိ"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "ု",
+          "shift": "ု"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "ေ",
+          "shift": "ေ"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "ဵ",
+          "shift": "ဵ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "ူ",
+          "shift": "ူ"
+        }
       ]
     }
   ]

@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/kyrgyz",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Best-effort: Russian ЙЦУКЕН skeleton with Kyrgyz extras ң ө ү added; verify exact positions against branah."
   },
   "rows": [

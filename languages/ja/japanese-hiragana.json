@@ -17,7 +17,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/japanese",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "JIS kana base positions. Shift layer (small kana / alternates) partially filled. Pending manual Branah verification and an IME conversion engine."
   },
   "rows": [

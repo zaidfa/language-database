@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/buginese",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Buginese Lontara script. The 23 base consonant characters placed across rows; vowel signs are combining (combining=true) and not shown as separate keys. Order best-effort, not independently verified."
   },
   "rows": [

@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/mossi",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Best-effort QWERTY-based arrangement with Mossi letters e-open, i-latin, upsilon and eng added as direct keys; key positions to be verified against branah."
   },
   "rows": [

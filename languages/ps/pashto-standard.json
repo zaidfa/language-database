@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "Pashto standard keyboard layout based on the Persian/Arabic physical layout with Pashto-specific letters (ټ ډ ړ ږ ښ ګ ڼ ی ۍ ئ).",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Row-0 uses Arabic-Indic digits ١-٠. Key positions approximated from the Persian/Arabic base with Pashto extras appended; must be verified against branah. See https://www.branah.com/pashto"
   },
   "rows": [

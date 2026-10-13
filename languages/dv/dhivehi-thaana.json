@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "Dhivehi Thaana (RTL) keyboard. Base consonants ހ ށ ނ ރ ބ ޅ ކ އ ވ މ ފ ދ ތ ލ ގ ޱ ސ ޑ ޒ ޓ ޔ ޕ ޖ ޗ.",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Row-0 uses ASCII digits 1-0 (Thaana has no distinct digit set in common keyboard use). Vowels (fili) are combining diacritics entered via an input method and are not placed on the base rows here. Letter order approximated; must be verified against branah. See https://www.branah.com/thaana"
   },
   "rows": [

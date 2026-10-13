@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/wolof",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Best-effort QWERTY-based arrangement with Wolof letters n-tilde, eng and accented vowels a-grave, e-acute, e-diaeresis, o-acute added as direct keys; key positions to be verified against branah."
   },
   "rows": [

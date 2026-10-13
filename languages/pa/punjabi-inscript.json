@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/punjabi",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Gurmukhi-script InScript, built by mapping Hindi InScript physical positions to the equivalent Gurmukhi code points (matras in normal, independent vowels in shift). Gurmukhi independent vowels are formed on bearer letters (ੳ ਅ ੲ); here the closest single code points are used, so some vowel positions are best-effort. Native Gurmukhi digits in row-0. Needs key-by-key Branah verification."
   },
   "rows": [

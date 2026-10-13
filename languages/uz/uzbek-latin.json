@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/uzbek",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Uzbek Latin QWERTY base. The special letters oʻ and gʻ use the modifier letter turned comma U+02BB (oʻ, gʻ); here approximated with dedicated keys whose normal value is the base letter plus U+02BB. The apostrophe key (U+02BB) is provided separately. Digraphs ch and sh are typed as separate letters. Not independently verified."
   },
   "rows": [

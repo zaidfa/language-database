@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/amharic",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Geʽez (Ethiopic) is a large syllabary. This 4-row keyboard shows only the ~33 base (first-order) fidels; full syllable selection requires a composition IME (composition=true). Base fidel subset to verify against branah.com/amharic."
   },
   "rows": [

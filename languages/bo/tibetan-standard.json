@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/tibetan",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "The 30 Tibetan consonants plus vowel signs arranged across rows; key positions NOT verified against the standard Tibetan keyboard. Digit row uses Tibetan digits ༡-༠. Verify against branah.com/tibetan before production use."
   },
   "rows": [

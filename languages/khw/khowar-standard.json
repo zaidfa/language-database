@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "Khowar Arabic-script keyboard built on an Urdu-like base with Khowar-specific extra letters (ڨ ژ ڙ and retroflex/affricate forms).",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Row-0 uses Arabic-Indic digits ١-٠. Based on an Urdu-like base plus Khowar extras; positions approximated and must be verified against branah. See https://www.branah.com/ (Khowar resources limited)"
   },
   "rows": [

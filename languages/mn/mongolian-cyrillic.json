@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/mongolian",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Best-effort Mongolian Cyrillic ЙЦУКЕН-like arrangement including ө ү; verify exact positions against branah."
   },
   "rows": [

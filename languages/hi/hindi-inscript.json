@@ -17,7 +17,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/hindi",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Standard InScript base layer. NOT yet verified key-by-key against Branah; Shift layer partially filled. Treat as preview until reviewed."
   },
   "rows": [

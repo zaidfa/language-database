@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/lithuanian",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Lithuanian (Standard) layout. On the physical keyboard the number row carries ą č ę ė į š ų ū ž and the digits move to shift/AltGr; here row-0 shows those special letters with digits on shift, and the remaining ž/ū are appended to a letter row. Letter order follows QWERTY. Approximated; not independently re-verified."
   },
   "rows": [

@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/tifinagh",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Standard Moroccan Amazigh (Neo-Tifinagh / IRCAM). The 33 Tifinagh letters placed across rows; unicameral so shift==normal. Order best-effort, not independently verified."
   },
   "rows": [

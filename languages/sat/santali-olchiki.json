@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/santali",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Ol Chiki is an alphabetic (non-Brahmic, non-InScript) script with 30 letters; each letter is an independent glyph, so combining is false. The 30 letters are laid out in order across rows 1-3 (10 per row) with native Ol Chiki digits in row-0. This is a best-effort alphabetic arrangement, not the standard Ol Chiki typewriter/keyboard order; needs key-by-key Branah verification."
   },
   "rows": [

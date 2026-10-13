@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "Syriac (RTL) keyboard. The 22 base letters: ܐ ܒ ܓ ܕ ܗ ܘ ܙ ܚ ܛ ܝ ܟ ܠ ܡ ܢ ܣ ܥ ܦ ܨ ܩ ܪ ܫ ܬ.",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Row-0 uses ASCII digits 1-0. The 22 letters are arranged across rows in traditional alphabetical order as a best-effort; must be verified against branah. See https://www.branah.com/syriac"
   },
   "rows": [

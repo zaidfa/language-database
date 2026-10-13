@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/croatian",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Croatian QWERTZ (South Slavic). Special letters č ć đ š ž placed in standard positions (š right of P, đ next; č ć right of L; ž on bottom-right). Approximated from the standard Croatian layout; not independently re-verified."
   },
   "rows": [

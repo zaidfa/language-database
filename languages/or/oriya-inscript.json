@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/oriya",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Odia (Oriya) script InScript, built by mapping each Hindi InScript physical position to the equivalent Odia code point (matras in normal, independent vowels in shift). Native Odia digits in row-0. Not Branah-verified key-by-key; needs key-by-key Branah verification."
   },
   "rows": [

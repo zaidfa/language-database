@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/bambara",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Best-effort QWERTY-based arrangement with Bambara letters e-open, o-open, eng and n-left-hook added as direct keys; key positions to be verified against branah."
   },
   "rows": [

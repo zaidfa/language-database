@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/vietnamese",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Plain US QWERTY base. Real Vietnamese input relies on Telex or VNI input methods to compose diacritics and tone marks (e.g. aa -> â, as -> á), which cannot be represented as static keys. Diacritics must come via an input method; this layout provides the base alphabet only."
   },
   "rows": [

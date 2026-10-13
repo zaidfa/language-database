@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/yoruba",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Best-effort QWERTY-based arrangement with Yoruba dot-below letters e, o and s added as direct keys; key positions to be verified against branah."
   },
   "rows": [

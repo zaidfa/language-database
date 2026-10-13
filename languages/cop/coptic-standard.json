@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/coptic",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Coptic is bicameral. Letters mapped onto a Greek-like order; normal=lowercase (ⲁ), shift=uppercase (Ⲁ). Positions best-effort, not independently verified."
   },
   "rows": [

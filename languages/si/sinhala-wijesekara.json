@@ -16,7 +16,7 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/sinhala",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Sinhala commonly uses the Wijesekara layout, NOT InScript. This is a best-effort vowels-then-consonants arrangement (independent vowels අ ආ ඇ ... then consonants ක ග ච ජ ට ...), with vowel-signs/matras where appropriate. The actual Wijesekara physical key positions are quite different and need key-by-key verification against Branah."
   },
   "rows": [

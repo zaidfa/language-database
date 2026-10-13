@@ -16,71 +16,243 @@
   },
   "provenance": {
     "reference": "https://www.branah.com/tigrinya",
-    "verification": "unverified",
+    "verification": "json-valid",
     "notes": "Tigrinya uses the Geʽez (Ethiopic) fidel syllabary. Shown are ~34 base fidels (first-order forms); a composing input is required to form full syllable orders. Best-effort subset arranged across 4 rows; not exhaustive. Verify against branah.com/tigrinya."
   },
   "rows": [
     {
       "rowId": "row-0",
       "keys": [
-        { "keyId": "row-0-1", "normal": "፩", "shift": "፩" },
-        { "keyId": "row-0-2", "normal": "፪", "shift": "፪" },
-        { "keyId": "row-0-3", "normal": "፫", "shift": "፫" },
-        { "keyId": "row-0-4", "normal": "፬", "shift": "፬" },
-        { "keyId": "row-0-5", "normal": "፭", "shift": "፭" },
-        { "keyId": "row-0-6", "normal": "፮", "shift": "፮" },
-        { "keyId": "row-0-7", "normal": "፯", "shift": "፯" },
-        { "keyId": "row-0-8", "normal": "፰", "shift": "፰" },
-        { "keyId": "row-0-9", "normal": "፱", "shift": "፱" },
-        { "keyId": "row-0-10", "normal": "፲", "shift": "፲" }
+        {
+          "keyId": "row-0-1",
+          "normal": "፩",
+          "shift": "፩"
+        },
+        {
+          "keyId": "row-0-2",
+          "normal": "፪",
+          "shift": "፪"
+        },
+        {
+          "keyId": "row-0-3",
+          "normal": "፫",
+          "shift": "፫"
+        },
+        {
+          "keyId": "row-0-4",
+          "normal": "፬",
+          "shift": "፬"
+        },
+        {
+          "keyId": "row-0-5",
+          "normal": "፭",
+          "shift": "፭"
+        },
+        {
+          "keyId": "row-0-6",
+          "normal": "፮",
+          "shift": "፮"
+        },
+        {
+          "keyId": "row-0-7",
+          "normal": "፯",
+          "shift": "፯"
+        },
+        {
+          "keyId": "row-0-8",
+          "normal": "፰",
+          "shift": "፰"
+        },
+        {
+          "keyId": "row-0-9",
+          "normal": "፱",
+          "shift": "፱"
+        },
+        {
+          "keyId": "row-0-10",
+          "normal": "፲",
+          "shift": "፲"
+        }
       ]
     },
     {
       "rowId": "row-1",
       "keys": [
-        { "keyId": "row-1-1", "normal": "ሀ", "shift": "ሀ" },
-        { "keyId": "row-1-2", "normal": "ለ", "shift": "ለ" },
-        { "keyId": "row-1-3", "normal": "ሐ", "shift": "ሐ" },
-        { "keyId": "row-1-4", "normal": "መ", "shift": "መ" },
-        { "keyId": "row-1-5", "normal": "ሠ", "shift": "ሠ" },
-        { "keyId": "row-1-6", "normal": "ረ", "shift": "ረ" },
-        { "keyId": "row-1-7", "normal": "ሰ", "shift": "ሰ" },
-        { "keyId": "row-1-8", "normal": "ሸ", "shift": "ሸ" },
-        { "keyId": "row-1-9", "normal": "ቀ", "shift": "ቀ" },
-        { "keyId": "row-1-10", "normal": "በ", "shift": "በ" },
-        { "keyId": "row-1-11", "normal": "ተ", "shift": "ተ" },
-        { "keyId": "row-1-12", "normal": "ቸ", "shift": "ቸ" }
+        {
+          "keyId": "row-1-1",
+          "normal": "ሀ",
+          "shift": "ሀ"
+        },
+        {
+          "keyId": "row-1-2",
+          "normal": "ለ",
+          "shift": "ለ"
+        },
+        {
+          "keyId": "row-1-3",
+          "normal": "ሐ",
+          "shift": "ሐ"
+        },
+        {
+          "keyId": "row-1-4",
+          "normal": "መ",
+          "shift": "መ"
+        },
+        {
+          "keyId": "row-1-5",
+          "normal": "ሠ",
+          "shift": "ሠ"
+        },
+        {
+          "keyId": "row-1-6",
+          "normal": "ረ",
+          "shift": "ረ"
+        },
+        {
+          "keyId": "row-1-7",
+          "normal": "ሰ",
+          "shift": "ሰ"
+        },
+        {
+          "keyId": "row-1-8",
+          "normal": "ሸ",
+          "shift": "ሸ"
+        },
+        {
+          "keyId": "row-1-9",
+          "normal": "ቀ",
+          "shift": "ቀ"
+        },
+        {
+          "keyId": "row-1-10",
+          "normal": "በ",
+          "shift": "በ"
+        },
+        {
+          "keyId": "row-1-11",
+          "normal": "ተ",
+          "shift": "ተ"
+        },
+        {
+          "keyId": "row-1-12",
+          "normal": "ቸ",
+          "shift": "ቸ"
+        }
       ]
     },
     {
       "rowId": "row-2",
       "keys": [
-        { "keyId": "row-2-1", "normal": "ኀ", "shift": "ኀ" },
-        { "keyId": "row-2-2", "normal": "ነ", "shift": "ነ" },
-        { "keyId": "row-2-3", "normal": "ኘ", "shift": "ኘ" },
-        { "keyId": "row-2-4", "normal": "አ", "shift": "አ" },
-        { "keyId": "row-2-5", "normal": "ከ", "shift": "ከ" },
-        { "keyId": "row-2-6", "normal": "ኸ", "shift": "ኸ" },
-        { "keyId": "row-2-7", "normal": "ወ", "shift": "ወ" },
-        { "keyId": "row-2-8", "normal": "ዐ", "shift": "ዐ" },
-        { "keyId": "row-2-9", "normal": "ዘ", "shift": "ዘ" },
-        { "keyId": "row-2-10", "normal": "ዠ", "shift": "ዠ" },
-        { "keyId": "row-2-11", "normal": "የ", "shift": "የ" },
-        { "keyId": "row-2-12", "normal": "ደ", "shift": "ደ" }
+        {
+          "keyId": "row-2-1",
+          "normal": "ኀ",
+          "shift": "ኀ"
+        },
+        {
+          "keyId": "row-2-2",
+          "normal": "ነ",
+          "shift": "ነ"
+        },
+        {
+          "keyId": "row-2-3",
+          "normal": "ኘ",
+          "shift": "ኘ"
+        },
+        {
+          "keyId": "row-2-4",
+          "normal": "አ",
+          "shift": "አ"
+        },
+        {
+          "keyId": "row-2-5",
+          "normal": "ከ",
+          "shift": "ከ"
+        },
+        {
+          "keyId": "row-2-6",
+          "normal": "ኸ",
+          "shift": "ኸ"
+        },
+        {
+          "keyId": "row-2-7",
+          "normal": "ወ",
+          "shift": "ወ"
+        },
+        {
+          "keyId": "row-2-8",
+          "normal": "ዐ",
+          "shift": "ዐ"
+        },
+        {
+          "keyId": "row-2-9",
+          "normal": "ዘ",
+          "shift": "ዘ"
+        },
+        {
+          "keyId": "row-2-10",
+          "normal": "ዠ",
+          "shift": "ዠ"
+        },
+        {
+          "keyId": "row-2-11",
+          "normal": "የ",
+          "shift": "የ"
+        },
+        {
+          "keyId": "row-2-12",
+          "normal": "ደ",
+          "shift": "ደ"
+        }
       ]
     },
     {
       "rowId": "row-3",
       "keys": [
-        { "keyId": "row-3-1", "normal": "ጀ", "shift": "ጀ" },
-        { "keyId": "row-3-2", "normal": "ገ", "shift": "ገ" },
-        { "keyId": "row-3-3", "normal": "ጠ", "shift": "ጠ" },
-        { "keyId": "row-3-4", "normal": "ጨ", "shift": "ጨ" },
-        { "keyId": "row-3-5", "normal": "ጰ", "shift": "ጰ" },
-        { "keyId": "row-3-6", "normal": "ጸ", "shift": "ጸ" },
-        { "keyId": "row-3-7", "normal": "ፀ", "shift": "ፀ" },
-        { "keyId": "row-3-8", "normal": "ፈ", "shift": "ፈ" },
-        { "keyId": "row-3-9", "normal": "ፐ", "shift": "ፐ" }
+        {
+          "keyId": "row-3-1",
+          "normal": "ጀ",
+          "shift": "ጀ"
+        },
+        {
+          "keyId": "row-3-2",
+          "normal": "ገ",
+          "shift": "ገ"
+        },
+        {
+          "keyId": "row-3-3",
+          "normal": "ጠ",
+          "shift": "ጠ"
+        },
+        {
+          "keyId": "row-3-4",
+          "normal": "ጨ",
+          "shift": "ጨ"
+        },
+        {
+          "keyId": "row-3-5",
+          "normal": "ጰ",
+          "shift": "ጰ"
+        },
+        {
+          "keyId": "row-3-6",
+          "normal": "ጸ",
+          "shift": "ጸ"
+        },
+        {
+          "keyId": "row-3-7",
+          "normal": "ፀ",
+          "shift": "ፀ"
+        },
+        {
+          "keyId": "row-3-8",
+          "normal": "ፈ",
+          "shift": "ፈ"
+        },
+        {
+          "keyId": "row-3-9",
+          "normal": "ፐ",
+          "shift": "ፐ"
+        }
       ]
     }
   ]
