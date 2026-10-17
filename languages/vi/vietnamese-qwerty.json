@@ -17,7 +17,7 @@
   "provenance": {
     "reference": "https://www.branah.com/vietnamese",
     "verification": "json-valid",
-    "notes": "Plain US QWERTY base. Real Vietnamese input relies on Telex or VNI input methods to compose diacritics and tone marks (e.g. aa -> â, as -> á), which cannot be represented as static keys. Diacritics must come via an input method; this layout provides the base alphabet only."
+    "notes": "Base US-QWERTY alphabet PLUS the seven Vietnamese-specific direct letters ă â đ ê ô ơ ư (with uppercase on Shift). Tone marks (á à ả ã ạ …) still require a Telex/VNI input method, which composes diacritics dynamically and cannot be represented as static keys; those are not provided here."
   },
   "rows": [
     {
@@ -127,6 +127,21 @@
           "keyId": "row-1-10",
           "normal": "p",
           "shift": "P"
+        },
+        {
+          "keyId": "row-1-11",
+          "normal": "ă",
+          "shift": "Ă"
+        },
+        {
+          "keyId": "row-1-12",
+          "normal": "â",
+          "shift": "Â"
+        },
+        {
+          "keyId": "row-1-13",
+          "normal": "ê",
+          "shift": "Ê"
         }
       ]
     },
@@ -177,6 +192,21 @@
           "keyId": "row-2-9",
           "normal": "l",
           "shift": "L"
+        },
+        {
+          "keyId": "row-2-10",
+          "normal": "ô",
+          "shift": "Ô"
+        },
+        {
+          "keyId": "row-2-11",
+          "normal": "ơ",
+          "shift": "Ơ"
+        },
+        {
+          "keyId": "row-2-12",
+          "normal": "ư",
+          "shift": "Ư"
         }
       ]
     },
@@ -217,6 +247,11 @@
           "keyId": "row-3-7",
           "normal": "m",
           "shift": "M"
+        },
+        {
+          "keyId": "row-3-10",
+          "normal": "đ",
+          "shift": "Đ"
         },
         {
           "keyId": "row-3-8",

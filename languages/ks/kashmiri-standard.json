@@ -17,7 +17,7 @@
   "provenance": {
     "reference": "https://www.branah.com/kashmiri",
     "verification": "json-valid",
-    "notes": "Kashmiri uses an extended Perso-Arabic script (Urdu-like base plus extra vowel signs/letters), written right-to-left. Base consonants are arranged across 4 rows as a best-effort; the many Kashmiri-specific vowel diacritics are not fully represented. Verify against branah.com/kashmiri."
+    "notes": "Kashmiri uses an extended Perso-Arabic script (Urdu-like base plus extra vowel signs/letters), written right-to-left. Base consonants are arranged across 4 rows as a best-effort; the many Kashmiri-specific vowel diacritics are not fully represented. Verify against branah.com/kashmiri. Caseless script: letters are unchanged by Shift. Shift provides a secondary symbol layer on the number row (standard punctuation, by position). Native digits remain on the base layer."
   },
   "rows": [
     {
@@ -26,52 +26,52 @@
         {
           "keyId": "row-0-1",
           "normal": "۱",
-          "shift": "۱"
+          "shift": "!"
         },
         {
           "keyId": "row-0-2",
           "normal": "۲",
-          "shift": "۲"
+          "shift": "@"
         },
         {
           "keyId": "row-0-3",
           "normal": "۳",
-          "shift": "۳"
+          "shift": "#"
         },
         {
           "keyId": "row-0-4",
           "normal": "۴",
-          "shift": "۴"
+          "shift": "$"
         },
         {
           "keyId": "row-0-5",
           "normal": "۵",
-          "shift": "۵"
+          "shift": "%"
         },
         {
           "keyId": "row-0-6",
           "normal": "۶",
-          "shift": "۶"
+          "shift": "^"
         },
         {
           "keyId": "row-0-7",
           "normal": "۷",
-          "shift": "۷"
+          "shift": "&"
         },
         {
           "keyId": "row-0-8",
           "normal": "۸",
-          "shift": "۸"
+          "shift": "*"
         },
         {
           "keyId": "row-0-9",
           "normal": "۹",
-          "shift": "۹"
+          "shift": "("
         },
         {
           "keyId": "row-0-10",
           "normal": "۰",
-          "shift": "۰"
+          "shift": ")"
         }
       ]
     },

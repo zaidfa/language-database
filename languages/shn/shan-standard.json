@@ -17,7 +17,7 @@
   "provenance": {
     "reference": "https://www.branah.com/shan",
     "verification": "json-valid",
-    "notes": "Shan is written with a Myanmar-script variant. Base consonants are arranged across 4 rows as a best-effort; dependent vowels, tone marks and medials are not fully represented. Verify against branah.com/shan."
+    "notes": "Shan is written with a Myanmar-script variant. Base consonants are arranged across 4 rows as a best-effort; dependent vowels, tone marks and medials are not fully represented. Verify against branah.com/shan. Caseless script: letters are unchanged by Shift. Shift provides a secondary symbol layer on the number row (standard punctuation, by position). Native digits remain on the base layer."
   },
   "rows": [
     {
@@ -26,52 +26,52 @@
         {
           "keyId": "row-0-1",
           "normal": "႑",
-          "shift": "႑"
+          "shift": "!"
         },
         {
           "keyId": "row-0-2",
           "normal": "႒",
-          "shift": "႒"
+          "shift": "@"
         },
         {
           "keyId": "row-0-3",
           "normal": "႓",
-          "shift": "႓"
+          "shift": "#"
         },
         {
           "keyId": "row-0-4",
           "normal": "႔",
-          "shift": "႔"
+          "shift": "$"
         },
         {
           "keyId": "row-0-5",
           "normal": "႕",
-          "shift": "႕"
+          "shift": "%"
         },
         {
           "keyId": "row-0-6",
           "normal": "႖",
-          "shift": "႖"
+          "shift": "^"
         },
         {
           "keyId": "row-0-7",
           "normal": "႗",
-          "shift": "႗"
+          "shift": "&"
         },
         {
           "keyId": "row-0-8",
           "normal": "႘",
-          "shift": "႘"
+          "shift": "*"
         },
         {
           "keyId": "row-0-9",
           "normal": "႙",
-          "shift": "႙"
+          "shift": "("
         },
         {
           "keyId": "row-0-10",
           "normal": "႐",
-          "shift": "႐"
+          "shift": ")"
         }
       ]
     },

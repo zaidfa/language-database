@@ -17,7 +17,7 @@
   "provenance": {
     "reference": "https://www.branah.com/yiddish",
     "verification": "json-valid",
-    "notes": "Yiddish is written in the Hebrew script, right-to-left. Base letters and final (sofit) forms are arranged across 4 rows as a best-effort; diacritics (nikud) and digraphs are not fully represented. Verify against branah.com/yiddish."
+    "notes": "Yiddish is written in the Hebrew script, right-to-left. Base letters and final (sofit) forms are arranged across 4 rows as a best-effort; diacritics (nikud) and digraphs are not fully represented. Verify against branah.com/yiddish. Caseless script: letters are unchanged by Shift. Shift provides a secondary layer of standard symbols on the number row (US punctuation). Verify desired secondary characters per language."
   },
   "rows": [
     {
@@ -26,52 +26,52 @@
         {
           "keyId": "row-0-1",
           "normal": "1",
-          "shift": "1"
+          "shift": "!"
         },
         {
           "keyId": "row-0-2",
           "normal": "2",
-          "shift": "2"
+          "shift": "@"
         },
         {
           "keyId": "row-0-3",
           "normal": "3",
-          "shift": "3"
+          "shift": "#"
         },
         {
           "keyId": "row-0-4",
           "normal": "4",
-          "shift": "4"
+          "shift": "$"
         },
         {
           "keyId": "row-0-5",
           "normal": "5",
-          "shift": "5"
+          "shift": "%"
         },
         {
           "keyId": "row-0-6",
           "normal": "6",
-          "shift": "6"
+          "shift": "^"
         },
         {
           "keyId": "row-0-7",
           "normal": "7",
-          "shift": "7"
+          "shift": "&"
         },
         {
           "keyId": "row-0-8",
           "normal": "8",
-          "shift": "8"
+          "shift": "*"
         },
         {
           "keyId": "row-0-9",
           "normal": "9",
-          "shift": "9"
+          "shift": "("
         },
         {
           "keyId": "row-0-10",
           "normal": "0",
-          "shift": "0"
+          "shift": ")"
         }
       ]
     },

@@ -133,8 +133,8 @@
           "layoutName": "Amharic (Geʽez)",
           "path": "languages/am/amharic-fidel.json",
           "formatVersion": 1,
-          "sizeBytes": 5367,
-          "sha256": "1852c76d5589ed7c6d63d118286b5df2ea197464e4906c4ec06630b68957ebbb",
+          "sizeBytes": 5555,
+          "sha256": "0281d687c5e0a01d2a6d774198b4bd9e820c3380354dfff826cbd8d0e4ccaeca",
           "verification": "json-valid"
         }
       ]
@@ -727,8 +727,8 @@
           "layoutName": "Buginese (Lontara)",
           "path": "languages/bug/buginese-lontara.json",
           "formatVersion": 1,
-          "sizeBytes": 4208,
-          "sha256": "0420fb9a0c4a353d77c9309389361b49dfe8185f93486dddcdb14a0d6bf9b239",
+          "sizeBytes": 4396,
+          "sha256": "d8ab89f2630b363dba1c47950468a37be540bf052c18989263bdffe95cbda96e",
           "verification": "json-valid"
         }
       ]
@@ -862,8 +862,8 @@
           "layoutName": "Cherokee (Syllabary)",
           "path": "languages/chr/cherokee-syllabary.json",
           "formatVersion": 1,
-          "sizeBytes": 5458,
-          "sha256": "2514427a1368032b40336261ea0e298c07051daca953f495d66988b58a6337f3",
+          "sizeBytes": 5646,
+          "sha256": "3a82f51f6cd864775ec32572b8d44ff699e7bf7afe29add4953c8a5d242df7c4",
           "verification": "json-valid"
         }
       ]
@@ -943,8 +943,8 @@
           "layoutName": "Cree (Syllabics)",
           "path": "languages/cr/cree-syllabics.json",
           "formatVersion": 1,
-          "sizeBytes": 5560,
-          "sha256": "626e61a77e338323176456c647768e25cfc10b3242f2c21bf744e24fa0af0b51",
+          "sizeBytes": 5748,
+          "sha256": "c7ed0a849c64b996151d129753ac37b7bb97e84d2328ff73e744ca1db5fe6607",
           "verification": "json-valid"
         }
       ]
@@ -1888,8 +1888,8 @@
           "layoutName": "Hebrew (Standard)",
           "path": "languages/he/hebrew-standard.json",
           "formatVersion": 1,
-          "sizeBytes": 4805,
-          "sha256": "9162f34ac2d68381123634bd1f8cc97cbc2efe5e9162a46ab86320304bfc339c",
+          "sizeBytes": 4993,
+          "sha256": "f2279f71b1490858c1c358216e04956c452b64841c8cf8bc284040622391b74e",
           "verification": "layout-reviewed"
         }
       ]
@@ -2158,8 +2158,8 @@
           "layoutName": "Nuosu (Yi)",
           "path": "languages/ii/nuosu-yi.json",
           "formatVersion": 1,
-          "sizeBytes": 5732,
-          "sha256": "2df9e11081d096b3e833a854151c88e3ca67b26304e06469c092bccb2d406991",
+          "sizeBytes": 5920,
+          "sha256": "c106927a7f5057473c6763a0ba185a7783c85e4402ec6e79d3940260685c0715",
           "verification": "json-valid"
         }
       ]
@@ -2266,8 +2266,8 @@
           "layoutName": "Inuktitut (Syllabics)",
           "path": "languages/iu/inuktitut-syllabics.json",
           "formatVersion": 1,
-          "sizeBytes": 5486,
-          "sha256": "cf19da080a030709158dd60110593bda239b8a0318efcc45c512a6a1c211a50f",
+          "sizeBytes": 5674,
+          "sha256": "2d917f396c8b58a8e8d716c680cd1cacdb1e0902b0fd1a3071ba26eba4e507de",
           "verification": "json-valid"
         }
       ]
@@ -2644,8 +2644,8 @@
           "layoutName": "Kashmiri",
           "path": "languages/ks/kashmiri-standard.json",
           "formatVersion": 1,
-          "sizeBytes": 5571,
-          "sha256": "6eca4f71f48a761b50a59c82fbe97e8aefd06356ffe4f4ab8ef7d695dc9edd40",
+          "sizeBytes": 5745,
+          "sha256": "84806e8c82253d7ba24c0cd9bf9df79bbb024e9c28b8d2f957e8f66cbcefb865",
           "verification": "json-valid"
         }
       ]
@@ -2860,8 +2860,8 @@
           "layoutName": "Lisu (Fraser)",
           "path": "languages/lis/lisu-fraser.json",
           "formatVersion": 1,
-          "sizeBytes": 5198,
-          "sha256": "2ddb90371a85c108e4629dfa712c4074572c7243da659b0064d013e7174e90df",
+          "sizeBytes": 5386,
+          "sha256": "f1b27eacbacee345b2c3b08acd165ff2907e7507b2c7f31f5854a584347b10b3",
           "verification": "json-valid"
         }
       ]
@@ -3589,8 +3589,8 @@
           "layoutName": "N'Ko",
           "path": "languages/nqo/nko-standard.json",
           "formatVersion": 1,
-          "sizeBytes": 4857,
-          "sha256": "6f14cfa9b177dd412df0123989f65f12b14121e3913d46925fa3e599be81d68e",
+          "sizeBytes": 5031,
+          "sha256": "cf8f3eb56447e7ad061fa8f7ecbc3c38a08991e2e25f847cbce9e8ac1e54e3fa",
           "verification": "json-valid"
         }
       ]
@@ -4183,8 +4183,8 @@
           "layoutName": "Santali (Ol Chiki)",
           "path": "languages/sat/santali-olchiki.json",
           "formatVersion": 1,
-          "sizeBytes": 5254,
-          "sha256": "f722c3f21162dc52cf5d32c5f1724262adc775a42c596bca4b210f04924e1783",
+          "sizeBytes": 5418,
+          "sha256": "763f7303582e9fd520981d3e4b9a9f81ff9e5661f41f85551d97a140bce78eee",
           "verification": "json-valid"
         }
       ]
@@ -4345,8 +4345,8 @@
           "layoutName": "Shan",
           "path": "languages/shn/shan-standard.json",
           "formatVersion": 1,
-          "sizeBytes": 4754,
-          "sha256": "6ca4e855da8ca45007e5c18644c706c487724d4a9a5b0a62dac0165e917191b4",
+          "sizeBytes": 4918,
+          "sha256": "d21816f3f9e217ab5c778cf1aa6d79dd47d188523b698c4f3cea239b50a4bb5a",
           "verification": "json-valid"
         }
       ]
@@ -4588,8 +4588,8 @@
           "layoutName": "Sora Sompeng",
           "path": "languages/srb/sora-sompeng.json",
           "formatVersion": 1,
-          "sizeBytes": 4594,
-          "sha256": "c99e142662ff770a14f6a7cbcadba77bbe7b6aeaba11b389088f7745600f96fa",
+          "sizeBytes": 4748,
+          "sha256": "36b8c487ccc27f50a13e77a4302833b5436d2c5fb46159d65706a4b0e8b03c27",
           "verification": "json-valid"
         }
       ]
@@ -4750,8 +4750,8 @@
           "layoutName": "Syriac",
           "path": "languages/syr/syriac-standard.json",
           "formatVersion": 1,
-          "sizeBytes": 4209,
-          "sha256": "3fbdaea421def61bbc18bb05f597b3f2678752ae4fd4e1ca1f46225a920c7299",
+          "sizeBytes": 4397,
+          "sha256": "428ced1cf7e459b72808ad27564fe496c9f6122072a960d52f1381176954707b",
           "verification": "json-valid"
         }
       ]
@@ -4939,8 +4939,8 @@
           "layoutName": "Tigrinya (Geʽez)",
           "path": "languages/ti/tigrinya-fidel.json",
           "formatVersion": 1,
-          "sizeBytes": 5433,
-          "sha256": "28a4523fbe32474aa7769c15390ea77762f338253713709fb2c0bb1da72da145",
+          "sizeBytes": 5597,
+          "sha256": "6a35d0bb256bfe5ce8a0f1711bb420b8a2a59eecd2009cb1d2352dbc2694ce8b",
           "verification": "json-valid"
         }
       ]
@@ -5371,8 +5371,8 @@
           "layoutName": "Vai (Syllabary)",
           "path": "languages/vai/vai-syllabary.json",
           "formatVersion": 1,
-          "sizeBytes": 5726,
-          "sha256": "19bb7e0909b24dfcc2900f82df3ff5951b4a2f83e5c53d5865625654b497c8c7",
+          "sizeBytes": 5914,
+          "sha256": "c91c7e12102d3d31c74c6a1b2cdd6a9173fd62ae172080e3c45e718fe7a9f6f4",
           "verification": "json-valid"
         }
       ]
@@ -5452,8 +5452,8 @@
           "layoutName": "Vietnamese QWERTY",
           "path": "languages/vi/vietnamese-qwerty.json",
           "formatVersion": 1,
-          "sizeBytes": 4788,
-          "sha256": "392178cae3cf73d6ec1bac8ceb042a4791654d2d002f2e78bfbd8d9940e90825",
+          "sizeBytes": 5531,
+          "sha256": "d2fee7a8d04d5be9ccb006ac6e5c78231494400c467fb7e628d1d46a00291ce5",
           "verification": "json-valid"
         }
       ]
@@ -5614,8 +5614,8 @@
           "layoutName": "Yiddish",
           "path": "languages/yi/yiddish-standard.json",
           "formatVersion": 1,
-          "sizeBytes": 4685,
-          "sha256": "7375eb41f22c6b2e8e62e8d008100683cfe1a35a64f7294d4046704c0d596a4b",
+          "sizeBytes": 4873,
+          "sha256": "d6efe58644e210bedd0cd4f2da132c37bf86abce02d6961557b97d3326658407",
           "verification": "json-valid"
         }
       ]
@@ -5695,8 +5695,8 @@
           "layoutName": "Tamazight (Tifinagh)",
           "path": "languages/zgh/tamazight-tifinagh.json",
           "formatVersion": 1,
-          "sizeBytes": 5328,
-          "sha256": "071f3d92757161b7399032745039e9aa93bafdbf6591583354538cd95a1562a5",
+          "sizeBytes": 5516,
+          "sha256": "f12e77b25b22b727fbef4b58170c0adb6d9901d2b090b8c30f03a1d2f2735e73",
           "verification": "json-valid"
         }
       ]

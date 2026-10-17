@@ -17,7 +17,7 @@
   "provenance": {
     "reference": "https://www.branah.com/",
     "verification": "json-valid",
-    "notes": "Sora Sompeng is an alphabetic script in the Unicode Supplementary Multilingual Plane (U+110D0..U+110E8). Each letter is a single code point (one 4-byte UTF-8 sequence / surrogate pair). This is a best-effort left-to-right arrangement of the 23 letters across 4 rows; there is no standard physical keyboard order, so positions need verification. row-0 holds Sora Sompeng digits (U+110F0..U+110F9)."
+    "notes": "Sora Sompeng is an alphabetic script in the Unicode Supplementary Multilingual Plane (U+110D0..U+110E8). Each letter is a single code point (one 4-byte UTF-8 sequence / surrogate pair). This is a best-effort left-to-right arrangement of the 23 letters across 4 rows; there is no standard physical keyboard order, so positions need verification. row-0 holds Sora Sompeng digits (U+110F0..U+110F9). Caseless script: letters are unchanged by Shift. Shift provides a secondary symbol layer on the number row (standard punctuation, by position). Native digits remain on the base layer."
   },
   "rows": [
     {
@@ -26,52 +26,52 @@
         {
           "keyId": "row-0-1",
           "normal": "𑃱",
-          "shift": "𑃱"
+          "shift": "!"
         },
         {
           "keyId": "row-0-2",
           "normal": "𑃲",
-          "shift": "𑃲"
+          "shift": "@"
         },
         {
           "keyId": "row-0-3",
           "normal": "𑃳",
-          "shift": "𑃳"
+          "shift": "#"
         },
         {
           "keyId": "row-0-4",
           "normal": "𑃴",
-          "shift": "𑃴"
+          "shift": "$"
         },
         {
           "keyId": "row-0-5",
           "normal": "𑃵",
-          "shift": "𑃵"
+          "shift": "%"
         },
         {
           "keyId": "row-0-6",
           "normal": "𑃶",
-          "shift": "𑃶"
+          "shift": "^"
         },
         {
           "keyId": "row-0-7",
           "normal": "𑃷",
-          "shift": "𑃷"
+          "shift": "&"
         },
         {
           "keyId": "row-0-8",
           "normal": "𑃸",
-          "shift": "𑃸"
+          "shift": "*"
         },
         {
           "keyId": "row-0-9",
           "normal": "𑃹",
-          "shift": "𑃹"
+          "shift": "("
         },
         {
           "keyId": "row-0-10",
           "normal": "𑃰",
-          "shift": "𑃰"
+          "shift": ")"
         }
       ]
     },

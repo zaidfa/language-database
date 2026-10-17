@@ -17,7 +17,7 @@
   "provenance": {
     "reference": "https://www.branah.com/nko",
     "verification": "json-valid",
-    "notes": "N'Ko is a West-African script written right-to-left. Vowels and consonants are arranged across 4 rows as a best-effort; tone marks and diacritics are not fully represented. Verify against branah.com/nko."
+    "notes": "N'Ko is a West-African script written right-to-left. Vowels and consonants are arranged across 4 rows as a best-effort; tone marks and diacritics are not fully represented. Verify against branah.com/nko. Caseless script: letters are unchanged by Shift. Shift provides a secondary symbol layer on the number row (standard punctuation, by position). Native digits remain on the base layer."
   },
   "rows": [
     {
@@ -26,52 +26,52 @@
         {
           "keyId": "row-0-1",
           "normal": "߁",
-          "shift": "߁"
+          "shift": "!"
         },
         {
           "keyId": "row-0-2",
           "normal": "߂",
-          "shift": "߂"
+          "shift": "@"
         },
         {
           "keyId": "row-0-3",
           "normal": "߃",
-          "shift": "߃"
+          "shift": "#"
         },
         {
           "keyId": "row-0-4",
           "normal": "߄",
-          "shift": "߄"
+          "shift": "$"
         },
         {
           "keyId": "row-0-5",
           "normal": "߅",
-          "shift": "߅"
+          "shift": "%"
         },
         {
           "keyId": "row-0-6",
           "normal": "߆",
-          "shift": "߆"
+          "shift": "^"
         },
         {
           "keyId": "row-0-7",
           "normal": "߇",
-          "shift": "߇"
+          "shift": "&"
         },
         {
           "keyId": "row-0-8",
           "normal": "߈",
-          "shift": "߈"
+          "shift": "*"
         },
         {
           "keyId": "row-0-9",
           "normal": "߉",
-          "shift": "߉"
+          "shift": "("
         },
         {
           "keyId": "row-0-10",
           "normal": "߀",
-          "shift": "߀"
+          "shift": ")"
         }
       ]
     },
